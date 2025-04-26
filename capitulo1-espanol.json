@@ -1,0 +1,552 @@
+[
+  {
+    "question": "¿Cuál de las siguientes NO ES una función de la Junta de Contratistas de la Construcción de Oregón?",
+    "options": [
+      "Establecer una política e implementar la legislación.",
+      "Supervisar al administrador",
+      "Inspeccionar obras de construcción",
+      "Revisar apelaciones"
+    ],
+    "answer": "Inspeccionar obras de construcción",
+    "justification": "La Junta no inspecciona obras de construcción. Establece políticas, supervisa al administrador y revisa apelaciones."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones NO es requerida para mantener una licencia activa de contratista en Oregón?",
+    "options": [
+      "Pagar las tarifas de renovación a tiempo",
+      "Completar los cursos de educación continua requeridos",
+      "Mantener un seguro de responsabilidad vigente",
+      "Presentar reportes de inspección de obra cada año"
+    ],
+    "answer": "Presentar reportes de inspección de obra cada año",
+    "justification": "No es obligatorio presentar reportes de inspección anual. Se exige renovar licencias, pagar tarifas y mantener seguros vigentes."
+  },
+  {
+    "question": "¿Qué tipo de seguro es requerido para todos los contratistas con licencia en Oregón?",
+    "options": [
+      "Seguro de automóvil",
+      "Seguro médico",
+      "Seguro de responsabilidad general",
+      "Seguro de desempleo"
+    ],
+    "answer": "Seguro de responsabilidad general",
+    "justification": "El seguro de responsabilidad general protege a los contratistas de reclamaciones por daños o lesiones."
+  },
+  {
+    "question": "¿Qué entidad emite las licencias de contratistas en Oregón?",
+    "options": [
+      "Departamento de Construcción de Oregón",
+      "Departamento de Licencias y Regulaciones",
+      "Junta de Contratistas de la Construcción de Oregón (CCB)",
+      "Secretaría del Estado de Oregón"
+    ],
+    "answer": "Junta de Contratistas de la Construcción de Oregón (CCB)",
+    "justification": "La CCB (Construction Contractors Board) regula y emite licencias para contratistas en Oregón."
+  },
+  {
+    "question": "¿Cuánto tiempo es válida una licencia de contratista en Oregón antes de necesitar renovación?",
+    "options": [
+      "1 año",
+      "2 años",
+      "3 años",
+      "5 años"
+    ],
+    "answer": "2 años",
+    "justification": "Las licencias deben renovarse cada 2 años."
+  },
+{
+    "question": "¿Cuál es el nombre del curso requerido para contratistas antes de obtener su licencia en Oregón?",
+    "options": [
+      "Curso de Seguridad Laboral",
+      "Curso de Formación Empresarial para Contratistas",
+      "Curso de Inspección de Obras",
+      "Curso de Construcción Sostenible"
+    ],
+    "answer": "Curso de Formación Empresarial para Contratistas",
+    "justification": "Antes de aplicar para la licencia, los contratistas deben completar el curso de formación empresarial aprobado por la CCB."
+  },
+  {
+    "question": "¿Qué sucede si un contratista trabaja en Oregón sin tener licencia activa?",
+    "options": [
+      "Puede recibir una advertencia verbal",
+      "Puede ser multado y sancionado legalmente",
+      "No hay consecuencias",
+      "Solo debe pagar una multa administrativa simbólica"
+    ],
+    "answer": "Puede ser multado y sancionado legalmente",
+    "justification": "Trabajar sin licencia es una infracción seria que puede resultar en multas elevadas y sanciones legales en Oregón."
+  },
+  {
+    "question": "¿Qué documento debe mostrar un contratista con licencia a sus clientes en Oregón?",
+    "options": [
+      "Número de licencia CCB",
+      "Estado de cuenta bancario",
+      "Permiso de zonificación",
+      "Identificación estatal"
+    ],
+    "answer": "Número de licencia CCB",
+    "justification": "Los contratistas deben proporcionar su número de licencia CCB a los clientes como prueba de cumplimiento."
+  },
+  {
+    "question": "¿Qué pasa si un contratista no cumple con los requisitos de educación continua?",
+    "options": [
+      "Pierde automáticamente su licencia",
+      "No puede renovar su licencia hasta completar los requisitos",
+      "Recibe una multa, pero mantiene su licencia",
+      "Puede solicitar una prórroga indefinida"
+    ],
+    "answer": "No puede renovar su licencia hasta completar los requisitos",
+    "justification": "Los contratistas deben cumplir con los cursos de educación continua para ser elegibles para renovar su licencia en Oregón."
+  },
+  {
+    "question": "¿Quién puede presentar una queja contra un contratista en Oregón?",
+    "options": [
+      "Solo otras empresas",
+      "Solo empleados",
+      "Cualquier persona, incluidos clientes y trabajadores",
+      "Únicamente inspectores estatales"
+    ],
+    "answer": "Cualquier persona, incluidos clientes y trabajadores",
+    "justification": "Cualquier persona afectada puede presentar una queja ante la Junta de Contratistas de la Construcción en Oregón."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista en Oregón si cambia su dirección comercial?",
+    "options": [
+      "Nada, no es necesario actualizar la información",
+      "Actualizar su dirección con la CCB dentro de los 10 días",
+      "Solicitar una nueva licencia",
+      "Esperar hasta la renovación de la licencia para actualizarla"
+    ],
+    "answer": "Actualizar su dirección con la CCB dentro de los 10 días",
+    "justification": "Los contratistas deben informar a la CCB de cualquier cambio de dirección dentro de los 10 días para mantener su información actualizada."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de la Junta de Contratistas de la Construcción de Oregón (CCB)?",
+    "options": [
+      "Proteger a los contratistas de demandas",
+      "Educar a los clientes sobre construcción",
+      "Proteger a los consumidores regulando la industria de la construcción",
+      "Realizar inspecciones de seguridad laboral"
+    ],
+    "answer": "Proteger a los consumidores regulando la industria de la construcción",
+    "justification": "La CCB protege a los consumidores asegurando que los contratistas cumplan con leyes y estándares."
+  },
+  {
+    "question": "¿Qué pasa si un contratista proporciona información falsa en su solicitud de licencia?",
+    "options": [
+      "Recibe una advertencia",
+      "Puede ser negada o revocada la licencia",
+      "No ocurre nada",
+      "Debe pagar una multa simbólica"
+    ],
+    "answer": "Puede ser negada o revocada la licencia",
+    "justification": "Proporcionar información falsa es una violación grave que puede resultar en la negación o revocación de la licencia."
+  },
+  {
+    "question": "¿Qué tipos de licencias ofrece la Junta de Contratistas de Oregón?",
+    "options": [
+      "Solo licencias residenciales",
+      "Solo licencias comerciales",
+      "Licencias comerciales, residenciales y combinadas",
+      "Solo licencias para construcción de carreteras"
+    ],
+    "answer": "Licencias comerciales, residenciales y combinadas",
+    "justification": "La CCB ofrece licencias para trabajo residencial, comercial o una combinación de ambos."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista antes de realizar cualquier trabajo que exceda los $2,000 en Oregón?",
+    "options": [
+      "Nada, puede iniciar de inmediato",
+      "Registrar el proyecto en la CCB",
+      "Obtener un permiso de construcción y estar licenciado",
+      "Pedir autorización verbal al cliente"
+    ],
+    "answer": "Obtener un permiso de construcción y estar licenciado",
+    "justification": "Cualquier trabajo significativo requiere que el contratista esté licenciado y obtenga los permisos necesarios."
+  },
+{
+    "question": "¿Cuál es una de las razones más comunes por las cuales un contratista puede ser sancionado por la CCB?",
+    "options": [
+      "No pagar impuestos federales",
+      "No usar cascos de seguridad en obra",
+      "Trabajar sin contrato escrito en proyectos que lo requieren",
+      "Registrar tarde el nombre comercial"
+    ],
+    "answer": "Trabajar sin contrato escrito en proyectos que lo requieren",
+    "justification": "En muchos casos, los contratos escritos son obligatorios, y no tener uno puede llevar a sanciones por parte de la CCB."
+  },
+  {
+    "question": "¿Qué seguro adicional puede ser requerido si el contratista tiene empleados?",
+    "options": [
+      "Seguro contra incendios",
+      "Seguro de compensación para trabajadores",
+      "Seguro de propiedad comercial",
+      "Seguro de automóviles personales"
+    ],
+    "answer": "Seguro de compensación para trabajadores",
+    "justification": "Los contratistas con empleados deben tener seguro de compensación para trabajadores en Oregón."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista si su seguro de responsabilidad expira mientras su licencia está activa?",
+    "options": [
+      "Esperar a renovarlo al momento de renovar su licencia",
+      "Notificar a sus clientes",
+      "Dejar de trabajar hasta que renueve el seguro",
+      "No es necesario renovarlo inmediatamente"
+    ],
+    "answer": "Dejar de trabajar hasta que renueve el seguro",
+    "justification": "Sin seguro de responsabilidad activo, el contratista no puede operar legalmente en Oregón hasta renovarlo."
+  },
+  {
+    "question": "¿Qué pasa si un contratista cambia el nombre bajo el cual hace negocios?",
+    "options": [
+      "Puede seguir usando la misma licencia",
+      "Debe registrar el nuevo nombre ante la CCB",
+      "Solo necesita notificar a sus clientes",
+      "Debe reiniciar el proceso de solicitud de licencia"
+    ],
+    "answer": "Debe registrar el nuevo nombre ante la CCB",
+    "justification": "Cualquier cambio de nombre debe ser actualizado formalmente ante la CCB para mantener la validez de la licencia."
+  },
+  {
+    "question": "¿Qué debe hacer un cliente para confirmar si un contratista está licenciado en Oregón?",
+    "options": [
+      "Llamar al contratista directamente",
+      "Solicitar referencias",
+      "Verificar el número de licencia en el sitio web de la CCB",
+      "Preguntar al inspector de obras"
+    ],
+    "answer": "Verificar el número de licencia en el sitio web de la CCB",
+    "justification": "El sitio web oficial de la CCB permite a los consumidores verificar licencias activas y el historial de cumplimiento de un contratista."
+  },
+ {
+    "question": "¿Qué sucede si un contratista de Oregón no renueva su licencia antes de la fecha de expiración?",
+    "options": [
+      "Puede seguir trabajando 6 meses sin problema",
+      "Debe dejar de trabajar inmediatamente hasta renovar",
+      "Pierde su licencia de forma permanente",
+      "Solo recibe una multa, pero sigue trabajando"
+    ],
+    "answer": "Debe dejar de trabajar inmediatamente hasta renovar",
+    "justification": "Una licencia vencida invalida la autorización del contratista para operar legalmente hasta que sea renovada."
+  },
+  {
+    "question": "¿Qué sección del contrato debe describir claramente los términos de pago en un proyecto?",
+    "options": [
+      "Sección de garantías",
+      "Sección de cancelaciones",
+      "Sección de cronograma de pagos",
+      "Sección de seguro de responsabilidad"
+    ],
+    "answer": "Sección de cronograma de pagos",
+    "justification": "El contrato debe especificar cuándo y cómo se realizarán los pagos, protegiendo a ambas partes."
+  },
+  {
+    "question": "¿Cuál es una obligación del contratista respecto al personal empleado en un proyecto?",
+    "options": [
+      "Proporcionar herramientas sin costo",
+      "Proporcionar almuerzos gratuitos",
+      "Asegurarse de que estén cubiertos por seguro de compensación para trabajadores",
+      "Pagar el transporte diario al sitio de obra"
+    ],
+    "answer": "Asegurarse de que estén cubiertos por seguro de compensación para trabajadores",
+    "justification": "Todos los empleados deben tener cobertura de seguro de compensación de trabajadores para proteger en caso de accidentes laborales."
+  },
+  {
+    "question": "¿Qué multa puede enfrentar un contratista que opera sin seguro válido de responsabilidad?",
+    "options": [
+      "Advertencia verbal",
+      "Hasta $5,000",
+      "Solo pierde su licencia sin multa",
+      "Hasta $500"
+    ],
+    "answer": "Hasta $5,000",
+    "justification": "Trabajar sin seguro puede acarrear multas de hasta $5,000, además de otras sanciones."
+  },
+  {
+    "question": "¿Cuál es uno de los beneficios de contratar a un contratista con licencia activa?",
+    "options": [
+      "El proyecto será más barato",
+      "El contratista tiene acceso a subsidios estatales",
+      "El cliente puede presentar reclamos ante la CCB si hay problemas",
+      "Se garantiza que los materiales serán de mejor calidad"
+    ],
+    "answer": "El cliente puede presentar reclamos ante la CCB si hay problemas",
+    "justification": "Contratar a un contratista licenciado brinda protección adicional al consumidor a través de mecanismos oficiales de reclamo."
+  },
+{
+    "question": "¿Qué entidad puede investigar las quejas presentadas contra un contratista en Oregón?",
+    "options": [
+      "La policía estatal",
+      "La Junta de Contratistas de la Construcción (CCB)",
+      "El departamento de impuestos",
+      "La asociación de constructores locales"
+    ],
+    "answer": "La Junta de Contratistas de la Construcción (CCB)",
+    "justification": "La CCB es la entidad responsable de investigar quejas contra contratistas en Oregón."
+  },
+  {
+    "question": "¿Qué pasa si un contratista opera en un área fuera de su licencia específica (por ejemplo, hace trabajo comercial teniendo solo licencia residencial)?",
+    "options": [
+      "Debe pagar una tarifa adicional",
+      "No hay problema mientras tenga licencia",
+      "Está violando las condiciones de su licencia",
+      "Solo necesita notificar al cliente"
+    ],
+    "answer": "Está violando las condiciones de su licencia",
+    "justification": "Un contratista debe trabajar solo dentro del tipo de licencia que posee; hacerlo fuera de eso es una violación."
+  },
+  {
+    "question": "¿Qué debe incluir un contrato para proteger tanto al cliente como al contratista?",
+    "options": [
+      "El tipo de materiales que se usarán",
+      "El color preferido de pintura",
+      "Las preferencias personales del cliente",
+      "Los horarios de comida del equipo de obra"
+    ],
+    "answer": "El tipo de materiales que se usarán",
+    "justification": "Un contrato claro debe incluir especificaciones de materiales, costos, cronogramas y condiciones de trabajo."
+  },
+  {
+    "question": "¿Qué opción es un motivo válido para presentar una queja ante la CCB contra un contratista?",
+    "options": [
+      "El contratista fue antipático",
+      "El contratista retrasó el proyecto sin justificación",
+      "El contratista pidió más referencias",
+      "El contratista exigió pago inicial"
+    ],
+    "answer": "El contratista retrasó el proyecto sin justificación",
+    "justification": "Un retraso injustificado en un proyecto puede constituir un incumplimiento de contrato y ser motivo válido de queja."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista si no está de acuerdo con una sanción impuesta por la CCB?",
+    "options": [
+      "Ignorarla",
+      "Apelar la sanción siguiendo el procedimiento administrativo",
+      "Presentar una denuncia en la policía",
+      "Solicitar a otro contratista que hable en su favor"
+    ],
+    "answer": "Apelar la sanción siguiendo el procedimiento administrativo",
+    "justification": "Existe un proceso de apelación formal que permite a los contratistas defenderse ante sanciones impuestas por la CCB."
+  },
+ {
+    "question": "¿Qué tipo de prueba puede ayudar a un contratista a defenderse en caso de una queja de un cliente?",
+    "options": [
+      "Registros de comunicaciones y contratos firmados",
+      "Comentarios positivos en redes sociales",
+      "Referencias de amigos",
+      "Un video promocional de su empresa"
+    ],
+    "answer": "Registros de comunicaciones y contratos firmados",
+    "justification": "Tener contratos claros y registros de comunicación es la mejor defensa ante una queja en la CCB."
+  },
+  {
+    "question": "¿Qué debe incluirse siempre en un contrato de obra para cumplir con las regulaciones de la CCB?",
+    "options": [
+      "Promesas de descuentos futuros",
+      "Documentación de licencia y número de CCB",
+      "Opiniones de proyectos anteriores",
+      "Una cláusula de no competencia"
+    ],
+    "answer": "Documentación de licencia y número de CCB",
+    "justification": "El número de licencia del contratista debe aparecer claramente en el contrato para validar su registro ante la CCB."
+  },
+  {
+    "question": "¿Qué práctica es considerada una violación de las reglas de publicidad de la CCB?",
+    "options": [
+      "Publicitar sus servicios solo en su página web",
+      "Publicitar sin incluir el número de licencia CCB",
+      "Usar diferentes logos comerciales",
+      "Colocar anuncios en diferentes ciudades"
+    ],
+    "answer": "Publicitar sin incluir el número de licencia CCB",
+    "justification": "Toda publicidad de servicios de construcción en Oregón debe incluir el número de licencia CCB para cumplir con la ley."
+  },
+  {
+    "question": "¿Qué organismo ofrece educación continua aprobada para contratistas en Oregón?",
+    "options": [
+      "Cualquier universidad local",
+      "Solo colegios comunitarios",
+      "Proveedores autorizados por la CCB",
+      "Empresas privadas de marketing"
+    ],
+    "answer": "Proveedores autorizados por la CCB",
+    "justification": "La CCB mantiene una lista de proveedores de cursos autorizados para cumplir los requisitos de educación continua."
+  },
+  {
+    "question": "¿Cuál de los siguientes elementos no es requerido en un contrato estándar de construcción?",
+    "options": [
+      "Descripción del proyecto",
+      "Costo total estimado",
+      "Número de licencia CCB",
+      "Número de seguro social del cliente"
+    ],
+    "answer": "Número de seguro social del cliente",
+    "justification": "La información personal del cliente como su número de seguro social no es necesaria en contratos estándar."
+  },
+{
+    "question": "¿Qué pasa si un contratista publicita trabajos fuera del alcance de su licencia?",
+    "options": [
+      "No pasa nada mientras tenga experiencia",
+      "Es considerado una violación y puede recibir sanciones",
+      "Puede solicitar permiso temporal",
+      "Debe pagar una tarifa especial"
+    ],
+    "answer": "Es considerado una violación y puede recibir sanciones",
+    "justification": "Publicitar servicios que no corresponden a la licencia activa es una infracción que puede resultar en multas o suspensión."
+  },
+  {
+    "question": "¿Qué debe incluir la garantía ofrecida en un contrato de construcción?",
+    "options": [
+      "Duración de la garantía y lo que cubre",
+      "Un bono de descuento en futuras compras",
+      "Seguro de accidentes personales",
+      "Responsabilidad de compra de materiales"
+    ],
+    "answer": "Duración de la garantía y lo que cubre",
+    "justification": "La garantía debe establecer claramente qué aspectos del trabajo están cubiertos y por cuánto tiempo."
+  },
+  {
+    "question": "¿Qué puede causar la suspensión inmediata de una licencia de contratista?",
+    "options": [
+      "No actualizar su correo electrónico",
+      "Cambiar su número de teléfono",
+      "No mantener un seguro de responsabilidad activo",
+      "Tener menos de 5 clientes al año"
+    ],
+    "answer": "No mantener un seguro de responsabilidad activo",
+    "justification": "Tener un seguro de responsabilidad vigente es obligatorio; si se cancela o expira, la licencia puede ser suspendida inmediatamente."
+  },
+  {
+    "question": "¿Cuál es el tiempo estándar para responder a una queja presentada en la CCB?",
+    "options": [
+      "30 días",
+      "15 días",
+      "60 días",
+      "90 días"
+    ],
+    "answer": "30 días",
+    "justification": "Generalmente, los contratistas tienen 30 días para responder formalmente a una queja ante la CCB."
+  },
+  {
+    "question": "¿Qué requisito debe cumplir un contratista para renovar su licencia en Oregón?",
+    "options": [
+      "Pagar una multa",
+      "Tomar nuevos cursos de seguridad laboral cada año",
+      "Completar educación continua aprobada",
+      "Presentar referencias de clientes recientes"
+    ],
+    "answer": "Completar educación continua aprobada",
+    "justification": "La renovación de licencia requiere que el contratista haya completado los cursos de educación continua autorizados por la CCB."
+  },
+{
+    "question": "¿Qué documento debe entregar un contratista al cliente cuando el trabajo se completa?",
+    "options": [
+      "Un informe de zonificación",
+      "Una factura detallada y cualquier garantía escrita",
+      "Una lista de compras de materiales",
+      "Una carta de recomendación"
+    ],
+    "answer": "Una factura detallada y cualquier garantía escrita",
+    "justification": "Al finalizar el proyecto, el contratista debe proporcionar una factura completa y copias de las garantías ofrecidas."
+  },
+  {
+    "question": "¿Qué sucede si un contratista no informa un cambio de dirección comercial a la CCB?",
+    "options": [
+      "Recibe un recordatorio por correo",
+      "Puede enfrentar sanciones y multas",
+      "Se actualiza automáticamente",
+      "Pierde su número de licencia inmediatamente"
+    ],
+    "answer": "Puede enfrentar sanciones y multas",
+    "justification": "No informar cambios de dirección puede acarrear sanciones administrativas por incumplir requisitos de información actualizada."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista al usar subcontratistas en un proyecto?",
+    "options": [
+      "Asumir que los subcontratistas tienen seguro",
+      "Solicitar confirmación de licencias y seguros activos",
+      "Pagar sus impuestos personales",
+      "No es necesario verificar su estatus"
+    ],
+    "answer": "Solicitar confirmación de licencias y seguros activos",
+    "justification": "El contratista general debe asegurarse de que los subcontratistas estén licenciados y asegurados correctamente."
+  },
+  {
+    "question": "¿En qué instancia puede un contratista utilizar trabajadores no asegurados?",
+    "options": [
+      "Solo en proyectos pequeños",
+      "Nunca, todos deben estar asegurados si son empleados",
+      "Si el cliente está de acuerdo",
+      "Si los trabajadores trabajan pocas horas"
+    ],
+    "answer": "Nunca, todos deben estar asegurados si son empleados",
+    "justification": "Los trabajadores empleados deben contar con seguro de compensación para trabajadores según las leyes de Oregón."
+  },
+  {
+    "question": "¿Qué tipo de licencia debe tener un contratista que realiza proyectos tanto residenciales como comerciales?",
+    "options": [
+      "Licencia residencial básica",
+      "Licencia de obra pública",
+      "Licencia combinada residencial y comercial",
+      "Licencia de arquitectura"
+    ],
+    "answer": "Licencia combinada residencial y comercial",
+    "justification": "Un contratista que trabaje en proyectos residenciales y comerciales debe tener una licencia combinada aprobada por la CCB."
+  },
+ {
+    "question": "¿Qué organismo estatal es responsable de aplicar sanciones a los contratistas que incumplen las reglas en Oregón?",
+    "options": [
+      "Departamento de Seguridad Pública",
+      "Departamento de Trabajo",
+      "Junta de Contratistas de la Construcción (CCB)",
+      "Oficina de Bienes Raíces de Oregón"
+    ],
+    "answer": "Junta de Contratistas de la Construcción (CCB)",
+    "justification": "La CCB es la entidad oficial que regula y sanciona a los contratistas en el estado de Oregón."
+  },
+  {
+    "question": "¿Qué puede hacer un cliente si siente que un contratista no cumplió con el contrato?",
+    "options": [
+      "Presentar una queja ante la CCB",
+      "Cancelar el contrato de inmediato sin obligación",
+      "Esperar 6 meses para ver si mejora",
+      "Solicitar intervención de la asociación de constructores"
+    ],
+    "answer": "Presentar una queja ante la CCB",
+    "justification": "La vía correcta para resolver disputas contractuales es presentar una queja ante la CCB."
+  },
+  {
+    "question": "¿Qué documento avala que un contratista ha completado los cursos de educación continua requeridos?",
+    "options": [
+      "Un recibo de pago",
+      "Un certificado de finalización emitido por el proveedor autorizado",
+      "Una carta de recomendación",
+      "Una nota escrita por el contratista"
+    ],
+    "answer": "Un certificado de finalización emitido por el proveedor autorizado",
+    "justification": "Se debe contar con un certificado oficial que demuestre la finalización de los cursos aprobados."
+  },
+  {
+    "question": "¿Qué práctica es esencial para mantener la buena reputación de un contratista ante la CCB y sus clientes?",
+    "options": [
+      "Ofrecer descuentos agresivos",
+      "Cumplir contratos, mantener seguros activos y seguir las leyes",
+      "Hacer proyectos grandes en poco tiempo",
+      "Publicar constantemente en redes sociales"
+    ],
+    "answer": "Cumplir contratos, mantener seguros activos y seguir las leyes",
+    "justification": "La seriedad y cumplimiento legal son los principales factores que determinan la buena reputación de un contratista."
+  },
+  {
+    "question": "¿Qué pasa si un contratista abandona un proyecto sin justificación válida?",
+    "options": [
+      "El cliente debe terminar el trabajo por su cuenta",
+      "Puede ser sujeto de sanciones legales y quejas formales",
+      "Puede retomar el proyecto cuando quiera",
+      "Solo debe pagar una multa mínima"
+    ],
+    "answer": "Puede ser sujeto de sanciones legales y quejas formales",
+    "justification": "Abandonar un proyecto sin causa justificada puede llevar a reclamaciones legales y sanciones graves ante la CCB."
+  }
+]
