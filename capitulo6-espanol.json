@@ -1,0 +1,387 @@
+[
+  {
+    "question": "Que sucede si el contratista esta obligado a proporcionar la notificación informativa dirigida al propiertario acerca de embargos de construcción y no lo hace?",
+    "options": [
+      "El contratista pierde su derecho a embargar.",
+      "El contratista puede solicitar prorroga para proporcionarla.",
+      "Nada, el contratista puede demandar.",
+      "Nada, puede entregarse en cualquier momento, incluso después de haber terminado la construcción."
+    ],
+    "answer": "El contratista pierde su derecho a embargar.",
+    "justification": "Si un contratista está obligado a proporcionar la Notificación informativa dirigida al propietario acerca deembargos de construcción y no lo hace, el contratista pierde su derecho a embargar. Además, la CCB puede multar al contratista o suspender su licencia. Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "Cúando es obligatoria la notificacion informativa dirigida al propietario acerca de embargos de la construcción?",
+    "options": [
+      "El contrato inicial es por $2,000 o menos, pero excede los $2,000 durante la construcción.",
+      "Un contratista construye una propiedad residencial nueva y la vende a un comprador dentro de los 90 días posteriores a la finalización de la construcción.",
+      "El contrato inicial es por $10,000 o menos, pero excede los $10,000 durante la construcción.",
+      "Un contratista original participa en un contrato con un dueño de una propiedad residencial y el trabajo excede los $10,000."
+    ],
+    "answer": "El contrato inicial es por $2,000 o menos, pero excede los $2,000 durante la construcción.",
+    "justification": "Un contratista original participa en un contrato con un dueño de una propiedad residencial y el trabajo excede los $2,000. (Esta es también la cantidad que hace obligatorio el contar con un contrato escrito). El contratista debe entregar la notificación en la fecha o antes de la fecha de la firma del contrato.: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "Qué es un registro de un reclamo de embargo?",
+    "options": [
+      "Es un documento legal presentado en el condado en el que se ubique la obra.",
+      "Una lista de materiales o equipos con el monto de los costos en los que se ha incurrido hasta la fecha.",
+      "Una descripción de la mano de obra o servicios suministrados.",
+      "Una declaración de la base contractual para la mano de obra, los materiales o los equipos, que incluya un porcentaje de finalización del contrato y los gastos en los que se ha incurrido."
+    ],
+    "answer": "Es un documento legal presentado en el condado en el que se ubique la obra.",
+    "justification": "Un Reclamo de embargo es un documento legal presentado en el condado en el que se ubique la obra. Luego de presentarlo, el oficial del condado \"registra\" el documento en los registros del condado. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-4."
+  },
+  {
+    "question": "Cuál de los siguientes NO ES un requisito de tiempo para presentar un reclamo de embargo?",
+    "options": [
+      "Debe registrarse dentro de 75 días calendarios después de la última realización substancial de mano de obra, entrega de materiales o alquiler de equipos o dentro de 75 días calendarios después de la finalización de la construcción, lo que ocurra primero.",
+      "Si el período de 75 días concluye en un día en el que el registro del condado esté cerrado (un fin de semana o un día festivo) el Reclamo de embargo debe registrarse antes del fin de semana o el día festivo y antes de la expiración del período establecido.",
+      "El Reclamo de embargo quedará invalidado si pasan más de 75 días antes de que se registre. Los contratistas y demás personas deben hacer un seguimiento cuidadoso de su trabajo, de manera de que sepan cuándo expira el período de 75 días.",
+      "Debe registrarse dentro de 45 días calendarios después de la última realización substancial de mano de obra, entrega de materiales o alquiler de equipos o dentro de 45 días calendarios después de la finalización de la construcción, lo que ocurra primero."
+    ],
+    "answer": "Debe registrarse dentro de 45 días calendarios después de la última realización substancial de mano de obra, entrega de materiales o alquiler de equipos o dentro de 45 días calendarios después de la finalización de la construcción, lo que ocurra primero.",
+    "justification": "El Reclamo de embargo debe registrarse dentro de 75 días calendarios después de la última realización substancial de mano de obra, entrega de materiales o alquiler de equipos o dentro de 75 días calendarios después de la finalización de la construcción, lo que ocurra primero. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-5."
+  },
+  {
+    "question": "Cual de las siguientes NO ES parte o función de una notificación de derecho a un embargo?",
+    "options": [
+      "Le da al propietario el nombre de la persona que le solicitó al subcontratista o proveedor qu contribuyeran servicios o materiales.",
+      "Identifica al subcontratista o proveedor.",
+      "Describe del trabajo que se realizará.",
+      "Proveer una estimación del tiempo de finalización"
+    ],
+    "answer": "Proveer una estimación del tiempo de finalización",
+    "justification": "Esta notificación le da al propietario el nombre de la persona que le solicitó al subcontratista o proveedor que contribuyeran servicios o materiales, identifica al subcontratista o proveedor y describe del trabajo que se realizará. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "Quíen puede hacer un registro de reclamo de embargo?",
+    "options": [
+      "Los contratistas que hayan entregado las notificaciones obligatorias previas al reclamo y que no hayan recibido sus pagos pueden presentar un reclamo de embargo.",
+      "Todos los contratistas que no han recibido pago por su trabajo.",
+      "Solo los contratistas con licencia comercial.",
+      "El propietario de la propiedad tras haber recibido las notificaciones obligatorias previas al reclamo."
+    ],
+    "answer": "Los contratistas que hayan entregado las notificaciones obligatorias previas al reclamo y que no hayan recibido sus pagos pueden presentar un reclamo de embargo.",
+    "justification": "Solo los contratistas que hayan entregado las notificaciones obligatorias previas al reclamo y que no hayan recibido sus pagos pueden presentar un reclamo de embargo. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-4."
+  },
+{
+    "question": "¿Qué debe hacer un contratista después de presentar un reclamo de embargo?",
+    "options": [
+      "Ejecutar el embargo inmediatamente",
+      "Seguir los requisitos de notificaciones posteriores",
+      "Cancelar el reclamo",
+      "Esperar la decisión del propietario"
+    ],
+    "answer": "Seguir los requisitos de notificaciones posteriores",
+    "justification": "Después de presentar un reclamo de embargo, el contratista debe seguir los requisitos de notificaciones posteriores y, si es necesario, participar en la resolución de disputas para asegurar que el embargo sea ejecutado correctamente. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-5."
+  },
+  {
+    "question": "¿Qué información NO ESTA incluida en la notificación de derecho a embargo?",
+    "options": [
+      "Dirección personal del contratista.",
+      "El nombre de la persona que le solicitó al subcontratista o proveedor que contribuyeran servicios o materiales.",
+      "Nombre de el subcontratista o proveedor.",
+      "Describe del trabajo que se realizará."
+    ],
+    "answer": "Dirección personal del contratista.",
+    "justification": "La notificación le da al propietario el nombre de la persona que le solicitó al subcontratista o proveedor que contribuyeran servicios o materiales, identifica al subcontratista o proveedor y describe del trabajo que se realizará. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "¿Cuál es el primer paso en el proceso de la ley de embargo?",
+    "options": [
+      "Presentación del reclamo de embargo",
+      "Ejecución del embargo",
+      "Contrato con el dueño de la propiedad",
+      "Resolución de disputas"
+    ],
+    "answer": "Contrato con el dueño de la propiedad",
+    "justification": "El primer paso en el proceso de la ley de embargo es el contrato con el dueño de la propiedad, sin contrato no se puede realizar un embargo. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-6."
+  },
+  {
+    "question": "¿Cuál es el propósito de la solicitud de información por parte del propietario?",
+    "options": [
+      "Obtener una extensión del plazo de pago",
+      "Obtener detalles como una lista de materiales o equipos con el monto de los gastos incurridos hasta la fecha",
+      "Solicitar una inspección de la propiedad",
+      "Negar el reclamo de embargo"
+    ],
+    "answer": "Obtener detalles como una lista de materiales o equipos con el monto de los gastos incurridos hasta la fecha",
+    "justification": "La solicitud de información por parte del propietario permite al propietario obtener detalles adicionales sobre el reclamo de embargo y asegurar que todas las partes estén bien informadas sobre el proceso y las responsabilidades. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-5."
+  },
+  {
+    "question": "Cuándo debe entregarse la notficación de derecho a un embargo?",
+    "options": [
+      "En cualquier momento durante la construcción.",
+      "Antes de iniciar la construcción.",
+      "Al momento de entregar el estimado al cliente.",
+      "Antes del Down Payment."
+    ],
+    "answer": "En cualquier momento durante la construcción.",
+    "justification": "La Notificación de derecho a un embargo puede entregarse en cualquier momento durante la construcción. Debe ser entregada en persona o enviada por correo registrado o certificado. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un requisito previo para la ejecución de un embargo?",
+    "options": [
+      "Notificación de derecho a un embargo",
+      "Presentación del reclamo de embargo",
+      "Contrato revisado",
+      "Notificación informativa dirigida al propietario"
+    ],
+    "answer": "Contrato revisado",
+    "justification": "Un contrato revisado no es un requisito previo para la ejecución de un embargo. Los requisitos previos incluyen la notificación de derecho a un embargo y la presentación del reclamo de embargo. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-6."
+  },
+{
+    "question": "¿Cuál es la función principal de la notificación informativa dirigida al propietario acerca de embargos?",
+    "options": [
+      "Informar sobre el costo del proyecto",
+      "Explicar las leyes de embargo y los derechos de las partes involucradas",
+      "Proveer una lista de subcontratistas",
+      "Detallar los materiales utilizados en el proyecto"
+    ],
+    "answer": "Explicar las leyes de embargo y los derechos de las partes involucradas",
+    "justification": "La función principal de la notificación informativa dirigida al propietario acerca de embargos es explicar las leyes de embargo de la construcción de Oregón y los derechos y responsabilidades de los dueños de las propiedades y los contratistas. Esto asegura que todas las partes involucradas estén bien informadas sobre el proceso de embargo. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "¿Cuál es el plazo máximo para registrar un reclamo de embargo después de la última provisión de servicios?",
+    "options": [
+      "30 días",
+      "45 días",
+      "60 días",
+      "75 días"
+    ],
+    "answer": "75 días",
+    "justification": "El plazo máximo para registrar un reclamo de embargo después de la última provisión de servicios o materiales es de 75 días. Este plazo es crucial para asegurar que el reclamo sea válido. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-5."
+  },
+  {
+    "question": "¿Qué documento debe ser proporcionado al propietario para informar sobre un posible embargo?",
+    "options": [
+      "Contrato original",
+      "Notificación de derecho a un embargo",
+      "Factura final",
+      "Plan de pago acordado"
+    ],
+    "answer": "Notificación de derecho a un embargo",
+    "justification": "El documento que debe ser proporcionado al propietario para informar sobre un posible embargo es la notificación de derecho a un embargo. Esto asegura que el propietario esté al tanto de las acciones que el contratista puede tomar si no se cumplen las condiciones de pago. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-3."
+  },
+  {
+    "question": "¿Qué debe incluir la solicitud de información por parte del propietario sobre un reclamo de embargo?",
+    "options": [
+      "Detalles del contrato original",
+      "Plan de pago acordado",
+      "Descripción de la mano de obra o servicios suministrados",
+      "Información del seguro del contratista"
+    ],
+    "answer": "Descripción de la mano de obra o servicios suministrados",
+    "justification": "La solicitud de información por parte del propietario sobre un reclamo de embargo debe incluir detalles adicionales sobre el reclamo, como la naturaleza del trabajo realizado y las cantidades adeudadas. Esto ayuda a clarificar cualquier duda y a resolver posibles disputas. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-4."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la resolución de disputas en el contexto de un reclamo de embargo?",
+    "options": [
+      "Aumentar los costos del proyecto",
+      "Prolongar el proceso de embargo",
+      "Saldar un embargo o recuperar fondos pagados para saldar un embargo",
+      "Eliminar la necesidad de notificaciones"
+    ],
+    "answer": "Saldar un embargo o recuperar fondos pagados para saldar un embargo",
+    "justification": "El objetivo principal de la resolución de disputas en el contexto de un reclamo de embargo es resolver conflictos entre el propietario y el contratista de manera justa y equitativa, evitando litigios prolongados y costosos. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-7."
+  },
+  {
+    "question": "¿Qué tipo de información no es requerida en un registro de reclamo de embargo?",
+    "options": [
+      "Montos adeudados",
+      "Los nombres del propietario",
+      "Opinión del contratista sobre el propietario",
+      "Descripción de la propiedad"
+    ],
+    "answer": "Opinión del contratista sobre el propietario",
+    "justification": "La opinión del contratista sobre el propietario no es requerida en un registro de reclamo de embargo. La información requerida incluye la fecha de la última provisión de servicios y la documentación del trabajo realizado. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-5."
+  },
+{
+    "question": "¿Cuál de los siguientes no es un paso requerido para la ejecución de un embargo?",
+    "options": [
+      "Presentación del reclamo de embargo",
+      "Notificaciones posteriores al reclamo",
+      "Renegociación del contrato",
+      "Resolución de disputas"
+    ],
+    "answer": "Renegociación del contrato",
+    "justification": "La renegociación del contrato no es un paso requerido para la ejecución de un embargo. Los pasos requeridos incluyen la presentación del reclamo y la resolución de disputas si es necesario. Referencia: Capítulo 6, Regulaciones de la ley de embargos, página 6-6."
+  },
+  {
+    "question": "¿Qué documento debe preparar un contratista para iniciar un reclamo de embargo?",
+    "options": [
+      "Notificación de derecho a un embargo",
+      "Notificación informativa dirigida al propietario",
+      "Reclamo de embargo",
+      "Declaración de trabajo completado"
+    ],
+    "answer": "Reclamo de embargo",
+    "justification": "El contratista debe preparar un documento formal conocido como \"reclamo de embargo\" para iniciar el proceso de embargo. Este documento debe incluir detalles específicos sobre el trabajo realizado y el monto adeudado. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+  {
+    "question": "¿Cuál de los siguientes no es un requisito para que un reclamo de embargo sea válido?",
+    "options": [
+      "Registro dentro de los plazos establecidos",
+      "Inclusión de la información requerida",
+      "Aceptación del propietario",
+      "Notificación al propietario"
+    ],
+    "answer": "Aceptación del propietario",
+    "justification": "Para que un reclamo de embargo sea válido, debe ser registrado dentro de los plazos establecidos, debe incluir la información requerida y debe ser notificado al propietario. No se requiere que el propietario acepte el reclamo. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-5."
+  },
+  {
+    "question": "¿Cuál es el propósito de la notificación de derecho a un embargo?",
+    "options": [
+      "Informar sobre el contrato inicial",
+      "Proveer detalles sobre el proyecto",
+      "Explicar las acciones que los propietarios pueden tomar para protegerse",
+      "Registrar el reclamo de embargo"
+    ],
+    "answer": "Explicar las acciones que los propietarios pueden tomar para protegerse",
+    "justification": "La notificación explica las acciones que los propietarios pueden tomar para protegerse a sí mismos de embargos. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una acción que sigue a la presentación de un reclamo de embargo?",
+    "options": [
+      "Notificar al propietario",
+      "Ejecutar el embargo",
+      "Resolver el pago",
+      "Cancelar la licencia"
+    ],
+    "answer": "Cancelar la licencia",
+    "justification": "Después de presentar un reclamo de embargo, el contratista debe notificar al propietario y puede proceder con la ejecución del embargo si no se resuelve el pago. No se requiere que el contratista cancele su licencia. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-6."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista si el propietario solicita información después de un reclamo de embargo?",
+    "options": [
+      "Proporcionar la información solicitada",
+      "Rechazar la solicitud",
+      "Modificar el reclamo de embargo",
+      "Cancelar el reclamo de embargo"
+    ],
+    "answer": "Proporcionar la información solicitada",
+    "justification": "Si el propietario solicita información después de un reclamo de embargo, el contratista debe proporcionar la información solicitada, como detalles sobre el trabajo y el monto adeudado. Esto es parte del proceso de cumplimiento. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-5."
+  },
+{
+    "question": "¿Cuál de los siguientes documentos debe ser registrado para que un embargo sea efectivo?",
+    "options": [
+      "Notificación de derecho a un embargo",
+      "Reclamo de embargo",
+      "Declaración de trabajo completado",
+      "Notificación informativa dirigida al propietario"
+    ],
+    "answer": "Reclamo de embargo",
+    "justification": "El \"reclamo de embargo\" es el documento que debe ser registrado para que el embargo sea efectivo. Este registro es un paso fundamental en el proceso de embargo. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+  {
+    "question": "¿Qué sucede si un contratista no cumple con los requisitos de tiempo para un reclamo de embargo?",
+    "options": [
+      "El embargo puede ser invalidado",
+      "El contratista debe pagar una multa",
+      "El propietario debe ser notificado de inmediato",
+      "El reclamo de embargo se archiva automáticamente"
+    ],
+    "answer": "El embargo puede ser invalidado",
+    "justification": "Si un contratista no cumple con los requisitos de tiempo para un reclamo de embargo, el embargo puede ser invalidado, lo que significa que el contratista perdería su derecho a reclamar el pago adeudado. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-5."
+  },
+  {
+    "question": "¿Cuál es el primer paso en el proceso de presentar un reclamo de embargo?",
+    "options": [
+      "Preparar el reclamo de embargo",
+      "Notificar al propietario",
+      "Registrar el reclamo de embargo",
+      "Enviar una notificación informativa"
+    ],
+    "answer": "Preparar el reclamo de embargo",
+    "justification": "El primer paso en el proceso de presentar un reclamo de embargo es preparar un documento formal conocido como \"reclamo de embargo\". Esto debe ser hecho antes de cualquier otra acción. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+  {
+    "question": "¿Qué debe hacer el contratista después de registrar un reclamo de embargo?",
+    "options": [
+      "Obtener una nueva licencia",
+      "Notificar al propietario",
+      "Esperar la respuesta del propietario",
+      "Registrar una queja ante la Junta de Contratistas"
+    ],
+    "answer": "Notificar al propietario",
+    "justification": "Después de registrar un reclamo de embargo, el contratista debe notificar al propietario y cumplir con los requisitos de notificación establecidos por la ley. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-5."
+  },
+  {
+    "question": "¿Cuál es la función de la notificación de derecho a un embargo?",
+    "options": [
+      "Detallar los términos del contrato",
+      "Proveer información financiera del propietario",
+      "Informar sobre el derecho a un embargo",
+      "Registrar el reclamo de embargo"
+    ],
+    "answer": "Informar sobre el derecho a un embargo",
+    "justification": "La notificación de derecho a un embargo informa al propietario sobre el derecho del contratista a presentar un embargo si no se realiza el pago. Esta notificación es crucial para asegurar la transparencia en el proceso. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones es esencial antes de la ejecución de un embargo?",
+    "options": [
+      "Registrar el reclamo de embargo",
+      "Modificar el contrato original",
+      "Obtener una nueva fianza",
+      "Presentar una queja formal"
+    ],
+    "answer": "Registrar el reclamo de embargo",
+    "justification": "Antes de la ejecución de un embargo, es esencial registrar el reclamo de embargo y notificar al propietario. Esto asegura que todos los procedimientos legales se cumplan correctamente. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+{
+    "question": "¿Qué sucede si el contratista no proporciona la notificación requerida al propietario?",
+    "options": [
+      "El reclamo de embargo puede ser invalidado",
+      "El propietario debe solicitar una nueva notificación",
+      "El contratista puede perder su licencia",
+      "La Junta de Contratistas intervendrá automáticamente"
+    ],
+    "answer": "El reclamo de embargo puede ser invalidado",
+    "justification": "Si el contratista no proporciona la notificación requerida al propietario, el reclamo de embargo puede ser invalidado, lo que afectaría el derecho del contratista a reclamar el pago adeudado. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-5."
+  },
+  {
+    "question": "¿Cuál es la finalidad de registrar un reclamo de embargo?",
+    "options": [
+      "Proporcionar detalles del contrato",
+      "Notificar al propietario sobre el contrato",
+      "Proteger el derecho a recibir el pago",
+      "Modificar los términos del contrato"
+    ],
+    "answer": "Proteger el derecho a recibir el pago",
+    "justification": "Registrar un reclamo de embargo tiene la finalidad de proteger el derecho del contratista a recibir el pago por el trabajo realizado. Este paso es crucial para asegurar que el contratista pueda reclamar los fondos adeudados. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+  {
+    "question": "¿Qué información debe incluir un reclamo de embargo para ser válido?",
+    "options": [
+      "Detalles del trabajo realizado",
+      "Nombre del supervisor del proyecto",
+      "Información del seguro del propietario",
+      "Planos originales del proyecto"
+    ],
+    "answer": "Detalles del trabajo realizado",
+    "justification": "Para que un reclamo de embargo sea válido, debe incluir información detallada sobre el trabajo realizado, el monto adeudado y la fecha del último trabajo. Estos elementos son esenciales para la validez del reclamo. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-4."
+  },
+  {
+    "question": "¿Cuál es el propósito de la notificación de derecho a un embargo en el proceso de embargo?",
+    "options": [
+      "Modificar los términos del contrato",
+      "Proveer información sobre el proyecto",
+      "Informar sobre el derecho a un embargo",
+      "Registrar el reclamo de embargo"
+    ],
+    "answer": "Informar sobre el derecho a un embargo",
+    "justification": "La notificación de derecho a un embargo sirve para informar al propietario sobre el derecho del contratista a presentar un embargo si no se realiza el pago. Esta notificación es crucial para asegurar la transparencia y cumplimiento legal. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-3."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista si el propietario no responde a la notificación de derecho a un embargo?",
+    "options": [
+      "Esperar una respuesta del propietario",
+      "Modificar el contrato original",
+      "Obtener una nueva fianza",
+      "Proceder con los pasos legales"
+    ],
+    "answer": "Proceder con los pasos legales",
+    "justification": "Si el propietario no responde a la notificación de derecho a un embargo, el contratista debe proceder con los siguientes pasos legales, que pueden incluir la ejecución del embargo. Referencia: Capítulo 6, Proceso para presentar un embargo, página 6-6."
+  }
+]
