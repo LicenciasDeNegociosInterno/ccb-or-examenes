@@ -1,0 +1,508 @@
+[
+  {
+    "question": "Que requiere el pago por horas trabajadas bajo la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Tiempo compensatorio.",
+      "Establecer un salario mínimo para cada día.",
+      "Proporcionar seguro médico.",
+      "Clasificar empleados como exentos o no exentos de pago."
+    ],
+    "answer": "Tiempo compensatorio.",
+    "justification": "La FLSA requiere tiempo compensatorio. El tiempo compensatorio, o tiempo \"comp\", es tiempo libre en lugar del pago de salarios por tiempo extra trabajado. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES una característica de la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Los salarios deben pagarse en el día de pago regular para el período de pago.",
+      "Semana laboral definida según la FLSA.",
+      "Regula las vacaciones pagadas.",
+      "Horario de trabajo definido según la FLSA."
+    ],
+    "answer": "Regula las vacaciones pagadas.",
+    "justification": "La FLSA establece estándares para el salario mínimo, el pago por horas extras y el mantenimiento de registros, pero no regula las vacaciones pagadas. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué establece la Ley de Normas Justas de Trabajo (FLSA) en relación con las horas extras?",
+    "options": [
+      "Cuándo debe pagarse tiempo extra.",
+      "Cuánto debe pagarse por hora extra.",
+      "El pago de tiempo completo y medio tiempo por horas extras.",
+      "No establece requisitos para el pago de horas extras"
+    ],
+    "answer": "Cuándo debe pagarse tiempo extra.",
+    "justification": "A menos que el empleado esté exento, debe pagarse como tiempo extra cualquier hora trabajada por encima de 40 horas en una semana laboral. Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES información obligatoria bajo la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Base sobre la cual se paga el salario del empleado.",
+      "Proporcionar seguro médico.",
+      "Hora y día en el que comienza la semana laboral.",
+      "Deducciones o adiciones a los salarios."
+    ],
+    "answer": "Proporcionar seguro médico.",
+    "justification": "El seguro médico NO ES parte de información obligatoria bajo la Ley de Normas Justas de Trabajo. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué requiere la Ley de Normas Justas de Trabajo (FLSA) sobre el mantenimiento de registros?",
+    "options": [
+      "FLSA requiere que los empleadores mantengan registros acerca de los salarios, horarios y otros ítems especificados por las regulaciones de mantenimiento.",
+      "Requieren que se paguen salarios en el día de pago.",
+      "No requiere nada sobre mantenimiento de registros.",
+      "Requiere que los empleados mantengan sus propios registros."
+    ],
+    "answer": "FLSA requiere que los empleadores mantengan registros acerca de los salarios, horarios y otros ítems especificados por las regulaciones de mantenimiento.",
+    "justification": "La FLSA requiere que los empleadores mantengan registros precisos de las horas trabajadas y el salario pagado a los empleados, asegurando la transparencia y el cumplimiento legal. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de las siguientes es la definición de empleado según la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Es una persona a la que se le permite trabajar, o que proporciona servicios.",
+      "Empleados no exentos",
+      "Empleados a tiempo completo",
+      "Empleados temporales"
+    ],
+    "answer": "Es una persona a la que se le permite trabajar, o que proporciona servicios.",
+    "justification": "Un empleado es una persona a la que se le permite trabajar, o que proporciona servicios, para un empleador que paga o que acuerda pagar una tarifa fija a dicha persona. Para determinar si una persona es un \"empleado\" y no un contratista independiente, el BOLI aplica un examen de \"realidades económicas\". Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes opciones es parte de los criterios para determinar el estatus de un contratista bajo la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "El grado de control ejercido por el empleador.",
+      "Empleado que debe recibir salario mínimo",
+      "Empleado temporal",
+      "Empleado de nivel de entrada"
+    ],
+    "answer": "El grado de control ejercido por el empleador.",
+    "justification": "El grado de control ejercido por el empleador es uno de los criterios para determinar el estatus de un contratista. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES un empleado exento de pago por tiempo extra?",
+    "options": [
+      "Ejecutivos.",
+      "Personal administrativo.",
+      "Empleados de ventas externos.",
+      "Contratistas Independientes."
+    ],
+    "answer": "Contratistas Independientes.",
+    "justification": "Algunos empleados están exentos de pagos por tiempo extra. Los contratistas independientes no están exentos. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué establece la Ley de Normas Justas de Trabajo (FLSA) sobre el salario mínimo?",
+    "options": [
+      "El grado de control ejercido por el empleador.",
+      "Establece un salario mínimo para trabajadores agrícolas solamente.",
+      "Exige que un empleador le pague a un empleado por lo menos la tarifa salarial mínima para la región donde se encuentra ubicado el empleador.",
+      "Permite que los empleadores decidan el salario mínimo"
+    ],
+    "answer": "Exige que un empleador le pague a un empleado por lo menos la tarifa salarial mínima para la región donde se encuentra ubicado el empleador.",
+    "justification": "La FLSA exige que un empleador le pague a un empleado por lo menos la tarifa salarial mínima para la región donde se encuentra ubicado el empleador. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES parte de salario, horarios y regulaciones relacionadas de Oregón según FLSA?",
+    "options": [
+      "Permiso por enfermedad.",
+      "Descansos y períodos para comer.",
+      "Deducciones sobre salarios.",
+      "Beneficios de retiro."
+    ],
+    "answer": "Beneficios de retiro.",
+    "justification": "Las leyes laborales de Oregón no mencionan nada sobre beneficios de retiro. Consulta el Capítulo 3, Leyes laborales fundamentales, páginas 3-4 a 3-6."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una obligación del empleador bajo la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Establecer un salario mínimo",
+      "Pagar horas extras",
+      "Mantener registros de trabajo",
+      "Proporcionar tiempo libre remunerado"
+    ],
+    "answer": "Proporcionar tiempo libre remunerado",
+    "justification": "La FLSA no requiere que los empleadores proporcionen tiempo libre remunerado. Las obligaciones incluyen el establecimiento del salario mínimo, el pago por horas extras y el mantenimiento de registros. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "¿Cuál es una de las estipulaciones de la Ley de Normas Justas de Trabajo (FLSA) en relación al salario mínimo?",
+    "options": [
+      "Establece un salario mínimo para trabajadores agrícolas solamente",
+      "Establece por lo menos la tarifa salarial mínima",
+      "No establece un salario mínimo",
+      "Permite que los empleadores decidan el salario mínimo"
+    ],
+    "answer": "Establece por lo menos la tarifa salarial mínima",
+    "justification": "La FLSA establece un salario mínimo federal que los empleadores deben pagar, asegurando que todos los trabajadores reciban una compensación mínima por su trabajo. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una obligación de los empleadores bajo la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Establecer un salario mínimo",
+      "Pagar horas extras",
+      "Mantener registros de trabajo",
+      "Proporcionar seguro dental"
+    ],
+    "answer": "Proporcionar seguro dental",
+    "justification": "La FLSA no requiere que los empleadores proporcionen seguro dental. Las obligaciones incluyen el establecimiento del salario mínimo, el pago por horas extras y el mantenimiento de registros. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+{
+    "question": "Cuál de las siguientes afirmaciones sobre la Ley de Normas Justas de Trabajo (FLSA) es correcta?",
+    "options": [
+      "Establece un salario mínimo y reglas de tiempo extra.",
+      "Permite el trabajo infantil en todas las circunstancias.",
+      "No regula el salario mínimo.",
+      "Elimina todas las restricciones sobre el tiempo extra."
+    ],
+    "answer": "Establece un salario mínimo y reglas de tiempo extra.",
+    "justification": "La FLSA establece un salario mínimo federal, regula el pago de horas extras y prohíbe ciertas formas de trabajo infantil. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un propósito de la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Establecer un salario mínimo.",
+      "Regular las horas de trabajo.",
+      "Otorgar tiempo libre pagado por vacaciones.",
+      "Prohibir el trabajo infantil."
+    ],
+    "answer": "Otorgar tiempo libre pagado por vacaciones.",
+    "justification": "La FLSA no obliga a los empleadores a otorgar vacaciones pagadas. Su enfoque está en el salario mínimo, las horas de trabajo y el trabajo infantil. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué establece la Ley de Normas Justas de Trabajo (FLSA) en cuanto a las horas extras trabajadas?",
+    "options": [
+      "Que deben pagarse al doble del salario normal.",
+      "Que deben pagarse al 1.5 veces el salario normal después de 40 horas trabajadas en una semana.",
+      "Que deben compensarse con tiempo libre.",
+      "Que no requieren pago adicional."
+    ],
+    "answer": "Que deben pagarse al 1.5 veces el salario normal después de 40 horas trabajadas en una semana.",
+    "justification": "Bajo la FLSA, los empleados no exentos deben recibir pago de tiempo y medio (1.5x) por horas trabajadas más allá de 40 en una semana laboral. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de los siguientes empleados estaría probablemente exento del pago de tiempo extra bajo la FLSA?",
+    "options": [
+      "Un trabajador de producción por hora.",
+      "Un gerente asalariado que cumple con ciertas condiciones.",
+      "Un obrero de construcción pagado por hora.",
+      "Un recepcionista a tiempo parcial."
+    ],
+    "answer": "Un gerente asalariado que cumple con ciertas condiciones.",
+    "justification": "Gerentes asalariados que cumplen con pruebas específicas de deberes y de salario pueden ser considerados exentos bajo la FLSA. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué define la FLSA como la semana laboral estándar?",
+    "options": [
+      "De lunes a viernes.",
+      "Cualquier período fijo de 168 horas consecutivas.",
+      "Siete días naturales.",
+      "De domingo a sábado."
+    ],
+    "answer": "Cualquier período fijo de 168 horas consecutivas.",
+    "justification": "La FLSA define la semana laboral como cualquier período fijo y regularmente recurrente de 168 horas consecutivas. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Qué sucede si un empleador no cumple con las disposiciones de salario mínimo y horas extras de la FLSA?",
+    "options": [
+      "El empleador puede ser multado y obligado a pagar salarios atrasados.",
+      "El empleador puede ignorar las reglas sin consecuencia.",
+      "El empleador puede acordar pagar salarios atrasados solo si quiere.",
+      "El empleado debe pagar al empleador una multa."
+    ],
+    "answer": "El empleador puede ser multado y obligado a pagar salarios atrasados.",
+    "justification": "El incumplimiento de la FLSA puede resultar en multas civiles, sanciones y órdenes de pagar salarios atrasados a los empleados afectados. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál es uno de los derechos garantizados por la FLSA a los trabajadores no exentos?",
+    "options": [
+      "Vacaciones pagadas garantizadas.",
+      "Un salario mínimo.",
+      "Seguro médico gratuito.",
+      "Pago de días festivos obligatorios."
+    ],
+    "answer": "Un salario mínimo.",
+    "justification": "La FLSA garantiza a los trabajadores no exentos el derecho a recibir al menos el salario mínimo federal. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "La FLSA requiere que los empleadores conserven registros de qué información?",
+    "options": [
+      "Solo las horas extras trabajadas.",
+      "Horas trabajadas y salarios pagados.",
+      "Días festivos tomados.",
+      "Vacaciones pagadas otorgadas."
+    ],
+    "answer": "Horas trabajadas y salarios pagados.",
+    "justification": "La FLSA requiere que los empleadores conserven registros completos y precisos de las horas trabajadas y salarios pagados. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué sucede si un empleador clasifica erróneamente a un empleado como exento?",
+    "options": [
+      "No hay consecuencias legales.",
+      "Puede ser responsable de salarios atrasados y sanciones.",
+      "Puede pedir al empleado que pague las diferencias.",
+      "Debe conceder vacaciones adicionales."
+    ],
+    "answer": "Puede ser responsable de salarios atrasados y sanciones.",
+    "justification": "Clasificar erróneamente a un empleado como exento puede hacer que el empleador deba salarios atrasados, tiempo extra no pagado y enfrentar sanciones legales. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones sobre los empleados exentos es correcta?",
+    "options": [
+      "Tienen derecho automático al pago de horas extras.",
+      "Generalmente se les paga un salario y cumplen criterios específicos.",
+      "Siempre trabajan por hora.",
+      "No necesitan recibir salario mínimo."
+    ],
+    "answer": "Generalmente se les paga un salario y cumplen criterios específicos.",
+    "justification": "Los empleados exentos generalmente reciben un salario fijo y deben cumplir con pruebas específicas de deberes y salario para estar exentos de las reglas de horas extras. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "En qué situación un empleado podría ser considerado no exento según la FLSA?",
+    "options": [
+      "Recibe un salario superior a $684 por semana.",
+      "Desempeña funciones administrativas principales.",
+      "Realiza tareas manuales y gana por hora.",
+      "Supervisa a otros empleados como principal deber."
+    ],
+    "answer": "Realiza tareas manuales y gana por hora.",
+    "justification": "Un empleado que realiza tareas manuales y gana por hora probablemente será clasificado como no exento y tendrá derecho a salario mínimo y pago de horas extras. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de los siguientes elementos NO forma parte de los registros requeridos por la FLSA?",
+    "options": [
+      "Nombre completo del empleado.",
+      "Horas trabajadas cada día.",
+      "Cantidad de propinas recibidas.",
+      "Número de cuenta bancaria personal."
+    ],
+    "answer": "Número de cuenta bancaria personal.",
+    "justification": "La FLSA no requiere que los empleadores registren la información de cuenta bancaria personal de los empleados. Solo información relevante a su salario y tiempo trabajado. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+{
+    "question": "Cuál de los siguientes trabajadores sería considerado probablemente como un empleado no exento bajo la FLSA?",
+    "options": [
+      "Gerente general asalariado.",
+      "Asistente administrativo asalariado que cumple criterios de exención.",
+      "Trabajador de almacén pagado por hora.",
+      "Representante de ventas externas."
+    ],
+    "answer": "Trabajador de almacén pagado por hora.",
+    "justification": "Los trabajadores de almacén pagados por hora generalmente son considerados no exentos y tienen derecho a salario mínimo y pago de horas extras. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de las siguientes situaciones implicaría un incumplimiento de la FLSA por parte del empleador?",
+    "options": [
+      "Pago de 1.5 veces el salario normal por horas extra trabajadas.",
+      "No llevar registros de horas trabajadas.",
+      "Pago de salario mínimo federal.",
+      "Concesión de descansos para comer."
+    ],
+    "answer": "No llevar registros de horas trabajadas.",
+    "justification": "La FLSA exige que los empleadores mantengan registros precisos de las horas trabajadas. No hacerlo constituye un incumplimiento. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál es una diferencia clave entre un empleado exento y uno no exento?",
+    "options": [
+      "El empleado no exento recibe siempre un salario más alto.",
+      "El empleado exento tiene derecho automático al pago de horas extras.",
+      "El empleado no exento debe recibir pago por horas extras.",
+      "El empleado exento trabaja menos horas."
+    ],
+    "answer": "El empleado no exento debe recibir pago por horas extras.",
+    "justification": "Los empleados no exentos están protegidos por las disposiciones de salario mínimo y tiempo extra de la FLSA. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de los siguientes empleados probablemente sería considerado exento bajo la FLSA?",
+    "options": [
+      "Recepcionista a tiempo parcial.",
+      "Supervisor asalariado que supervisa a otros empleados.",
+      "Trabajador de limpieza por hora.",
+      "Empleado de almacén por hora."
+    ],
+    "answer": "Supervisor asalariado que supervisa a otros empleados.",
+    "justification": "Un supervisor asalariado que tiene autoridad sobre otros empleados puede ser considerado exento si cumple con criterios de salario y deberes. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué es requerido por la FLSA para empleados no exentos que trabajan más de 40 horas en una semana laboral?",
+    "options": [
+      "Pagar el doble del salario normal.",
+      "Pagar 1.5 veces el salario normal.",
+      "Dar tiempo libre compensatorio obligatorio.",
+      "Pagar el salario normal."
+    ],
+    "answer": "Pagar 1.5 veces el salario normal.",
+    "justification": "La FLSA exige que el tiempo extra se pague a una tarifa de 1.5 veces el salario regular para empleados no exentos. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones sobre el tiempo extra según la FLSA es correcta?",
+    "options": [
+      "Debe pagarse después de 8 horas trabajadas en un día.",
+      "Debe pagarse solo después de 45 horas trabajadas en una semana.",
+      "Debe pagarse después de 40 horas trabajadas en una semana laboral.",
+      "Solo se paga tiempo extra los domingos."
+    ],
+    "answer": "Debe pagarse después de 40 horas trabajadas en una semana laboral.",
+    "justification": "La FLSA requiere que el tiempo extra se pague cuando un empleado no exento trabaja más de 40 horas en una semana laboral, no necesariamente en un solo día. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Un empleado trabaja 45 horas en una semana laboral. Según la FLSA, ¿cuántas horas deben ser compensadas como tiempo extra?",
+    "options": [
+      "5 horas.",
+      "45 horas.",
+      "40 horas.",
+      "0 horas."
+    ],
+    "answer": "5 horas.",
+    "justification": "Bajo la FLSA, las 5 horas trabajadas sobre las 40 horas estándar deben pagarse como tiempo extra. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones describe mejor a un empleado no exento?",
+    "options": [
+      "Está excluido de las protecciones de la FLSA.",
+      "Tiene derecho a salario mínimo y pago de tiempo extra.",
+      "No tiene derecho a tiempo extra.",
+      "Siempre trabaja en ventas externas."
+    ],
+    "answer": "Tiene derecho a salario mínimo y pago de tiempo extra.",
+    "justification": "Los empleados no exentos tienen derecho tanto al salario mínimo como al pago de tiempo extra bajo la FLSA. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de los siguientes no es un criterio usado para determinar si un empleado es exento de acuerdo con la FLSA?",
+    "options": [
+      "Monto del salario.",
+      "Método de pago (salario vs. hora).",
+      "Título del trabajo.",
+      "Deberes del trabajo desempeñado."
+    ],
+    "answer": "Título del trabajo.",
+    "justification": "La clasificación como exento bajo la FLSA depende de las funciones reales y el salario, no simplemente del título del puesto. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de las siguientes obligaciones NO está impuesta a los empleadores por la FLSA?",
+    "options": [
+      "Pagar horas extras a empleados no exentos.",
+      "Proporcionar seguro médico a todos los empleados.",
+      "Cumplir con el salario mínimo.",
+      "Llevar registros precisos de tiempo trabajado."
+    ],
+    "answer": "Proporcionar seguro médico a todos los empleados.",
+    "justification": "La FLSA no requiere que los empleadores proporcionen seguro médico. Se centra en salario mínimo, tiempo extra y mantenimiento de registros. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué puede ocurrir si un empleador no cumple con las reglas de salario mínimo de la FLSA?",
+    "options": [
+      "Recibirá una advertencia sin consecuencias.",
+      "Puede ser obligado a pagar salarios atrasados y multas.",
+      "Será automáticamente exonerado.",
+      "El empleado perderá su derecho a reclamar."
+    ],
+    "answer": "Puede ser obligado a pagar salarios atrasados y multas.",
+    "justification": "El incumplimiento de las reglas de salario mínimo puede resultar en multas y en la obligación de pagar salarios atrasados. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Según la FLSA, qué registros deben ser mantenidos por los empleadores?",
+    "options": [
+      "Horas trabajadas y salario pagado.",
+      "Nombres de familiares de los empleados.",
+      "Historial médico de los empleados.",
+      "Asistencia a eventos sociales."
+    ],
+    "answer": "Horas trabajadas y salario pagado.",
+    "justification": "La FLSA exige que se mantengan registros relacionados con las horas trabajadas y el salario pagado a los empleados. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+{
+    "question": "Bajo la FLSA, un empleado no exento trabaja 50 horas en una semana laboral. ¿Cuántas horas deben pagarse como tiempo extra?",
+    "options": [
+      "10 horas.",
+      "50 horas.",
+      "40 horas.",
+      "0 horas."
+    ],
+    "answer": "10 horas.",
+    "justification": "Las horas trabajadas por encima de las 40 en una semana laboral deben ser pagadas como tiempo extra, es decir, 10 horas en este caso. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes es una obligación del empleador bajo la FLSA?",
+    "options": [
+      "Proporcionar seguro médico gratuito.",
+      "Pagar salario mínimo y tiempo extra.",
+      "Dar 30 días de vacaciones pagadas obligatorias.",
+      "Proporcionar transporte gratuito al trabajo."
+    ],
+    "answer": "Pagar salario mínimo y tiempo extra.",
+    "justification": "La FLSA obliga a los empleadores a pagar el salario mínimo y el tiempo extra a los empleados no exentos. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de los siguientes empleados estaría más probablemente clasificado como exento bajo la FLSA?",
+    "options": [
+      "Empleado de limpieza por hora.",
+      "Recepcionista a tiempo parcial.",
+      "Gerente de recursos humanos asalariado.",
+      "Obrero de fábrica pagado por hora."
+    ],
+    "answer": "Gerente de recursos humanos asalariado.",
+    "justification": "Los gerentes asalariados de recursos humanos, que cumplen con los criterios de salario y deberes, suelen estar clasificados como exentos bajo la FLSA. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones sobre los requisitos de mantenimiento de registros de la FLSA es correcta?",
+    "options": [
+      "Los empleadores deben registrar las horas trabajadas y salarios pagados.",
+      "Solo los empleados deben mantener registros personales.",
+      "No es necesario mantener registros de salarios.",
+      "Los registros deben incluir el historial médico del empleado."
+    ],
+    "answer": "Los empleadores deben registrar las horas trabajadas y salarios pagados.",
+    "justification": "La FLSA exige que los empleadores mantengan registros claros de las horas trabajadas y salarios pagados para cada empleado. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Bajo la FLSA, un empleador que no paga tiempo extra podría estar sujeto a:",
+    "options": [
+      "Una carta de advertencia únicamente.",
+      "Multas, sanciones y el pago de salarios atrasados.",
+      "Nada, si se disculpa.",
+      "Un aumento obligatorio de salario mínimo."
+    ],
+    "answer": "Multas, sanciones y el pago de salarios atrasados.",
+    "justification": "El incumplimiento de las obligaciones de tiempo extra bajo la FLSA puede resultar en multas, sanciones y obligaciones de pagar los salarios atrasados. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál es uno de los objetivos principales de la Ley de Normas Justas de Trabajo (FLSA)?",
+    "options": [
+      "Garantizar seguro médico universal.",
+      "Regular el comercio exterior.",
+      "Proteger a los trabajadores estableciendo un salario mínimo y tiempo extra.",
+      "Permitir trabajo infantil ilimitado."
+    ],
+    "answer": "Proteger a los trabajadores estableciendo un salario mínimo y tiempo extra.",
+    "justification": "La FLSA fue diseñada para proteger a los trabajadores mediante el establecimiento de estándares como salario mínimo, pago de tiempo extra y limitaciones al trabajo infantil. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Qué determina si un empleado está clasificado como exento o no exento bajo la FLSA?",
+    "options": [
+      "El número de años que ha trabajado para la empresa.",
+      "El título de su puesto únicamente.",
+      "El salario y las funciones laborales reales.",
+      "La edad del empleado."
+    ],
+    "answer": "El salario y las funciones laborales reales.",
+    "justification": "La clasificación como exento depende tanto del salario recibido como de las funciones laborales reales, no simplemente del título del trabajo. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-4."
+  },
+  {
+    "question": "Si un empleado no exento trabaja 39 horas en una semana laboral, bajo la FLSA:",
+    "options": [
+      "Debe recibir pago de tiempo extra por 39 horas.",
+      "Debe recibir tiempo libre compensatorio.",
+      "Debe recibir pago por 39 horas al salario normal.",
+      "Debe recibir un bono obligatorio."
+    ],
+    "answer": "Debe recibir pago por 39 horas al salario normal.",
+    "justification": "Si un empleado trabaja menos de 40 horas en una semana, debe ser pagado por las horas trabajadas a su tarifa normal sin tiempo extra. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones es verdadera sobre el salario mínimo bajo la FLSA?",
+    "options": [
+      "Todos los empleadores deben pagar el salario mínimo federal como mínimo.",
+      "Los empleadores pueden decidir pagar menos que el salario mínimo federal.",
+      "El salario mínimo solo aplica a empleados a tiempo parcial.",
+      "El salario mínimo no aplica a empleados agrícolas."
+    ],
+    "answer": "Todos los empleadores deben pagar el salario mínimo federal como mínimo.",
+    "justification": "Bajo la FLSA, los empleadores deben pagar al menos el salario mínimo federal, a menos que el salario mínimo estatal o local sea mayor. Consulta el Capítulo 3, Leyes laborales fundamentales, página 3-5."
+  }
+]
