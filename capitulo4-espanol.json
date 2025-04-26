@@ -1,0 +1,465 @@
+[
+  {
+    "question": "Cuál de las siguientes NO ES una fuente recomendada para encontrar subcontratistas según el libro?",
+    "options": [
+      "Subcontratistas en un campo diferente que han trabajado con otros subcontratistas en otros trabajos.",
+      "Proveedores.",
+      "Otros contratistas en su campo.",
+      "Revistas de moda"
+    ],
+    "answer": "Revistas de moda",
+    "justification": "Las asociaciones de la industria, anuncios en línea y referencias personales son mencionadas como fuentes recomendadas para encontrar subcontratistas. Las revistas de moda no son una fuente adecuada para este propósito. Referencia: Capítulo 4, Fuentes para encontrar subcontratistas, página 4-1."
+  },
+  {
+    "question": "Cuál es una de las fuentes sugeridas para encontrar subcontratistas?",
+    "options": [
+      "Redes sociales.",
+      "Revistas de moda.",
+      "Arquitectos o ingenieros.",
+      "Parques públicos."
+    ],
+    "answer": "Arquitectos o ingenieros.",
+    "justification": "El libro menciona que las ferias de la construcción son una buena oportunidad para conocer a posibles subcontratistas y evaluar sus habilidades y experiencias directamente. Referencia: Capítulo 4, Fuentes para encontrar subcontratistas, página 4-1."
+  },
+  {
+    "question": "Cuál es una fuente recomendada para encontrar subcontratistas mencionada en el libro?",
+    "options": [
+      "Periódicos locales.",
+      "Redes sociales.",
+      "Referencias personales.",
+      "Revistas de moda."
+    ],
+    "answer": "Referencias personales.",
+    "justification": "El libro menciona las referencias personales como una fuente confiable para encontrar subcontratistas, ya que ofrecen recomendaciones basadas en experiencias previas. Referencia: Capítulo 4, Fuentes para encontrar subcontratistas, página 4-1."
+  },
+  {
+    "question": "Qué factor es esencial para mantener una sociedad ganadora con subcontratistas?",
+    "options": [
+      "Comunicación abierta y honesta.",
+      "Revisiones periódicas del trabajo.",
+      "Cumplimiento de plazos.",
+      "Proporcione orientación en cuanto a sus políticas y procedimientos."
+    ],
+    "answer": "Proporcione orientación en cuanto a sus políticas y procedimientos.",
+    "justification": "La comunicación abierta y honesta es fundamental para mantener una relación sólida con los subcontratistas. Esto asegura que ambas partes estén al tanto de cualquier problema o cambio en el proyecto. El cumplimiento de plazos, aunque importante, no es tan crucial como la comunicación. (página 4-2)"
+  },
+  {
+    "question": "Cuál de las siguientes NO es una práctica recomendada para construir una relación efectiva con subcontratistas?",
+    "options": [
+      "Esté abierto a recibir comentarios y sugerencias.",
+      "Cambiar frecuentemente los subcontratistas.",
+      "Programe los diferentes oficios de manera que el trabajo previo esté listo y cada subcontratista tenga mínimos inconvenientes para completar su trabajo.",
+      "Mantener la honestidad en las negociaciones."
+    ],
+    "answer": "Cambiar frecuentemente los subcontratistas.",
+    "justification": "La transparencia en la comunicación y el respeto mutuo son fundamentales para una relación efectiva. Sin embargo, cambiar frecuentemente los subcontratistas no fomenta una relación sólida y duradera. (página 4-2)"
+  },
+  {
+    "question": "Qué práctica fomenta una relación de trabajo sólida con los subcontratistas?",
+    "options": [
+      "Mantener reuniones frecuentes.",
+      "Ofrecer incentivos financieros.",
+      "Compórtese con profesionalismo y no utilice lenguaje soez.",
+      "Delegar todas las decisiones al subcontratista."
+    ],
+    "answer": "Compórtese con profesionalismo y no utilice lenguaje soez.",
+    "justification": "Ser transparente y claro en las expectativas y en la comunicación ayuda a mantener una relación sólida. Las reuniones frecuentes pueden ayudar pero no son tan cruciales como la transparencia y la claridad. (página 4-2)"
+  },
+  {
+    "question": "Cuál de las siguientes NO es una característica de una sociedad ganadora con subcontratistas?",
+    "options": [
+      "Comunicación efectiva.",
+      "Respeto mutuo.",
+      "Ignorar las sugerencias del subcontratista.",
+      "Claridad en la distribución de responsabilidades."
+    ],
+    "answer": "Ignorar las sugerencias del subcontratista.",
+    "justification": "El respeto mutuo y la comunicación son características clave de una sociedad ganadora. En cambio, ignorar las sugerencias del subcontratista puede llevar a conflictos y malentendidos. (página 4-2)"
+  },
+  {
+    "question": "Cuál de las siguientes no es una regla de la obra para contratistas en Oregón?",
+    "options": [
+      "Seguir todas las políticas de seguridad y las regulaciones de la OSHA de Oregón.",
+      "Proporcionar sus propias herramientas y equipos.",
+      "Realizar inspecciones semanales de seguridad obligatorias.",
+      "Compórtese con profesionalismo y no utilice lenguaje soez."
+    ],
+    "answer": "Realizar inspecciones semanales de seguridad obligatorias.",
+    "justification": "Una de las reglas clave para los contratistas en Oregón es que deben seguir todas las normativas de seguridad en la obra. Esto incluye asegurar que todos los trabajadores usen el equipo de protección personal adecuado y cumplan con las normativas de OSHA. Estas reglas son esenciales para evitar accidentes y mantener un entorno de trabajo seguro. Referencia: Capítulo 4, página 4-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una práctica recomendada para contratar subcontratistas?",
+    "options": [
+      "Verificar referencias.",
+      "Revisar el historial de trabajo.",
+      "Confirmar las certificaciones y licencias.",
+      "Contratar sin verificación previa."
+    ],
+    "answer": "Contratar sin verificación previa.",
+    "justification": "Es crucial verificar las referencias y el historial de trabajo de los subcontratistas antes de contratarlos. Sin embargo, realizar una contratación sin ninguna verificación previa no es una práctica recomendada ya que puede llevar a problemas de calidad y cumplimiento en el proyecto. Referencia: Capítulo 4, página 4-2."
+  },
+  {
+    "question": "Qué responsabilidad tiene el contratista respecto a los subcontratistas en términos de normativas de seguridad?",
+    "options": [
+      "Verificar periódicamente que todos los subcontratistas cuenten con una licencia de la CCB con los endosos apropiados.",
+      "Permitir que los subcontratistas manejen su propia seguridad.",
+      "No intervenir en las prácticas de seguridad de los subcontratistas.",
+      "Asumir que los subcontratistas cumplen con las normativas."
+    ],
+    "answer": "Verificar periódicamente que todos los subcontratistas cuenten con una licencia de la CCB con los endosos apropiados.",
+    "justification": "El contratista tiene la responsabilidad de asegurarse de que los subcontratistas cumplan con todas las normativas de seguridad aplicables. Esto incluye revisar su trabajo, realizar inspecciones y garantizar que todos los procedimientos de seguridad se sigan correctamente. Referencia: Capítulo 4, página 4-2."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES una obligación del contratista al trabajar con subcontratistas?",
+    "options": [
+      "Verificar que las licencias estén vigentes",
+      "Revisar el trabajo regularmente",
+      "Asegurarse del cumplimiento de todas las políticas de seguridad y las regulaciones de la OSHA de Oregón",
+      "Mantener radios siempre en silencio"
+    ],
+    "answer": "Mantener radios siempre en silencio",
+    "justification": "El contratista debe verificar las licencias, asegurarse de que el trabajo cumple con las normativas y revisar regularmente el progreso. Sin embargo, los radios pueden estar en volumen moderado pero libres de contenido ofensivo. Referencia: Capítulo 4, página 4-2."
+  },
+  {
+    "question": "Qué es fundamental incluir en los contratos con subcontratistas para asegurar el cumplimiento?",
+    "options": [
+      "Términos y condiciones claros",
+      "Acuerdos verbales informales",
+      "Descripción vaga del trabajo",
+      "Plazos flexibles y no específicos"
+    ],
+    "answer": "Términos y condiciones claros",
+    "justification": "Para asegurar el cumplimiento y prevenir malentendidos, es fundamental incluir en los contratos términos y condiciones claros, descripciones detalladas del trabajo, plazos específicos y las expectativas de calidad y seguridad. Referencia: Capítulo 4, página 4-2."
+  },
+{
+    "question": "Cuál de las siguientes NO ES una responsabilidad del contratista general en cuanto a la seguridad en la obra?",
+    "options": [
+      "Proveer equipo de protección personal",
+      "Realizar inspecciones regulares",
+      "Permitir que cada subcontratista maneje su propia seguridad sin supervisión",
+      "Asegurar el cumplimiento de las normativas de seguridad"
+    ],
+    "answer": "Permitir que cada subcontratista maneje su propia seguridad sin supervisión",
+    "justification": "El contratista general es responsable de asegurar que todas las normativas de seguridad se cumplan en la obra, proporcionando equipo de protección personal y realizando inspecciones regulares. No es su responsabilidad principal permitir que cada subcontratista maneje su propia seguridad sin supervisión. Referencia: Capítulo 4, página 4-2."
+  },
+  {
+    "question": "Qué información es recomendable incluir en los contratos con subcontratistas?",
+    "options": [
+      "Una descripción detallada del trabajo",
+      "Un acuerdo verbal entre ambas partes",
+      "Una cláusula que permita modificaciones arbitrarias sin notificación",
+      "Un resumen de lo hablado por teléfono"
+    ],
+    "answer": "Una descripción detallada del trabajo",
+    "justification": "Una descripción detallada del trabajo es esencial en los contratos con subcontratistas para establecer claramente las expectativas y evitar malentendidos. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Qué cláusula es importante incluir en un contrato con subcontratistas para protegerse contra defectos de construcción?",
+    "options": [
+      "Una cláusula de indemnización",
+      "Una cláusula de terminación inmediata sin causa",
+      "Una cláusula de exclusión de responsabilidad",
+      "Una cláusula de reducción de pagos"
+    ],
+    "answer": "Una cláusula de indemnización",
+    "justification": "Una cláusula de indemnización protege al contratista general haciendo que el subcontratista sea responsable de cualquier daño o defecto causado por su trabajo. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Cuál es una ventaja de contar con un contrato escrito con subcontratistas?",
+    "options": [
+      "Permite cambiar las condiciones verbalmente en cualquier momento",
+      "Establece claramente las expectativas y las obligaciones de ambas partes",
+      "Elimina la necesidad de licencias",
+      "Reduce la calidad del trabajo"
+    ],
+    "answer": "Establece claramente las expectativas y las obligaciones de ambas partes",
+    "justification": "Un contrato escrito ayuda a establecer claramente las expectativas y obligaciones, reduciendo riesgos de malentendidos y posibles disputas. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Qué documento ayuda a detallar el alcance del trabajo que realizará un subcontratista?",
+    "options": [
+      "Un contrato de servicios generales",
+      "Un alcance de trabajo (scope of work)",
+      "Una hoja de costos estimados",
+      "Un reporte verbal del avance"
+    ],
+    "answer": "Un alcance de trabajo (scope of work)",
+    "justification": "El alcance de trabajo (scope of work) define claramente qué tareas serán realizadas, los materiales a utilizar y otros detalles esenciales para evitar confusión. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Cuál de los siguientes aspectos es importante definir en un contrato de subcontratista?",
+    "options": [
+      "Metodología de limpieza diaria",
+      "Detalles sobre qué materiales proporcionará el contratista general",
+      "Costos de entretenimiento",
+      "Reglas para el uso del celular en obra"
+    ],
+    "answer": "Detalles sobre qué materiales proporcionará el contratista general",
+    "justification": "Definir qué materiales serán provistos por el contratista general y cuáles serán responsabilidad del subcontratista evita confusiones y retrasos. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Qué elemento debería establecerse en un contrato para definir la calidad esperada del trabajo?",
+    "options": [
+      "Declaraciones generales de satisfacción",
+      "Normas específicas de la industria aplicables",
+      "Opiniones personales del contratista",
+      "Términos vagos de cumplimiento"
+    ],
+    "answer": "Normas específicas de la industria aplicables",
+    "justification": "Referenciar normas de la industria en los contratos proporciona un estándar objetivo para medir la calidad del trabajo. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Cuál de las siguientes es una razón para establecer un cronograma detallado en los contratos de subcontratistas?",
+    "options": [
+      "Aumentar los costos de construcción",
+      "Facilitar el cumplimiento de plazos del proyecto",
+      "Reducir la supervisión en obra",
+      "Permitir que los subcontratistas trabajen a su propio ritmo"
+    ],
+    "answer": "Facilitar el cumplimiento de plazos del proyecto",
+    "justification": "Un cronograma detallado ayuda a garantizar que cada subcontratista complete su trabajo a tiempo, facilitando la coordinación general del proyecto. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Qué se debe hacer si un subcontratista no cumple con las obligaciones establecidas en el contrato?",
+    "options": [
+      "Ignorarlo si el impacto es mínimo",
+      "Aplicar las sanciones previstas en el contrato",
+      "Solicitar una carta de disculpas",
+      "Cancelar inmediatamente todos los contratos existentes"
+    ],
+    "answer": "Aplicar las sanciones previstas en el contrato",
+    "justification": "Aplicar las sanciones previstas asegura que el subcontratista asuma responsabilidad y que se respeten los términos del acuerdo. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-3."
+  },
+  {
+    "question": "Qué es una cláusula de pago condicionada en un contrato de subcontratista?",
+    "options": [
+      "Una cláusula que exige pagar solo después de recibir el pago del cliente",
+      "Una cláusula que permite no pagar si no hay ganancias",
+      "Una cláusula que permite pagar con materiales",
+      "Una cláusula para condicionar los bonos anuales"
+    ],
+    "answer": "Una cláusula que exige pagar solo después de recibir el pago del cliente",
+    "justification": "Las cláusulas de pago condicionado protegen al contratista general, estableciendo que el subcontratista recibirá pago sólo cuando el cliente haya pagado. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Cuál es la ventaja de incluir una cláusula de pago condicionado en un contrato de subcontratista?",
+    "options": [
+      "Reduce la necesidad de supervisar a los subcontratistas",
+      "Protege al contratista general en caso de falta de pago del cliente",
+      "Permite retrasar indefinidamente los pagos",
+      "Facilita la contratación sin garantías"
+    ],
+    "answer": "Protege al contratista general en caso de falta de pago del cliente",
+    "justification": "Una cláusula de pago condicionado protege al contratista general de ser financieramente responsable si el cliente no paga. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Qué acción es necesaria para hacer efectiva una cláusula de pago condicionado?",
+    "options": [
+      "Explicarlo oralmente al subcontratista",
+      "Solicitar firma de aceptación por parte del subcontratista",
+      "Publicarlo en un tablón de avisos",
+      "Enviar un mensaje de texto como notificación"
+    ],
+    "answer": "Solicitar firma de aceptación por parte del subcontratista",
+    "justification": "La cláusula de pago condicionado debe ser aceptada y firmada explícitamente por el subcontratista para ser válida legalmente. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+{
+    "question": "Qué medida puede tomar un contratista para protegerse contra los riesgos de defectos en la construcción realizados por un subcontratista?",
+    "options": [
+      "Solicitar una cláusula de indemnización",
+      "Solicitar referencias personales únicamente",
+      "Permitir que el subcontratista trabaje sin supervisión",
+      "Eliminar cualquier cláusula de responsabilidad del contrato"
+    ],
+    "answer": "Solicitar una cláusula de indemnización",
+    "justification": "La cláusula de indemnización obliga al subcontratista a asumir responsabilidad por defectos, errores o negligencia en su trabajo. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Qué acción es adecuada si un subcontratista rechaza firmar una cláusula de indemnización?",
+    "options": [
+      "Eliminar la cláusula y continuar",
+      "Negociar para llegar a un acuerdo o considerar no contratarlo",
+      "Permitirle trabajar sin contrato",
+      "Incrementar el precio como penalización"
+    ],
+    "answer": "Negociar para llegar a un acuerdo o considerar no contratarlo",
+    "justification": "Si un subcontratista se niega a firmar una cláusula de indemnización, puede representar un riesgo significativo; es recomendable negociar o considerar no contratarlo. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Cuál de los siguientes es un objetivo principal de una cláusula de indemnización en contratos de subcontratistas?",
+    "options": [
+      "Reducir los costos de material",
+      "Proteger al contratista general contra demandas",
+      "Aumentar la carga administrativa",
+      "Proteger al cliente de cualquier responsabilidad"
+    ],
+    "answer": "Proteger al contratista general contra demandas",
+    "justification": "La cláusula de indemnización tiene como objetivo principal proteger al contratista general de demandas o reclamaciones derivadas del trabajo del subcontratista. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Qué problema puede surgir si no se verifica que un subcontratista tenga seguro vigente?",
+    "options": [
+      "El contratista puede enfrentar demandas y responsabilidades financieras",
+      "Se reducen los costos operativos",
+      "El proyecto se completa más rápido",
+      "Mejoran las relaciones laborales"
+    ],
+    "answer": "El contratista puede enfrentar demandas y responsabilidades financieras",
+    "justification": "No verificar el seguro vigente expone al contratista general a posibles demandas y responsabilidades económicas en caso de accidentes o daños. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Qué tipo de seguro debería tener un subcontratista antes de comenzar a trabajar en un proyecto?",
+    "options": [
+      "Seguro de vida personal",
+      "Seguro de automóvil",
+      "Seguro de responsabilidad general",
+      "Seguro de gastos médicos mayores"
+    ],
+    "answer": "Seguro de responsabilidad general",
+    "justification": "El seguro de responsabilidad general protege contra daños a terceros, daños a la propiedad y lesiones corporales que puedan ocurrir durante el proyecto. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Qué se recomienda solicitar a un subcontratista para verificar su seguro?",
+    "options": [
+      "Una copia de su licencia de conducir",
+      "Una carta de recomendación",
+      "Un certificado de seguro",
+      "Una declaración verbal de cobertura"
+    ],
+    "answer": "Un certificado de seguro",
+    "justification": "Un certificado de seguro proporciona evidencia oficial de que el subcontratista cuenta con la cobertura adecuada vigente. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Cuál es un riesgo de no establecer requisitos claros de seguro para los subcontratistas?",
+    "options": [
+      "Mayor eficiencia en la obra",
+      "Aumento de la responsabilidad financiera para el contratista general",
+      "Reducción de costos administrativos",
+      "Facilitación del proceso de contratación"
+    ],
+    "answer": "Aumento de la responsabilidad financiera para el contratista general",
+    "justification": "Sin requisitos claros de seguro, el contratista general podría ser financieramente responsable de accidentes o daños ocasionados por el subcontratista. Referencia: Capítulo 4, Contratos con subcontratistas, página 4-4."
+  },
+  {
+    "question": "Cuál de las siguientes prácticas ayuda a gestionar mejor a los subcontratistas en obra?",
+    "options": [
+      "Proporcionar lineamientos claros sobre la conducta en obra",
+      "Permitir que cada quien establezca sus propias reglas",
+      "Dejar la supervisión exclusivamente al cliente",
+      "No establecer ninguna política escrita"
+    ],
+    "answer": "Proporcionar lineamientos claros sobre la conducta en obra",
+    "justification": "Proporcionar lineamientos claros ayuda a establecer expectativas y mantener un ambiente de trabajo seguro y profesional. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué debe hacer un contratista si observa una violación a las normas de seguridad cometida por un subcontratista?",
+    "options": [
+      "Ignorarla si parece menor",
+      "Informarlo de inmediato y documentarlo",
+      "Esperar que otro supervisor intervenga",
+      "Hacer advertencias verbales sin seguimiento"
+    ],
+    "answer": "Informarlo de inmediato y documentarlo",
+    "justification": "Es fundamental documentar y comunicar cualquier violación de seguridad para proteger a todos los involucrados y reducir riesgos de responsabilidad. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué tipo de comunicación es más efectiva para evitar malentendidos con subcontratistas?",
+    "options": [
+      "Verbal informal",
+      "Notas rápidas sin firma",
+      "Comunicación clara y por escrito",
+      "Mensajes de texto ambiguos"
+    ],
+    "answer": "Comunicación clara y por escrito",
+    "justification": "La comunicación clara y documentada ayuda a prevenir malentendidos y proporciona evidencia en caso de disputas. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué debe hacer un contratista si un subcontratista no respeta las políticas establecidas en obra?",
+    "options": [
+      "Solicitar que abandone la obra si no corrige el comportamiento",
+      "Aceptar su comportamiento para evitar conflictos",
+      "Permitir excepciones si el trabajo es urgente",
+      "Informarlo al cliente y esperar instrucciones"
+    ],
+    "answer": "Solicitar que abandone la obra si no corrige el comportamiento",
+    "justification": "Si un subcontratista no cumple las políticas de seguridad y conducta después de ser advertido, debe ser retirado para proteger la integridad del proyecto. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué documento es recomendable utilizar para registrar incidentes o incumplimientos de subcontratistas en la obra?",
+    "options": [
+      "Bitácora de obra",
+      "Contrato original",
+      "Correo electrónico informal",
+      "Mensajes de texto personales"
+    ],
+    "answer": "Bitácora de obra",
+    "justification": "La bitácora de obra es una herramienta formal y aceptada para documentar incidentes, progresos, y cualquier situación que ocurra en la construcción. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+{
+    "question": "Cuál es uno de los beneficios de documentar todas las comunicaciones importantes con los subcontratistas?",
+    "options": [
+      "Facilitar cambios improvisados en el proyecto",
+      "Tener un registro en caso de disputas",
+      "Reducir la cantidad de trabajo administrativo",
+      "Evitar la necesidad de contratos escritos"
+    ],
+    "answer": "Tener un registro en caso de disputas",
+    "justification": "La documentación de comunicaciones importantes proporciona evidencia en caso de malentendidos o disputas legales. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué acción debe tomar el contratista si hay cambios en el alcance del trabajo de un subcontratista?",
+    "options": [
+      "Documentarlo mediante una orden de cambio",
+      "Solicitarlo verbalmente",
+      "Anunciarlo de manera informal en la obra",
+      "Esperar que el subcontratista se adapte solo"
+    ],
+    "answer": "Documentarlo mediante una orden de cambio",
+    "justification": "Una orden de cambio documentada asegura que ambas partes comprendan y acuerden los cambios en el alcance, cronograma o precio del trabajo. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué es un cambio ordenado (change order) en un contrato de subcontratista?",
+    "options": [
+      "Una modificación verbal acordada",
+      "Un acuerdo escrito que modifica el alcance, precio o tiempo",
+      "Una sanción económica por incumplimiento",
+      "Una sugerencia de mejora"
+    ],
+    "answer": "Un acuerdo escrito que modifica el alcance, precio o tiempo",
+    "justification": "El change order es un documento formal que modifica los términos originales del contrato, asegurando que los cambios estén autorizados y claros para ambas partes. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Cuál de las siguientes prácticas mejora la coordinación entre contratistas y subcontratistas en un proyecto de construcción?",
+    "options": [
+      "Evitar reuniones de coordinación",
+      "Realizar reuniones regulares para revisar avances",
+      "Delegar toda la coordinación al cliente",
+      "Permitir que los subcontratistas coordinen directamente entre ellos sin supervisión"
+    ],
+    "answer": "Realizar reuniones regulares para revisar avances",
+    "justification": "Las reuniones periódicas permiten identificar problemas temprano, ajustar cronogramas y asegurar que todos estén alineados con los objetivos del proyecto. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Qué actitud debe mantener un contratista para fomentar una relación de trabajo positiva con sus subcontratistas?",
+    "options": [
+      "Inflexibilidad absoluta en todas las decisiones",
+      "Comunicación abierta, respeto y profesionalismo",
+      "Amenazas constantes para garantizar cumplimiento",
+      "Exigir resultados sin proporcionar apoyo ni información"
+    ],
+    "answer": "Comunicación abierta, respeto y profesionalismo",
+    "justification": "Una relación basada en la comunicación abierta, el respeto y el profesionalismo fomenta la colaboración, la lealtad y el cumplimiento de los objetivos del proyecto. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  },
+  {
+    "question": "Cuál es el propósito principal de supervisar activamente el trabajo de los subcontratistas en un proyecto de construcción?",
+    "options": [
+      "Encontrar fallas para penalizarlos",
+      "Reducir costos administrativos",
+      "Asegurar la calidad, seguridad y cumplimiento del proyecto",
+      "Delegar responsabilidades al cliente"
+    ],
+    "answer": "Asegurar la calidad, seguridad y cumplimiento del proyecto",
+    "justification": "La supervisión activa permite asegurar que el trabajo se realice de acuerdo con los estándares de calidad, seguridad y cumplimiento establecidos en el contrato. Referencia: Capítulo 4, Supervisión de subcontratistas, página 4-5."
+  }
+]
+
