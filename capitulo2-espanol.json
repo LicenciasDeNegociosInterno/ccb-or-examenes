@@ -1,0 +1,575 @@
+[
+  {
+    "question": "Cuál de las siguientes NO ES una estructura de negocio descrita en el capítulo 2?",
+    "options": [
+      "Propietario único.",
+      "Compañía de responsabilidad limitada (LLC).",
+      "Corporación de responsabilidad personal.",
+      "Sociedades."
+    ],
+    "answer": "Corporación de responsabilidad personal.",
+    "justification": "Las estructuras de negocio descritas en el capítulo 2 incluyen el propietario único, las sociedades, las corporaciones y las compañías de responsabilidad limitada (LLC). Otras formas de estructuras de negocios no se mencionan en este capítulo. Consulta el Capítulo 2, páginas 2-1, 2-2, 2-3, 2-4."
+  },
+  {
+    "question": "Cuál es una ventaja de establecer un negocio como propietario único?",
+    "options": [
+      "Mayor facilidad para obtener financiamiento.",
+      "Libertad en el proceso de toma de decisiones.",
+      "Protección legal limitada.",
+      "Responsabilidad compartida."
+    ],
+    "answer": "Libertad en el proceso de toma de decisiones.",
+    "justification": "Una ventaja de ser propietario único es que permite un control total y responsabilidad directa sobre el negocio, facilitando decisiones rápidas. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "Cuál de las siguientes no es una ventaja de las corporaciones en general?",
+    "options": [
+      "Entidad comercial separada.",
+      "Transferencia de propiedad a través de la venta de acciones.",
+      "Responsabilidad limitada para los accionistas.",
+      "Complejidad en la administración."
+    ],
+    "answer": "Complejidad en la administración.",
+    "justification": "Las corporaciones en general ofrecen ventajas como la responsabilidad limitada y la facilidad para transferir propiedad. Sin embargo, una desventaja notable es la complejidad en la administración. Consulta el Capítulo 2, página 2-3."
+  },
+  {
+    "question": "Cuál es una característica de las sociedades?",
+    "options": [
+      "Relación entre dos o más personas que se unen para llevar a cabo un oficio o negocio.",
+      "Responsabilidad limitada para los socios.",
+      "Facilidad para transferir propiedad.",
+      "Protección de activos personales."
+    ],
+    "answer": "Relación entre dos o más personas que se unen para llevar a cabo un oficio o negocio.",
+    "justification": "Una sociedad es una entidad donde dos o más personas comparten la propiedad y operación del negocio. Cada socio es responsable de las deudas y obligaciones del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "Qué ventaja tiene una corporación de tipo S?",
+    "options": [
+      "Mayor facilidad para obtener financiamiento.",
+      "Menor complejidad administrativa.",
+      "Puede evitar pagar impuestos dos veces.",
+      "Responsabilidad ilimitada para los propietarios."
+    ],
+    "answer": "Puede evitar pagar impuestos dos veces.",
+    "justification": "Una corporación de tipo S permite a los accionistas evitar la doble imposición de los ingresos, ya que los ingresos y las pérdidas se pasan directamente a los accionistas y se reportan en sus declaraciones de impuestos personales. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES una característica de un propietario único?",
+    "options": [
+      "Responsabilidad limitada.",
+      "Usted es dueño de los bienes de la compañía.",
+      "Los gastos comerciales y personales deben separarse.",
+      "Responsabilidad directa sobre el negocio."
+    ],
+    "answer": "Responsabilidad limitada.",
+    "justification": "Un propietario único es el único responsable de todas las decisiones y obligaciones del negocio. No comparte la propiedad ni la responsabilidad con otros. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "Cuál es una desventaja de una sociedad?",
+    "options": [
+      "Responsabilidad personal ilimitada de los socios generales.",
+      "Flexibilidad en la gestión.",
+      "Facilidad para formar la entidad.",
+      "Distribución de ganancias y pérdidas."
+    ],
+    "answer": "Responsabilidad personal ilimitada de los socios generales.",
+    "justification": "Una desventaja significativa de una sociedad es que los socios son personalmente responsables por las deudas del negocio, lo que puede poner en riesgo sus activos personales. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES una ventaja de una Compañía de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Documentación limitada.",
+      "No hay divulgación pública de las finanzas.",
+      "Facilidad en la transferencia de propiedad.",
+      "Capacidad para delegar la gerencia a una persona que no sea miembro."
+    ],
+    "answer": "Facilidad en la transferencia de propiedad.",
+    "justification": "Una LLC proporciona a sus propietarios responsabilidad limitada y flexibilidad en la gestión, pero no proporciona facilidad en la transferencia de propiedad, lo que puede ser más complejo en comparación con otras estructuras. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "Cuál de las siguientes NO ES una desventaja de las sociedades?",
+    "options": [
+      "Responsabilidad personal.",
+      "Dificultad en cambios a los socios o al contrato de la sociedad.",
+      "Flexibilidad en la gestión.",
+      "Posible conflicto entre socios."
+    ],
+    "answer": "Flexibilidad en la gestión.",
+    "justification": "Las sociedades tienen varias desventajas, incluyendo la responsabilidad personal por las deudas del negocio y la posible dificultad en la transferencia de propiedad. Sin embargo, una ventaja es la flexibilidad en la gestión. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "Cuál es una ventaja de una Compañía de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Responsabilidad limitada para gerentes y miembros.",
+      "Complejidad en la administración.",
+      "Dificultad en la transferencia de propiedad.",
+      "Mayores costos iniciales."
+    ],
+    "answer": "Responsabilidad limitada para gerentes y miembros.",
+    "justification": "Una ventaja importante de una LLC es que ofrece responsabilidad limitada a sus propietarios, protegiendo sus activos personales en caso de que el negocio enfrente problemas legales o financieros. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una característica de una corporación de tipo S?",
+    "options": [
+      "Permitir a los accionistas evitar la doble imposición",
+      "Flexibilidad fiscal",
+      "Responsabilidad ilimitada para los accionistas",
+      "Limitar el número de accionistas"
+    ],
+    "answer": "Responsabilidad ilimitada para los accionistas",
+    "justification": "Las corporaciones de tipo S permiten a los accionistas evitar la doble imposición de los ingresos. No obstante, no se caracterizan por tener responsabilidad ilimitada, ya que ofrecen responsabilidad limitada similar a otras corporaciones. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "Cuál es una desventaja de las corporaciones en general?",
+    "options": [
+      "Doble imposición de los ingresos",
+      "Facilidad para transferir propiedad",
+      "Responsabilidad limitada",
+      "Flexibilidad fiscal"
+    ],
+    "answer": "Doble imposición de los ingresos",
+    "justification": "Una desventaja significativa de las corporaciones es la doble imposición, donde los ingresos de la corporación son gravados tanto a nivel corporativo como a nivel de los accionistas. Consulta el Capítulo 2, página 2-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una ventaja de un propietario único?",
+    "options": [
+      "Protección legal limitada",
+      "Control total del negocio",
+      "Simplicidad en la administración",
+      "Responsabilidad directa sobre el negocio"
+    ],
+    "answer": "Protección legal limitada",
+    "justification": "Ser propietario único no proporciona protección legal limitada; más bien, el propietario tiene responsabilidad ilimitada. Las ventajas incluyen simplicidad en la administración y control total del negocio. Consulta el Capítulo 2, página 2-1."
+  },
+{
+    "question": "¿Cuál es una característica de una sociedad?",
+    "options": [
+      "Responsabilidad compartida entre socios",
+      "Responsabilidad limitada para cada socio",
+      "Facilidad para obtener financiamiento",
+      "Protección de activos personales"
+    ],
+    "answer": "Responsabilidad compartida entre socios",
+    "justification": "Una característica fundamental de una sociedad es que todos los socios comparten la responsabilidad de las deudas y obligaciones del negocio, lo que puede implicar un riesgo para los activos personales. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una característica de una corporación de tipo C?",
+    "options": [
+      "Capacidad de emitir acciones",
+      "Responsabilidad limitada para los accionistas",
+      "Responsabilidad ilimitada para los accionistas",
+      "Doble imposición de los ingresos"
+    ],
+    "answer": "Responsabilidad ilimitada para los accionistas",
+    "justification": "Las corporaciones de tipo C tienen varias características, incluyendo la responsabilidad limitada y la capacidad de emitir acciones. Sin embargo, no tienen responsabilidad ilimitada para los accionistas. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál es una ventaja de establecer una corporación?",
+    "options": [
+      "Facilidad para transferir propiedad",
+      "Responsabilidad personal ilimitada",
+      "Complejidad en la administración",
+      "Dificultad en la obtención de financiamiento"
+    ],
+    "answer": "Facilidad para transferir propiedad",
+    "justification": "Una ventaja de establecer una corporación es la facilidad para transferir propiedad a través de la venta de acciones, lo que no es tan sencillo en otras estructuras de negocio. Consulta el Capítulo 2, página 2-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una desventaja de un propietario único?",
+    "options": [
+      "Responsabilidad ilimitada",
+      "Dificultad en obtener financiamiento",
+      "Riesgo personal de los activos",
+      "Simplicidad en la administración"
+    ],
+    "answer": "Simplicidad en la administración",
+    "justification": "Una desventaja del propietario único es la responsabilidad ilimitada. Sin embargo, la simplicidad en la administración es una ventaja significativa de esta estructura. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "¿Qué ventaja tiene una sociedad sobre otras estructuras de negocio?",
+    "options": [
+      "Responsabilidad personal ilimitada",
+      "Dificultad en la transferencia de propiedad",
+      "Complejidad en la administración",
+      "Combinar recursos y habilidades de los socios"
+    ],
+    "answer": "Combinar recursos y habilidades de los socios",
+    "justification": "Una ventaja de las sociedades es la capacidad de combinar recursos y habilidades de los socios, lo que puede fortalecer la gestión y operación del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una ventaja de una corporación?",
+    "options": [
+      "Responsabilidad limitada",
+      "Facilidad para transferir propiedad",
+      "Doble imposición de ingresos",
+      "Flexibilidad en la obtención de capital"
+    ],
+    "answer": "Doble imposición de ingresos",
+    "justification": "Una ventaja de las corporaciones incluye la facilidad para transferir propiedad y responsabilidad limitada, pero una desventaja importante es la doble imposición de ingresos. Consulta el Capítulo 2, página 2-3."
+  },
+  {
+    "question": "¿Qué característica es común en las Compañías de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Responsabilidad limitada para los propietarios",
+      "Doble imposición de los ingresos",
+      "Complejidad en la formación y gestión",
+      "Facilidad en la transferencia de propiedad"
+    ],
+    "answer": "Responsabilidad limitada para los propietarios",
+    "justification": "Una característica clave de las LLC es la responsabilidad limitada que protege los activos personales de los propietarios frente a las deudas y obligaciones del negocio. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una ventaja de un propietario único?",
+    "options": [
+      "Simplicidad en la administración",
+      "Control total del negocio",
+      "Facilidad en la toma de decisiones",
+      "Responsabilidad limitada"
+    ],
+    "answer": "Responsabilidad limitada",
+    "justification": "Una desventaja significativa de un propietario único es la responsabilidad ilimitada, mientras que la simplicidad en la administración es una ventaja. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "¿Cuál es una ventaja de una sociedad?",
+    "options": [
+      "Combinación de recursos y habilidades",
+      "Responsabilidad personal por las deudas",
+      "Complejidad en la administración",
+      "Dificultad en la transferencia de propiedad"
+    ],
+    "answer": "Combinación de recursos y habilidades",
+    "justification": "Una ventaja de una sociedad es la capacidad de combinar recursos y habilidades de los socios, lo que puede fortalecer la gestión y operación del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Qué característica es común en las corporaciones de tipo S?",
+    "options": [
+      "Evitar la doble imposición de los ingresos",
+      "Responsabilidad ilimitada para los accionistas",
+      "Dificultad en la transferencia de propiedad",
+      "Complejidad en la administración"
+    ],
+    "answer": "Evitar la doble imposición de los ingresos",
+    "justification": "Una característica de las corporaciones de tipo S es que permiten a los accionistas evitar la doble imposición de los ingresos, lo cual es una ventaja fiscal significativa. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál es una ventaja de establecer una sociedad?",
+    "options": [
+      "Combinar recursos y habilidades",
+      "Responsabilidad limitada para los socios",
+      "Dificultad en la obtención de financiamiento",
+      "Complejidad en la administración"
+    ],
+    "answer": "Combinar recursos y habilidades",
+    "justification": "Una ventaja de una sociedad es que permite combinar recursos y habilidades de los socios, mejorando la capacidad de gestión y operación del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una característica de un propietario único?",
+    "options": [
+      "Control total del negocio",
+      "Facilidad en la toma de decisiones",
+      "Responsabilidad limitada",
+      "Responsabilidad directa sobre el negocio"
+    ],
+    "answer": "Responsabilidad limitada",
+    "justification": "Un propietario único es responsable de todas las decisiones y obligaciones del negocio, y no tiene responsabilidad limitada. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "¿Qué ventaja tiene una Compañía de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Recompensas de ganancias directas",
+      "Complejidad en la administración",
+      "Doble imposición de los ingresos",
+      "Facilidad en la transferencia de propiedad"
+    ],
+    "answer": "Recompensas de ganancias directas",
+    "justification": "Una ventaja importante de una LLC es la responsabilidad limitada, que protege los activos personales de los propietarios frente a las deudas del negocio. Consulta el Capítulo 2, página 2-4."
+  },
+{
+    "question": "¿Cuál de las siguientes no es una ventaja de una corporación de tipo S?",
+    "options": [
+      "Evitar la doble imposición de los ingresos",
+      "Responsabilidad limitada",
+      "Responsabilidad ilimitada para los accionistas",
+      "Flexibilidad fiscal"
+    ],
+    "answer": "Responsabilidad ilimitada para los accionistas",
+    "justification": "Las corporaciones de tipo S permiten a los accionistas evitar la doble imposición de los ingresos y ofrecer responsabilidad limitada. Sin embargo, una ventaja no es la responsabilidad ilimitada para los accionistas. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Qué desventaja tiene una corporación de tipo C?",
+    "options": [
+      "Doble imposición de los ingresos",
+      "Facilidad para transferir propiedad",
+      "Responsabilidad limitada",
+      "Mayor acceso a financiamiento"
+    ],
+    "answer": "Doble imposición de los ingresos",
+    "justification": "Una desventaja significativa de las corporaciones de tipo C es la doble imposición de los ingresos, donde las ganancias se gravan tanto a nivel corporativo como de los accionistas. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Qué ventaja tiene una sociedad en comparación con otras estructuras de negocio?",
+    "options": [
+      "Combinar recursos y habilidades",
+      "Responsabilidad personal ilimitada",
+      "Dificultad en la transferencia de propiedad",
+      "Complejidad en la administración"
+    ],
+    "answer": "Combinar recursos y habilidades",
+    "justification": "Una ventaja de las sociedades es la capacidad de combinar recursos y habilidades de los socios, lo que puede fortalecer la gestión y operación del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Qué característica es común en las corporaciones de tipo C?",
+    "options": [
+      "Emitir acciones",
+      "Doble imposición de los ingresos",
+      "Responsabilidad ilimitada para los accionistas",
+      "Flexibilidad fiscal"
+    ],
+    "answer": "Emitir acciones",
+    "justification": "Las corporaciones de tipo C permiten emitir acciones, ofrecer responsabilidad limitada a los accionistas y tienen la capacidad de acceder a mayores recursos financieros. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una desventaja de una sociedad?",
+    "options": [
+      "Responsabilidad personal por las deudas",
+      "Dificultad en la transferencia de propiedad",
+      "Flexibilidad en la gestión",
+      "Posible conflicto entre socios"
+    ],
+    "answer": "Flexibilidad en la gestión",
+    "justification": "Las sociedades tienen varias desventajas, incluyendo la responsabilidad personal por las deudas del negocio. Sin embargo, la flexibilidad en la gestión es una ventaja. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál es una ventaja de una corporación en general?",
+    "options": [
+      "Facilidad para transferir propiedad",
+      "Responsabilidad personal ilimitada",
+      "Complejidad en la administración",
+      "Dificultad en la obtención de financiamiento"
+    ],
+    "answer": "Facilidad para transferir propiedad",
+    "justification": "Una ventaja de establecer una corporación es la facilidad para transferir propiedad a través de la venta de acciones, lo que no es tan sencillo en otras estructuras de negocio. Consulta el Capítulo 2, página 2-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una ventaja de una Compañía de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Flexibilidad en la gestión",
+      "Responsabilidad limitada",
+      "Mayores costos iniciales",
+      "Evitar la doble imposición de los ingresos"
+    ],
+    "answer": "Mayores costos iniciales",
+    "justification": "Una LLC proporciona a sus propietarios responsabilidad limitada y flexibilidad en la gestión, pero puede tener mayores costos iniciales y complejidades fiscales. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Qué ventaja tiene un fideicomiso comercial en comparación con otras estructuras de negocio?",
+    "options": [
+      "Protección de activos y planificación a largo plazo",
+      "Complejidad en la administración",
+      "Responsabilidad personal ilimitada",
+      "Mayor facilidad para obtener financiamiento"
+    ],
+    "answer": "Protección de activos y planificación a largo plazo",
+    "justification": "Un fideicomiso comercial puede proporcionar una gestión centralizada y proteger los activos comerciales, permitiendo una planificación a largo plazo eficiente. Consulta el Capítulo 2, página 2-5."
+  },
+  {
+    "question": "¿Qué ventaja tiene una Compañía de Responsabilidad Limitada (LLC) sobre otras estructuras de negocio?",
+    "options": [
+      "Responsabilidad limitada",
+      "Complejidad en la administración",
+      "Doble imposición de los ingresos",
+      "Facilidad en la transferencia de propiedad"
+    ],
+    "answer": "Responsabilidad limitada",
+    "justification": "Una ventaja importante de una LLC es la responsabilidad limitada, que protege los activos personales de los propietarios frente a las deudas del negocio. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una ventaja de una sociedad?",
+    "options": [
+      "Responsabilidad limitada para los socios",
+      "Combinar recursos y habilidades",
+      "Facilidad en la formación de la entidad",
+      "Distribución de ganancias y pérdidas"
+    ],
+    "answer": "Responsabilidad limitada para los socios",
+    "justification": "Una ventaja de una sociedad es que permite combinar recursos y habilidades de los socios, mejorando la capacidad de gestión y operación del negocio. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una característica de un propietario único?",
+    "options": [
+      "Control total del negocio",
+      "Facilidad en la toma de decisiones",
+      "Responsabilidad limitada",
+      "Responsabilidad directa sobre el negocio"
+    ],
+    "answer": "Responsabilidad limitada",
+    "justification": "Un propietario único es responsable de todas las decisiones y obligaciones del negocio, y no tiene responsabilidad limitada. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "¿Qué desventaja tiene una sociedad en comparación con otras estructuras de negocio?",
+    "options": [
+      "Responsabilidad personal por las deudas del negocio",
+      "Flexibilidad en la gestión",
+      "Facilidad para formar la entidad",
+      "Distribución de ganancias y pérdidas"
+    ],
+    "answer": "Responsabilidad personal por las deudas del negocio",
+    "justification": "Una desventaja significativa de una sociedad es que los socios son personalmente responsables por las deudas del negocio, lo que puede poner en riesgo sus activos personales. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una característica de una corporación de tipo C?",
+    "options": [
+      "Capacidad de emitir acciones",
+      "Responsabilidad limitada para los accionistas",
+      "Responsabilidad ilimitada para los accionistas",
+      "Doble imposición de los ingresos"
+    ],
+    "answer": "Responsabilidad ilimitada para los accionistas",
+    "justification": "Las corporaciones de tipo C tienen varias características, incluyendo la responsabilidad limitada y la capacidad de emitir acciones. Sin embargo, no tienen responsabilidad ilimitada para los accionistas. Consulta el Capítulo 2, página 2-4."
+  },
+{
+    "question": "¿Cuál es una desventaja de un propietario único?",
+    "options": [
+      "Responsabilidad ilimitada",
+      "Simplicidad en la administración",
+      "Control total del negocio",
+      "Facilidad en la toma de decisiones"
+    ],
+    "answer": "Responsabilidad ilimitada",
+    "justification": "Una desventaja del propietario único es la responsabilidad ilimitada. Sin embargo, la simplicidad en la administración es una ventaja significativa de esta estructura. Consulta el Capítulo 2, página 2-1."
+  },
+  {
+    "question": "¿Qué ventaja tiene una corporación de tipo S sobre otras estructuras de negocio?",
+    "options": [
+      "Evitar la doble imposición de los ingresos",
+      "Complejidad en la administración",
+      "Responsabilidad ilimitada para los accionistas",
+      "Dificultad en la transferencia de propiedad"
+    ],
+    "answer": "Evitar la doble imposición de los ingresos",
+    "justification": "Una ventaja de una corporación de tipo S es que permite a los accionistas evitar la doble imposición de los ingresos, pasando los ingresos y pérdidas directamente a los accionistas. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una característica de una sociedad?",
+    "options": [
+      "Propiedad compartida entre dos o más personas",
+      "Combinación de recursos y habilidades",
+      "Responsabilidad limitada para los socios",
+      "Responsabilidad personal por las deudas"
+    ],
+    "answer": "Responsabilidad limitada para los socios",
+    "justification": "Una sociedad implica responsabilidad compartida y la combinación de recursos y habilidades de los socios, pero no ofrece responsabilidad limitada. Consulta el Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál es una desventaja de una Compañía de Responsabilidad Limitada (LLC)?",
+    "options": [
+      "Mayores costos iniciales",
+      "Responsabilidad limitada para los propietarios",
+      "Flexibilidad en la gestión",
+      "Evitar la doble imposición de los ingresos"
+    ],
+    "answer": "Mayores costos iniciales",
+    "justification": "Una desventaja de una LLC es que puede tener mayores costos iniciales y complejidades fiscales, a pesar de ofrecer responsabilidad limitada y flexibilidad en la gestión. Consulta el Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Qué ventaja tiene una LLC sobre una corporación en términos de impuestos?",
+    "options": [
+      "Mayor formalidad operativa",
+      "Responsabilidad limitada",
+      "Tributación directa",
+      "Acceso a mercados de capital"
+    ],
+    "answer": "Tributación directa",
+    "justification": "Una LLC ofrece ventajas fiscales al permitir la tributación directa, lo que significa que los ingresos y pérdidas del negocio pueden pasar directamente a los propietarios, evitando la doble imposición que enfrentan las corporaciones. Ver Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál es una ventaja de una estructura de propietario único en términos de control?",
+    "options": [
+      "Separación legal entre el propietario y el negocio",
+      "Acceso a capital a gran escala",
+      "Control total del propietario",
+      "Responsabilidad limitada"
+    ],
+    "answer": "Control total del propietario",
+    "justification": "En una estructura de propietario único, el propietario tiene control total sobre todas las decisiones del negocio, lo que puede permitir una toma de decisiones rápida y flexible. Ver Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una ventaja de una sociedad en términos de capital?",
+    "options": [
+      "Separación legal entre socios y negocio",
+      "Contribución de recursos por parte de los socios",
+      "Acceso a más capital",
+      "Facilidad de formación"
+    ],
+    "answer": "Separación legal entre socios y negocio",
+    "justification": "Una sociedad puede tener acceso a más capital debido a la capacidad de los socios para contribuir recursos. Sin embargo, esta estructura no proporciona la misma separación legal y protección de activos que una corporación o LLC. Ver Capítulo 2, página 2-3."
+  },
+  {
+    "question": "¿Cuál es una desventaja de una corporación tipo C en términos fiscales?",
+    "options": [
+      "Capacidad de emitir acciones",
+      "Acceso a mercados de capital",
+      "Doble imposición",
+      "Responsabilidad limitada"
+    ],
+    "answer": "Doble imposición",
+    "justification": "Una de las desventajas fiscales de una corporación tipo C es la doble imposición, donde los ingresos de la corporación se gravan tanto a nivel corporativo como a nivel de los accionistas cuando se distribuyen dividendos. Ver Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Qué desventaja tiene una corporación en comparación con una LLC?",
+    "options": [
+      "Mayor formalidad operativa",
+      "Responsabilidad limitada",
+      "Acceso a mercados de capital",
+      "Tributación directa"
+    ],
+    "answer": "Mayor formalidad operativa",
+    "justification": "Una de las desventajas de una corporación en comparación con una LLC es la mayor formalidad operativa y los requisitos de informes, que pueden ser más complejos y costosos de mantener. Ver Capítulo 2, página 2-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes es una ventaja de una sociedad en términos de recursos?",
+    "options": [
+      "Combinación de recursos y habilidades",
+      "Responsabilidad ilimitada",
+      "Complejidad en la toma de decisiones",
+      "Flexibilidad limitada"
+    ],
+    "answer": "Combinación de recursos y habilidades",
+    "justification": "Una sociedad permite a los socios combinar sus recursos y habilidades, lo que puede resultar en una mayor capacidad para financiar el negocio y compartir la carga de trabajo. Ver Capítulo 2, página 2-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes es una desventaja de una corporación tipo S en comparación con una LLC?",
+    "options": [
+      "Responsabilidad limitada",
+      "Restricciones en el número y tipo de accionistas",
+      "Evitación de la doble imposición",
+      "Transferencia de ingresos y pérdidas a los accionistas"
+    ],
+    "answer": "Restricciones en el número y tipo de accionistas",
+    "justification": "Una corporación tipo S tiene restricciones en el número y tipo de accionistas permitidos, lo que puede limitar su flexibilidad en comparación con una LLC. Ver Capítulo 2, página 2-5."
+  },
+  {
+    "question": "¿Qué ventaja tiene una estructura de propietario único en términos de impuestos?",
+    "options": [
+      "Tributación directa",
+      "Responsabilidad ilimitada",
+      "Separación legal entre propietario y negocio",
+      "Facilidad para recaudar capital"
+    ],
+    "answer": "Tributación directa",
+    "justification": "Una estructura de propietario único permite una tributación directa, donde los ingresos del negocio se gravan solo una vez como ingresos personales del propietario. Ver Capítulo 2, página 2-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes es una desventaja de una sociedad en términos de administración?",
+    "options": [
+      "Responsabilidad ilimitada",
+      "Estructura de administración rígida",
+      "Posibles desacuerdos entre socios",
+      "Complejidad en la toma de decisiones"
+    ],
+    "answer": "Posibles desacuerdos entre socios",
+    "justification": "Una desventaja de una sociedad es la responsabilidad ilimitada que comparten los socios y los posibles desacuerdos que pueden surgir entre ellos. Ver Capítulo 2, página 2-3."
+  }
+]
+
