@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Cuál de las siguientes es una responsabilidad del empleador bajo las leyes de seguridad y salud ocupacional?",
+    "options": [
+      "Comprender los estándares de seguridad que apliquen y corregir rápidamente cualquier violación",
+      "Proporcionar material de trabajo",
+      "Realizar inspecciones iregulares",
+      "Capacitar a los empleados sobre negocios"
+    ],
+    "answer": "Comprender los estándares de seguridad que apliquen y corregir rápidamente cualquier violación",
+    "justification": "Los empleadores están obligados a proporcionar un ambiente de trabajo seguro. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-1."
+  },
+  {
+    "question": "Cuál de las siguientes no es una acción correcta para prevenir accidentes en el lugar de trabajo?",
+    "options": [
+      "Proporcionar supervisión médica",
+      "Capacitar a los empleados",
+      "Eliminar completamente todos los riesgos",
+      "Disponer áreas de descontaminación"
+    ],
+    "answer": "Eliminar completamente todos los riesgos",
+    "justification": "Para prevenir accidentes, es necesario identificar riesgos, capacitar a los empleados y proporcionar equipo de protección. La eliminación completa de todos los riesgos es imposible, por lo que no es una acción correcta esperada. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-8."
+  },
+  {
+    "question": "Qué deben hacer los empleadores en relación con las sustancias peligrosas?",
+    "options": [
+      "Identificar las sustancias peligrosas",
+      "Desarrollar un programa de lugar de trabajo libre de sustancias y asegurarse de que todos los empleados sepan que está prohibido",
+      "Mantener registros de exposición",
+      "Implementar medidas de control"
+    ],
+    "answer": "Desarrollar un programa de lugar de trabajo libre de sustancias y asegurarse de que todos los empleados sepan que está prohibido",
+    "justification": "Desarrolle su programa junto con sus empleados. Converse acerca de los beneficios de contar con un lugar de trabajo libre de sustancias y su preocupación por que ellos tengan un entorno laboral seguro y saludable. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una medida que los empleadores deben tomar respecto al equipo de seguridad?",
+    "options": [
+      "Consultar los estándares de seguridad de Oregón",
+      "Evaluar cada obra para identificar los posibles peligros",
+      "Reemplazar el equipo cada año",
+      "Determinar cuáles equipos adicionales necesitan sus empleados"
+    ],
+    "answer": "Reemplazar el equipo cada año",
+    "justification": "Los empleadores no están obligados a reemplazar el equipo cada año si aún está en buenas condiciones y cumple con las normas de seguridad. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una obligación del empleador en relación con los riesgos laborales?",
+    "options": [
+      "Capacitación en seguridad",
+      "Mantenimiento de registros",
+      "Estándares de seguridad química",
+      "Eliminar todos los riesgos laborales"
+    ],
+    "answer": "Eliminar todos los riesgos laborales",
+    "justification": "Los empleadores deben identificar y evaluar los riesgos, implementar medidas de control y capacitar a los empleados. No están obligados a eliminar todos los riesgos laborales, sino a gestionarlos adecuadamente. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-10."
+  },
+  {
+    "question": "Qué deben hacer los empleadores para gestionar el equipo de protección personal adecuadamente?",
+    "options": [
+      "Proporcionar equipo de protección personal",
+      "Capacitar a los empleados en su uso correcto",
+      "Asegurarse de que el equipo se mantenga en buenas condiciones",
+      "Realizar inspecciones regulares del equipo"
+    ],
+    "answer": "Capacitar a los empleados en su uso correcto",
+    "justification": "Los empleadores deben proporcionar equipo de protección personal, capacitar a los empleados en su uso correcto y asegurarse de que el equipo se mantenga en buenas condiciones. Estas acciones son esenciales para la seguridad laboral. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-3."
+  },
+  {
+    "question": "Qué deben hacer los empleadores en relación con los registros de seguridad para cumplir con las leyes de seguridad y salud ocupacional?",
+    "options": [
+      "Mantener registros detallados de incidentes",
+      "Actualizar registros regularmente",
+      "Deben mantener registros de las lesiones y enfermedades relacionadas con el empleo",
+      "Realizar auditorías de seguridad periódicas"
+    ],
+    "answer": "Deben mantener registros de las lesiones y enfermedades relacionadas con el empleo",
+    "justification": "Para que quede constancia: Los empleadores con más de 10 empleados (en cualquier momento durante el año calendario anterior) deben mantener registros de las lesiones y enfermedades relacionadas con el empleo. Solo los empleadores en ciertos sectores con peligros reducidos están exentos. Los contratistas no son empleadores exentos. Referencia: Capítulo 10, Leyes de seguridad y salud ocupacional, página 10-3."
+  },
+  {
+    "question": "Qué atención debe incluir la un plan medico de emergencia según el capítulo 10?",
+    "options": [
+      "Gestión de proyectos",
+      "Procedimientos de evacuación",
+      "Designaciones de responsabilidad",
+      "Organización del transporte hacia el centro médico más cercano."
+    ],
+    "answer": "Organización del transporte hacia el centro médico más cercano.",
+    "justification": "Los empleadores deben desarrollar un plan médico de emergencia para proporcionar atención de emergencia a los empleados que sufran una lesión o una enfermedad seria en el trabajo. Referencia: página 10-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una práctica recomendada para la prevención de caídas?",
+    "options": [
+      "Instalación de ascensores",
+      "Sistemas personales de frenado de caídas",
+      "Barandales",
+      "Cubiertas"
+    ],
+    "answer": "Instalación de ascensores",
+    "justification": "El uso de arneses de seguridad, barandillas, redes de seguridad y la capacitación en el uso correcto del equipo de protección personal son prácticas recomendadas para la prevención de caídas. La instalación de ascensores no es una medida preventiva para caídas. Referencia: página 10-7."
+  },
+  {
+    "question": "Cuál es el propósito principal de la capacitación en seguridad?",
+    "options": [
+      "Garantizar vacaciones adecuadas",
+      "Mejorar la productividad",
+      "Reducir el riesgo de accidentes y lesiones",
+      "Aumentar los beneficios de la empresa"
+    ],
+    "answer": "Reducir el riesgo de accidentes y lesiones",
+    "justification": "El propósito principal de la capacitación en seguridad es garantizar que todos los empleados comprendan y sigan las prácticas de trabajo seguras, lo que reduce el riesgo de accidentes y lesiones en el lugar de trabajo. Referencia: página 10-2."
+  },
+  {
+    "question": "Qué componente no es necesario incluir en un programa de aseguramiento de la calidad?",
+    "options": [
+      "Evaluaciones de rendimiento no relacionadas con la seguridad",
+      "Inspecciones regulares",
+      "Revisiones de cumplimiento",
+      "Auditorías de seguridad"
+    ],
+    "answer": "Evaluaciones de rendimiento no relacionadas con la seguridad",
+    "justification": "Un programa de aseguramiento de la calidad debe incluir inspecciones regulares, revisiones de cumplimiento y auditorías de seguridad, pero no incluye evaluaciones de rendimiento de empleados que no estén relacionadas con la seguridad. Referencia: página 10-10."
+  },
+  {
+    "question": "Cuál es la función principal del mantenimiento de registros de seguridad?",
+    "options": [
+      "Controlar la asistencia de los empleados",
+      "Documentar lesiones y enfermedades relacionadas con el trabajo",
+      "Calcular los salarios",
+      "Gestionar las vacaciones"
+    ],
+    "answer": "Documentar lesiones y enfermedades relacionadas con el trabajo",
+    "justification": "La función principal del mantenimiento de registros de seguridad es documentar incidentes, capacitaciones y cumplimiento de normativas para mejorar la seguridad laboral y cumplir con las regulaciones. Referencia: página 10-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una política incluida en un programa de seguridad?",
+    "options": [
+      "Políticas de abuso de sustancias",
+      "Procedimientos de emergencia",
+      "Uso de equipos de protección",
+      "Políticas de marketing"
+    ],
+    "answer": "Políticas de marketing",
+    "justification": "Un programa de seguridad incluye políticas sobre abuso de sustancias, uso de equipos de protección y procedimientos de emergencia, pero no incluye políticas de marketing. Referencia: página 10-2."
+  },
+{
+    "question": "Qué aspecto no es considerado en el establecimiento de un programa de seguridad?",
+    "options": [
+      "Promoción de productos",
+      "Evaluación de riesgos",
+      "Capacitación en seguridad",
+      "Mantenimiento de registros"
+    ],
+    "answer": "Promoción de productos",
+    "justification": "El establecimiento de un programa de seguridad considera la evaluación de riesgos, capacitación en seguridad, y el mantenimiento de registros, pero no considera la promoción de productos. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál es un componente crucial de un plan de acción de emergencia?",
+    "options": [
+      "Designación del título del cargo del administrador del plan",
+      "Informe financiero",
+      "Plan de marketing",
+      "Estrategias de ventas"
+    ],
+    "answer": "Designación del título del cargo del administrador del plan",
+    "justification": "Un componente crucial de un plan de acción de emergencia es la designación del nombre que esta a cargo del administrador del plan para garantizar que todos sepan qué hacer durante una emergencia. Referencia: página 10-3."
+  },
+  {
+    "question": "Qué no se requiere en un plan médico de emergencia?",
+    "options": [
+      "Análisis de mercado",
+      "Procedimientos de primeros auxilios",
+      "Números de contacto de emergencia",
+      "Ubicación de equipos médicos"
+    ],
+    "answer": "Análisis de mercado",
+    "justification": "Un plan médico de emergencia requiere procedimientos de primeros auxilios, números de contacto de emergencia y ubicación de equipos médicos, pero no requiere un análisis de mercado. Referencia: página 10-3."
+  },
+  {
+    "question": "Qué no incluye un programa de seguridad en la obra?",
+    "options": [
+      "Políticas de abuso de poder",
+      "Procedimientos de emergencia",
+      "Equipo de protección personal",
+      "Mantenimiento de registros"
+    ],
+    "answer": "Políticas de abuso de poder",
+    "justification": "Un programa de seguridad en la obra incluye políticas de abuso de sustancias, procedimientos de emergencia, equipo de protección personal y mantenimiento de registros para asegurar un ambiente de trabajo seguro, mas no incluye políticas de abuso de poder. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una función del equipo de seguridad?",
+    "options": [
+      "Proteger a los trabajadores de lesiones",
+      "Proveer herramientas de protección personal",
+      "Reducir el riesgo de accidentes",
+      "Medir la productividad de los empleados"
+    ],
+    "answer": "Medir la productividad de los empleados",
+    "justification": "El equipo de seguridad incluye herramientas y dispositivos para proteger a los trabajadores de lesiones, pero no se utiliza para medir la productividad de los empleados. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál es el propósito de las políticas de abuso de sustancias en un programa de seguridad?",
+    "options": [
+      "Regular el uso de equipos de protección",
+      "Controlar el uso de herramientas",
+      "Garantizar el uso adecuado de materiales",
+      "Prevenir el uso de drogas y alcohol en el trabajo"
+    ],
+    "answer": "Prevenir el uso de drogas y alcohol en el trabajo",
+    "justification": "Las políticas de abuso de sustancias están diseñadas para garantizar que los trabajadores no estén bajo la influencia de drogas o alcohol, lo que podría poner en peligro su seguridad y la de los demás. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de los siguientes no es un objetivo del plan de acción de emergencia?",
+    "options": [
+      "Gestión de proyectos",
+      "Procedimientos de evacuación",
+      "Designación de responsabilidades",
+      "Métodos de comunicación"
+    ],
+    "answer": "Gestión de proyectos",
+    "justification": "El objetivo del plan de acción de emergencia es garantizar la seguridad durante una emergencia, incluyendo procedimientos de evacuación y designación de responsabilidades, pero no incluye la gestión de proyectos. Referencia: página 10-3."
+  },
+  {
+    "question": "Qué no es una parte esencial del mantenimiento de registros en un programa de seguridad?",
+    "options": [
+      "Gestión de inventarios",
+      "Documentación de incidentes",
+      "Registros de capacitación",
+      "Cumplimiento de normativas"
+    ],
+    "answer": "Gestión de inventarios",
+    "justification": "El mantenimiento de registros incluye la documentación de incidentes, capacitaciones y cumplimiento de normativas, pero no incluye la gestión de inventarios. Referencia: página 10-3."
+  },
+  {
+    "question": "Cuál es la principal razón para implementar políticas de abuso de sustancias?",
+    "options": [
+      "Aumentar la productividad",
+      "Gestionar el tiempo de descanso",
+      "Prevenir cualquier situacion de peligro",
+      "Regular el uso de equipo"
+    ],
+    "answer": "Prevenir cualquier situacion de peligro",
+    "justification": "La principal razón para implementar políticas de abuso de sustancias es prevenir el uso de drogas y alcohol en el lugar de trabajo para garantizar la seguridad de todos los empleados. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál no es una actividad incluida en la capacitación en seguridad?",
+    "options": [
+      "Enseñar procedimientos de emergencia",
+      "Uso de equipos de protección",
+      "Prevención de accidentes",
+      "Actividades recreativas"
+    ],
+    "answer": "Actividades recreativas",
+    "justification": "La capacitación en seguridad incluye enseñar a los empleados sobre procedimientos de emergencia, uso de equipos de protección y prevención de accidentes, pero no incluye actividades recreativas. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál es la importancia de un plan de acción de emergencia?",
+    "options": [
+      "Asegurar la producción continua",
+      "Reducir las posibilidades de que el proyecto se prolongue",
+      "Controlar la reacción de los empleados cuando estén en situaciones estresantes",
+      "Preparar a los empleados para situaciones de emergencia"
+    ],
+    "answer": "Preparar a los empleados para situaciones de emergencia",
+    "justification": "Un plan de acción de emergencia es crucial para preparar a los empleados en caso de emergencias, detallando procedimientos de evacuación y designaciones de responsabilidad. Referencia: página 10-3."
+  },
+  {
+    "question": "Qué no es necesario en la capacitación de seguridad en la obra?",
+    "options": [
+      "Procedimientos de emergencia",
+      "Capacitación en ventas",
+      "Uso de equipo de protección",
+      "Identificación de riesgos"
+    ],
+    "answer": "Capacitación en ventas",
+    "justification": "La capacitación en seguridad en la obra incluye la instrucción sobre procedimientos de emergencia, el uso de equipo de protección y la identificación de riesgos, pero no incluye la capacitación en ventas. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no es parte de la capacitación en seguridad?",
+    "options": [
+      "Gestión de tiempo",
+      "Procedimientos de emergencia",
+      "Uso de equipo de protección",
+      "Prevención de accidentes"
+    ],
+    "answer": "Gestión de tiempo",
+    "justification": "La capacitación en seguridad incluye instrucción en procedimientos de emergencia, uso de equipo de protección y prevención de accidentes, pero no incluye la gestión de tiempo. Referencia: página 10-2."
+  },
+{
+    "question": "Qué debe hacer un empleado en caso de una emergencia según el plan de acción?",
+    "options": [
+      "Continuar trabajando",
+      "Seguir los procedimientos de evacuación",
+      "Contactar a los clientes",
+      "Revisar los documentos del proyecto"
+    ],
+    "answer": "Seguir los procedimientos de evacuación",
+    "justification": "En caso de emergencia, un empleado debe seguir los procedimientos de evacuación establecidos, conocer las rutas de escape y cumplir con las designaciones de responsabilidad. Referencia: página 10-3."
+  },
+  {
+    "question": "Cuál no es un método para mantener un ambiente seguro en la obra?",
+    "options": [
+      "Inspecciones regulares",
+      "Equipo de protección personal",
+      "Evaluación del rendimiento de ventas",
+      "Capacitación adecuada"
+    ],
+    "answer": "Evaluación del rendimiento de ventas",
+    "justification": "Mantener un ambiente seguro en la obra incluye realizar inspecciones regulares, proporcionar equipo de protección personal y asegurar la capacitación adecuada, pero no incluye la evaluación del rendimiento de ventas. Referencia: página 10-2."
+  },
+  {
+    "question": "Qué debe incluir un programa de seguridad efectivo?",
+    "options": [
+      "Políticas de marketing",
+      "Gestión de proyectos",
+      "Políticas de abuso de sustancias",
+      "Estrategias de ventas"
+    ],
+    "answer": "Políticas de abuso de sustancias",
+    "justification": "Un programa de seguridad efectivo debe incluir políticas de abuso de sustancias, mantenimiento de registros y capacitación en seguridad. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de los siguientes no es un objetivo del mantenimiento de registros?",
+    "options": [
+      "Documentación de incidentes",
+      "Registros de capacitación",
+      "Cumplimiento de normativas",
+      "Evaluación de desempeño del empleado"
+    ],
+    "answer": "Evaluación de desempeño del empleado",
+    "justification": "El objetivo del mantenimiento de registros es documentar incidentes, capacitaciones y cumplimiento de normativas, pero no incluye la evaluación de desempeño del empleado. Referencia: página 10-3."
+  },
+  {
+    "question": "Por qué es importante un plan médico de emergencia?",
+    "options": [
+      "Aumentar la productividad",
+      "Reducir costos operativos",
+      "Proporcionar procedimientos de primeros auxilios",
+      "Controlar la calidad del producto"
+    ],
+    "answer": "Proporcionar procedimientos de primeros auxilios",
+    "justification": "Un plan médico de emergencia es importante para proporcionar procedimientos de primeros auxilios, números de contacto de emergencia y ubicación de equipos médicos en caso de una emergencia. Referencia: página 10-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una responsabilidad del equipo de seguridad?",
+    "options": [
+      "Reducir el riesgo de accidentes",
+      "Proteger a los trabajadores",
+      "Gestionar los beneficios de los empleados",
+      "Proveer herramientas de protección personal"
+    ],
+    "answer": "Gestionar los beneficios de los empleados",
+    "justification": "El equipo de seguridad es responsable de reducir el riesgo de accidentes, proteger a los trabajadores y proporcionar herramientas de protección personal, pero no de gestionar los beneficios de los empleados. Referencia: página 10-2."
+  },
+  {
+    "question": "Qué no necesita contemplar un programa de aseguramiento de la calidad?",
+    "options": [
+      "Inspecciones regulares",
+      "Revisiones de cumplimiento",
+      "Auditorías de seguridad",
+      "Estrategias de marketing"
+    ],
+    "answer": "Estrategias de marketing",
+    "justification": "Un programa de aseguramiento de la calidad debe incluir inspecciones regulares, revisiones de cumplimiento y auditorías de seguridad, pero no estrategias de marketing. Referencia: página 10-10."
+  },
+  {
+    "question": "Cuál de las siguientes no es una práctica para evitar accidentes en la obra?",
+    "options": [
+      "Procedimientos de emergencia",
+      "Uso de equipo de protección",
+      "Llevar un análisis del mercado",
+      "Capacitaciones regulares"
+    ],
+    "answer": "Llevar un análisis del mercado",
+    "justification": "Para evitar accidentes en la obra se deben seguir procedimientos de emergencia, usar equipo de protección y realizar capacitaciones regulares, pero no se menciona el análisis de mercado. Referencia: página 10-2."
+  },
+  {
+    "question": "Qué no se incluye en un plan de acción de emergencia?",
+    "options": [
+      "Investigación y plan de mercados óptimos",
+      "Procedimientos de evacuación",
+      "Métodos de comunicación",
+      "Designación de responsabilidades"
+    ],
+    "answer": "Investigación y plan de mercados óptimos",
+    "justification": "Un plan de acción de emergencia incluye procedimientos de evacuación, métodos de comunicación y designación de responsabilidades, pero no incluye una investigación de mercados. Referencia: página 10-3."
+  },
+  {
+    "question": "Cuál es un elemento fundamental de las políticas de seguridad?",
+    "options": [
+      "Gestión de tiempo",
+      "Uso de equipo de protección personal",
+      "Análisis de mercado",
+      "Estrategias de ventas"
+    ],
+    "answer": "Uso de equipo de protección personal",
+    "justification": "Un elemento fundamental de las políticas de seguridad es la capacitación en el uso correcto del equipo de protección personal para prevenir accidentes y lesiones en el lugar de trabajo. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de los siguientes no es un aspecto clave del plan médico de emergencia?",
+    "options": [
+      "Números de contacto de emergencia",
+      "Procedimientos de primeros auxilios",
+      "Ubicación de equipos médicos",
+      "Diseño del proyecto completado"
+    ],
+    "answer": "Diseño del proyecto completado",
+    "justification": "El plan médico de emergencia debe incluir números de contacto de emergencia, procedimientos de primeros auxilios y ubicación de equipos médicos, pero no el diseño completo del proyecto. Referencia: página 10-3."
+  },
+  {
+    "question": "Qué es una medida importante en la prevención de accidentes en la obra?",
+    "options": [
+      "Evaluación del rendimiento de ventas",
+      "Capacitaciones regulares",
+      "Gestión de tiempo",
+      "Estrategias de ahorro"
+    ],
+    "answer": "Capacitaciones regulares",
+    "justification": "Una medida importante en la prevención de accidentes en la obra es la realización de capacitaciones regulares para asegurarse de que todos los empleados comprendan y sigan las prácticas de trabajo seguras. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una actividad que se realiza en un programa de seguridad?",
+    "options": [
+      "Evaluación de riesgos",
+      "Capacitación en seguridad",
+      "Planificación de eventos sociales",
+      "Mantenimiento de registros"
+    ],
+    "answer": "Planificación de eventos sociales",
+    "justification": "Un programa de seguridad incluye la evaluación de riesgos, la capacitación en seguridad y el mantenimiento de registros, pero no incluye la planificación de eventos sociales. Referencia: página 10-2."
+  },
+  {
+    "question": "Cuál es la función del equipo de protección personal en un programa de seguridad?",
+    "options": [
+      "Aumentar la productividad",
+      "Proteger a los trabajadores",
+      "Gestionar los tiempos de descanso",
+      "Mejorar la calidad del producto"
+    ],
+    "answer": "Proteger a los trabajadores",
+    "justification": "La función del equipo de protección personal es proteger a los trabajadores de posibles riesgos y minimizar las lesiones en el lugar de trabajo. Referencia: página 10-2."
+  }
+]
