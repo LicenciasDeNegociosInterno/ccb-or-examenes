@@ -1,0 +1,541 @@
+[
+  {
+    "question": "Cuál de las siguientes no es una fase del ciclo contable?",
+    "options": [
+      "Revisión del balance general",
+      "Clasificación y registro de transacciones",
+      "Asientos de ajuste",
+      "Preparación de estados financieros"
+    ],
+    "answer": "Revisión del balance general",
+    "justification": "El ciclo contable tiene varias fases que incluyen la clasificación y registro de transacciones, los asientos de ajuste, y la preparación de estados financieros. Sin embargo, la revisión del balance general no es una fase del ciclo contable. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "El ciclo contable incluye la fase de:",
+    "options": [
+      "Revisión del balance general",
+      "Preparación de los estados financieros",
+      "Cálculo de impuestos",
+      "Auditoría interna"
+    ],
+    "answer": "Preparación de los estados financieros",
+    "justification": "Una de las fases del ciclo contable es la preparación de los estados financieros, que es esencial para proporcionar una visión clara del desempeño financiero de la empresa. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una transacción clasificada en el ciclo contable?",
+    "options": [
+      "Compras",
+      "Ventas",
+      "Eventos futuros",
+      "Gastos"
+    ],
+    "answer": "Eventos futuros",
+    "justification": "Las transacciones clasificadas en el ciclo contable incluyen ventas, compras, y gastos. Sin embargo, los eventos futuros no se registran como transacciones contables. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué se registra en el diario general durante el ciclo contable?",
+    "options": [
+      "Transacciones financieras",
+      "Presupuestos",
+      "Proyecciones financieras",
+      "Inventario"
+    ],
+    "answer": "Transacciones financieras",
+    "justification": "En el diario general se registran todas las transacciones financieras de la empresa, proporcionando un registro cronológico completo de todas las transacciones. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un objetivo de los asientos de ajuste?",
+    "options": [
+      "Reflejar ingresos del período",
+      "Reflejar gastos del período",
+      "Mejorar el flujo de caja",
+      "Corregir saldos de cuentas"
+    ],
+    "answer": "Mejorar el flujo de caja",
+    "justification": "Los asientos de ajuste no tienen como objetivo mejorar el flujo de caja; su propósito es ajustar las cuentas para reflejar con precisión los ingresos y gastos en el período correspondiente. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué se incluye en la fase de asientos de ajuste del ciclo contable?",
+    "options": [
+      "Emisión de facturas",
+      "Ajustes para ingresos acumulados",
+      "Recepción de pagos",
+      "Pago de proveedores"
+    ],
+    "answer": "Ajustes para ingresos acumulados",
+    "justification": "La fase de asientos de ajuste incluye ajustes para gastos e ingresos acumulados, así como la depreciación, asegurando que los estados financieros reflejen con precisión la situación financiera. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente de la preparación de estados financieros?",
+    "options": [
+      "Revisión de políticas de la empresa",
+      "Elaboración de balances",
+      "Elaboración de estados de resultados",
+      "Elaboración de estados de flujo de efectivo"
+    ],
+    "answer": "Revisión de políticas de la empresa",
+    "justification": "La revisión de políticas de la empresa no es un componente de la preparación de estados financieros. Esta preparación incluye la elaboración de balances, estados de resultados y estados de flujo de efectivo. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué documento es crucial para la clasificación y registro de transacciones en el ciclo contable?",
+    "options": [
+      "Diario general",
+      "Libro mayor",
+      "Estado de resultados",
+      "Balance general"
+    ],
+    "answer": "Diario general",
+    "justification": "El diario general es crucial para la clasificación y registro de transacciones, proporcionando un registro cronológico de todas las transacciones contables. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una actividad realizada durante la preparación de los estados financieros?",
+    "options": [
+      "Elaboración de balance general",
+      "Elaboración de estado de resultados",
+      "Programación de reuniones",
+      "Elaboración de estado de flujo de efectivo"
+    ],
+    "answer": "Programación de reuniones",
+    "justification": "La programación de reuniones no es una actividad realizada durante la preparación de los estados financieros. Esta fase se enfoca en la elaboración de documentos financieros precisos y completos. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué se hace después de completar los asientos de ajuste en el ciclo contable?",
+    "options": [
+      "Preparación de estados financieros",
+      "Revisión del balance general",
+      "Cálculo de impuestos",
+      "Auditoría interna"
+    ],
+    "answer": "Preparación de estados financieros",
+    "justification": "Después de completar los asientos de ajuste, se preparan los estados financieros para proporcionar una visión clara y precisa del desempeño financiero de la empresa. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una actividad realizada en la fase de clasificación y registro de transacciones?",
+    "options": [
+      "Registro de ventas",
+      "Comprobantes de compras",
+      "Estimación de impuestos",
+      "Recibos de gastos"
+    ],
+    "answer": "Estimación de impuestos",
+    "justification": "La actividad de estimación de impuestos no es realizada en la fase de clasificación y registro de transacciones del ciclo contable. Esta fase se enfoca en registrar todas las transacciones financieras en el diario general. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué se necesita para preparar los estados financieros?",
+    "options": [
+      "Registro de todas las transacciones",
+      "Revisión del balance general",
+      "Cálculo de impuestos",
+      "Auditoría interna"
+    ],
+    "answer": "Registro de todas las transacciones",
+    "justification": "Para preparar los estados financieros, se necesita completar el registro de todas las transacciones financieras, los asientos de ajuste, y otros registros contables. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es un documento utilizado en la fase de registro de transacciones?",
+    "options": [
+      "Diario general",
+      "Diario de nómina",
+      "Libro mayor",
+      "Comprobantes de pago"
+    ],
+    "answer": "Diario de nómina",
+    "justification": "El diario de nómina no es un documento utilizado en la fase de registro de transacciones del ciclo contable. Se utiliza principalmente en la administración de nómina. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+{
+    "question": "Qué se entiende por asientos de ajuste en el ciclo contable?",
+    "options": [
+      "Entradas realizadas al final del período contable",
+      "Entradas realizadas al inicio del período contable",
+      "Entradas realizadas durante las auditorías",
+      "Entradas realizadas para registrar ventas"
+    ],
+    "answer": "Entradas realizadas al final del período contable",
+    "justification": "Los asientos de ajuste son entradas realizadas al final del período contable para ajustar los saldos de las cuentas y reflejar los ingresos y gastos en el período correspondiente. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea de los asientos de ajuste?",
+    "options": [
+      "Ajuste de ingresos acumulados",
+      "Ajuste de gastos acumulados",
+      "Emisión de estados financieros",
+      "Ajuste por depreciación"
+    ],
+    "answer": "Emisión de estados financieros",
+    "justification": "La emisión de estados financieros no es una tarea de los asientos de ajuste. Esta tarea se realiza después de que los ajustes han sido completados. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál es el propósito principal de los asientos de ajuste?",
+    "options": [
+      "Asegurar la correcta periodificación de ingresos y gastos",
+      "Calcular los impuestos",
+      "Preparar el presupuesto",
+      "Auditar las cuentas"
+    ],
+    "answer": "Asegurar la correcta periodificación de ingresos y gastos",
+    "justification": "El propósito principal de los asientos de ajuste es asegurar que los ingresos y gastos se registren en el período contable correcto. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una fase del ciclo contable mencionada en el libro?",
+    "options": [
+      "Clasificación y registro de transacciones",
+      "Asientos de ajuste",
+      "Planificación fiscal",
+      "Preparación de estados financieros"
+    ],
+    "answer": "Planificación fiscal",
+    "justification": "La planificación fiscal no es una fase del ciclo contable mencionada en el libro. Las fases incluyen la clasificación y registro de transacciones, los asientos de ajuste, y la preparación de estados financieros. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Qué actividad se realiza antes de preparar los estados financieros?",
+    "options": [
+      "Realización de asientos de ajuste",
+      "Cálculo de impuestos",
+      "Auditoría interna",
+      "Revisión de políticas de la empresa"
+    ],
+    "answer": "Realización de asientos de ajuste",
+    "justification": "Antes de preparar los estados financieros, se deben realizar los asientos de ajuste para asegurar que todas las cuentas reflejen con precisión la situación financiera. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea que se realiza en la fase de ajustes?",
+    "options": [
+      "Ajustes por ingresos acumulados",
+      "Ajustes por gastos acumulados",
+      "Ajustes por depreciación",
+      "Realización de auditorías internas"
+    ],
+    "answer": "Realización de auditorías internas",
+    "justification": "La realización de auditorías internas no es una tarea que se realiza en la fase de ajustes del ciclo contable. Las tareas incluyen ajustes por ingresos y gastos acumulados y depreciación. Referencia: Capítulo 13, Ciclo contable, página 13-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es uno de los principales estados financieros que debe preparar una empresa?",
+    "options": [
+      "Balance general",
+      "Estado de cuenta del cliente",
+      "Estado de resultados",
+      "Estado de flujo de efectivo"
+    ],
+    "answer": "Estado de cuenta del cliente",
+    "justification": "Los principales estados financieros que una empresa debe preparar incluyen el balance general, el estado de resultados, y el estado de flujo de efectivo. Estos documentos proporcionan una visión completa de la salud financiera de una empresa. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál es el propósito principal del estado de resultados?",
+    "options": [
+      "Mostrar la posición financiera de la empresa en un momento específico",
+      "Mostrar los flujos de efectivo de la empresa",
+      "Mostrar los ingresos y gastos durante un periodo específico",
+      "Mostrar el inventario de la empresa"
+    ],
+    "answer": "Mostrar los ingresos y gastos durante un periodo específico",
+    "justification": "El estado de resultados muestra los ingresos y gastos de una empresa durante un periodo específico, proporcionando una visión clara de su rentabilidad. Este estado financiero es crucial para evaluar el desempeño financiero. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no se encuentra típicamente en un balance general?",
+    "options": [
+      "Activos",
+      "Pasivos",
+      "Ganancias netas",
+      "Patrimonio neto"
+    ],
+    "answer": "Ganancias netas",
+    "justification": "El balance general incluye activos, pasivos y patrimonio neto de una empresa. No incluye las ganancias netas, que se reflejan en el estado de resultados. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Qué representa el estado de flujo de efectivo?",
+    "options": [
+      "Muestra los ingresos y gastos",
+      "Muestra la posición financiera de la empresa",
+      "Muestra el inventario de la empresa",
+      "Muestra las entradas y salidas de efectivo"
+    ],
+    "answer": "Muestra las entradas y salidas de efectivo",
+    "justification": "El estado de flujo de efectivo detalla las entradas y salidas de efectivo de una empresa, mostrando cómo se generan y utilizan los fondos en operaciones, inversiones y financiamiento. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál de las siguientes no es una categoría de flujos de efectivo en el estado de flujo de efectivo?",
+    "options": [
+      "Flujos de operaciones",
+      "Flujos de inversiones",
+      "Flujos de financiamiento",
+      "Flujos de nómina"
+    ],
+    "answer": "Flujos de nómina",
+    "justification": "El estado de flujo de efectivo se divide en flujos de operaciones, inversiones y financiamiento. Los flujos de nómina no se categorizan de esta manera en este estado financiero. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Qué información proporciona el balance general de una empresa?",
+    "options": [
+      "Muestra los ingresos y gastos de un periodo específico",
+      "Muestra los activos, pasivos y patrimonio neto en un momento específico",
+      "Muestra las entradas y salidas de efectivo",
+      "Muestra los detalles de ventas y compras"
+    ],
+    "answer": "Muestra los activos, pasivos y patrimonio neto en un momento específico",
+    "justification": "El balance general muestra los activos, pasivos y patrimonio neto de una empresa en un momento específico, ofreciendo una instantánea de su posición financiera. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál de las siguientes no es una función del estado de resultados?",
+    "options": [
+      "Determinar la rentabilidad",
+      "Proporcionar una instantánea de la posición financiera",
+      "Registrar los ingresos",
+      "Registrar los gastos"
+    ],
+    "answer": "Proporcionar una instantánea de la posición financiera",
+    "justification": "El estado de resultados se centra en los ingresos y gastos para determinar la rentabilidad de la empresa, no proporciona una instantánea de la posición financiera de la empresa, que es función del balance general. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+{
+    "question": "Cuál de los siguientes no es un componente del análisis financiero?",
+    "options": [
+      "Liquidez",
+      "Rentabilidad",
+      "Cantidad de inventario",
+      "Solvencia"
+    ],
+    "answer": "Cantidad de inventario",
+    "justification": "El análisis financiero se centra en evaluar la liquidez, rentabilidad y solvencia de una empresa mediante el examen de sus estados financieros. La cantidad de inventario no es un componente principal de este análisis. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-6."
+  },
+  {
+    "question": "Cuál de las siguientes no es una razón para preparar un estado de resultados?",
+    "options": [
+      "Evaluar la rentabilidad",
+      "Ayudar en la toma de decisiones financieras",
+      "Mostrar la posición financiera en un momento específico",
+      "Mostrar los ingresos y gastos"
+    ],
+    "answer": "Mostrar la posición financiera en un momento específico",
+    "justification": "El estado de resultados se prepara para mostrar los ingresos y gastos de un periodo específico, evaluar la rentabilidad y ayudar en la toma de decisiones financieras. No se utiliza para mostrar la posición financiera en un momento específico, que es la función del balance general. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál de las siguientes no es una característica del estado de resultados?",
+    "options": [
+      "Detalla los ingresos",
+      "Mide la rentabilidad",
+      "Detalla los gastos",
+      "Detalla los activos y pasivos"
+    ],
+    "answer": "Detalla los activos y pasivos",
+    "justification": "El estado de resultados detalla los ingresos y gastos durante un periodo específico y mide la rentabilidad. No incluye información sobre los activos y pasivos, que es función del balance general. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál es el objetivo principal del análisis de estados financieros?",
+    "options": [
+      "Evaluar la salud financiera",
+      "Registrar ingresos y gastos",
+      "Mostrar inventario",
+      "Preparar impuestos"
+    ],
+    "answer": "Evaluar la salud financiera",
+    "justification": "El objetivo principal del análisis de estados financieros es evaluar la salud financiera de una empresa mediante el examen de sus estados financieros para tomar decisiones informadas. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-6."
+  },
+  {
+    "question": "Cuál de los siguientes no es un aspecto analizado en el estado de flujo de efectivo?",
+    "options": [
+      "Flujos de operaciones",
+      "Flujos de inversiones",
+      "Ganancias netas",
+      "Flujos de financiamiento"
+    ],
+    "answer": "Ganancias netas",
+    "justification": "El estado de flujo de efectivo analiza las entradas y salidas de efectivo relacionadas con operaciones, inversiones y financiamiento, pero no se centra en las ganancias netas, que son detalladas en el estado de resultados. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Qué refleja principalmente el estado de resultados de una empresa?",
+    "options": [
+      "Ingresos y gastos",
+      "Activos y pasivos",
+      "Entradas y salidas de efectivo",
+      "Inventario"
+    ],
+    "answer": "Ingresos y gastos",
+    "justification": "El estado de resultados refleja principalmente los ingresos y gastos de una empresa durante un periodo específico, proporcionando una visión de su rentabilidad. Referencia: Capítulo 13, Preparación y análisis de estados financieros, página 13-5."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no es parte del procedimiento de nómina en la administración financiera de un negocio de construcción?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Calcular y deducir los impuestos aplicables",
+      "Registrar los materiales utilizados",
+      "Actualizar el diario de la nómina"
+    ],
+    "answer": "Registrar los materiales utilizados",
+    "justification": "El ciclo contable, la preparación y el análisis de estados financieros, y los procedimientos de nómina son fundamentales para la administración financiera de un negocio de construcción. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un paso en el cálculo del sueldo neto?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Registrar transacciones en el libro mayor",
+      "Calcular y deducir los impuestos aplicables",
+      "Actualizar el diario de la nómina"
+    ],
+    "answer": "Registrar transacciones en el libro mayor",
+    "justification": "Para calcular el sueldo neto se deben seguir varios pasos incluyendo calcular el sueldo bruto, deducir impuestos y otras deducciones, y emitir los cheques. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un documento necesario para la administración de la nómina?",
+    "options": [
+      "Registros de empleados",
+      "Formularios de impuestos",
+      "Cheques de pago",
+      "Documento de planificación"
+    ],
+    "answer": "Documento de planificación",
+    "justification": "Para la administración de la nómina, los documentos necesarios incluyen registros de empleados, formularios de impuestos y cheques de pago. Un documento de planificación no es necesario en este contexto. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué paso es necesario para calcular el sueldo bruto de un empleado?",
+    "options": [
+      "Sumar las horas trabajadas",
+      "Aplicar las deducciones fiscales",
+      "Emitir el cheque de pago",
+      "Registrar el pago en el diario de la nómina"
+    ],
+    "answer": "Sumar las horas trabajadas",
+    "justification": "Calcular el sueldo bruto de un empleado incluye sumar las horas trabajadas y las tasas de pago correspondientes. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué se debe hacer después de calcular el sueldo bruto de un empleado?",
+    "options": [
+      "Emitir el cheque de pago",
+      "Calcular y deducir los impuestos aplicables",
+      "Registrar el pago en el diario de la nómina",
+      "Actualizar los registros de empleados"
+    ],
+    "answer": "Calcular y deducir los impuestos aplicables",
+    "justification": "Después de calcular el sueldo bruto, se deben deducir los impuestos aplicables y otras deducciones para obtener el sueldo neto. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué es una tarea fundamental en la administración de la nómina?",
+    "options": [
+      "Emitir los cheques de pago",
+      "Registrar las transacciones contables",
+      "Calcular y deducir los impuestos aplicables",
+      "Realizar auditorías internas"
+    ],
+    "answer": "Calcular y deducir los impuestos aplicables",
+    "justification": "Una tarea fundamental en la administración de la nómina es calcular y deducir los impuestos aplicables y otras deducciones para determinar el sueldo neto. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de los siguientes pasos no es parte del proceso de actualizar el diario de la nómina?",
+    "options": [
+      "Registrar las deducciones fiscales",
+      "Registrar el sueldo bruto",
+      "Emitir cheques de pago",
+      "Registrar el sueldo neto"
+    ],
+    "answer": "Emitir cheques de pago",
+    "justification": "Actualizar el diario de la nómina incluye registrar todas las transacciones relacionadas con la nómina, pero no emitir cheques de pago. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+{
+    "question": "Cuál de las siguientes acciones se realiza al final del proceso de nómina?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Calcular y deducir los impuestos aplicables",
+      "Emitir los cheques de pago",
+      "Actualizar el diario de la nómina"
+    ],
+    "answer": "Actualizar el diario de la nómina",
+    "justification": "Al final del proceso de nómina se actualiza el diario de la nómina con todas las transacciones relacionadas, incluyendo los sueldos brutos y netos y las deducciones. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué se debe hacer primero al calcular la nómina de un empleado?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Aplicar las deducciones fiscales",
+      "Emitir el cheque de pago",
+      "Registrar el pago en el diario de la nómina"
+    ],
+    "answer": "Calcular el sueldo bruto",
+    "justification": "El primer paso al calcular la nómina de un empleado es calcular el sueldo bruto, que se basa en las horas trabajadas y la tasa de pago correspondiente. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente del proceso de nómina?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Calcular y deducir los impuestos aplicables",
+      "Actualizar el diario de la nómina",
+      "Realizar auditorías internas"
+    ],
+    "answer": "Realizar auditorías internas",
+    "justification": "El proceso de nómina incluye calcular el sueldo bruto, deducir impuestos y otras deducciones, y actualizar el diario de la nómina. Realizar auditorías internas es una actividad separada. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un registro necesario en el proceso de nómina?",
+    "options": [
+      "Registrar el sueldo bruto",
+      "Registrar las deducciones fiscales",
+      "Registrar el sueldo neto",
+      "Registrar los materiales utilizados"
+    ],
+    "answer": "Registrar los materiales utilizados",
+    "justification": "En el proceso de nómina, es esencial registrar el sueldo bruto, las deducciones fiscales y el sueldo neto. Registrar los materiales utilizados no es parte de este proceso. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Cuál de las siguientes tareas no se realiza durante el proceso de emisión de cheques de pago?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Deducir los impuestos aplicables",
+      "Emitir el cheque de pago",
+      "Registrar transacciones en el libro mayor"
+    ],
+    "answer": "Registrar transacciones en el libro mayor",
+    "justification": "El proceso de emisión de cheques de pago incluye calcular el sueldo bruto, deducir los impuestos y otras deducciones, y emitir el cheque. Registrar transacciones en el libro mayor es un paso separado. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué documento es necesario para calcular y deducir los impuestos aplicables en la nómina?",
+    "options": [
+      "Registros de empleados",
+      "Formularios de impuestos",
+      "Cheques de pago",
+      "Documentos de planificación"
+    ],
+    "answer": "Formularios de impuestos",
+    "justification": "Para calcular y deducir los impuestos aplicables en la nómina, es necesario utilizar los formularios de impuestos adecuados, como el W-4 para las deducciones de los empleados. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué paso sigue después de emitir el cheque de pago?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Calcular y deducir los impuestos aplicables",
+      "Actualizar el diario de la nómina",
+      "Registrar el sueldo neto"
+    ],
+    "answer": "Actualizar el diario de la nómina",
+    "justification": "Después de emitir el cheque de pago, el siguiente paso es actualizar el diario de la nómina para registrar todas las transacciones relacionadas con la nómina. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué información se debe registrar en el diario de la nómina?",
+    "options": [
+      "Sueldo bruto",
+      "Deducciones fiscales",
+      "Sueldo neto",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores",
+    "justification": "En el diario de la nómina se debe registrar información como el sueldo bruto, las deducciones fiscales y el sueldo neto de cada empleado. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué tarea es crucial antes de emitir los cheques de pago?",
+    "options": [
+      "Registrar transacciones",
+      "Actualizar registros de empleados",
+      "Calcular el sueldo neto",
+      "Preparar el presupuesto"
+    ],
+    "answer": "Calcular el sueldo neto",
+    "justification": "Antes de emitir los cheques de pago, es crucial calcular el sueldo bruto, deducir los impuestos aplicables y otras deducciones para obtener el sueldo neto. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  },
+  {
+    "question": "Qué se debe hacer antes de actualizar el diario de la nómina?",
+    "options": [
+      "Calcular el sueldo bruto",
+      "Calcular y deducir los impuestos aplicables",
+      "Emitir los cheques de pago",
+      "Registrar transacciones contables"
+    ],
+    "answer": "Calcular y deducir los impuestos aplicables",
+    "justification": "Antes de actualizar el diario de la nómina, se deben calcular y deducir los impuestos aplicables y otras deducciones para determinar el sueldo neto. Referencia: Capítulo 13, Procedimientos de nómina, página 13-9."
+  }
+]
