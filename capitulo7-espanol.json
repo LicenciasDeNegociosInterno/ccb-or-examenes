@@ -1,0 +1,860 @@
+[
+  {
+    "question": "Cuál de los siguientes elementos se incluye generalmente en un documento de propuesta?",
+    "options": [
+      "Análisis financiero",
+      "Opinión del cliente",
+      "Instrucciones de propuesta",
+      "Análisis de riesgo"
+    ],
+    "answer": "Instrucciones de propuesta",
+    "justification": "Un documento de propuesta generalmente incluye una descripción detallada del alcance del trabajo. Esta sección define exactamente qué trabajo se realizará, estableciendo expectativas claras entre el contratista y el cliente. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Qué información NO se espera encontrar en un documento de propuesta?",
+    "options": [
+      "Fechas clave",
+      "Hitos importantes",
+      "Opinión personal del contratista",
+      "Estrategia de gestión"
+    ],
+    "answer": "Opinión personal del contratista",
+    "justification": "La opinión personal del contratista no es parte del cronograma de un documento de propuesta. El cronograma debe incluir fechas clave y hitos importantes del proyecto. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de los siguientes es un componente clave en un documento de propuesta?",
+    "options": [
+      "Análisis de mercado",
+      "Invitación, instrucciones y formularios",
+      "Currículum del contratista",
+      "Lista de proveedores"
+    ],
+    "answer": "Invitación, instrucciones y formularios",
+    "justification": "La invitación, instrucciones y formularios son componentes claves en un documento de propuesta. Este incluye las fechas y plazos importantes que estructuran el desarrollo del proyecto. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de los siguientes NO se considera un componente esencial en un documento de propuesta?",
+    "options": [
+      "Alcance del trabajo",
+      "Currículum del contratista",
+      "Cronograma",
+      "Términos y condiciones"
+    ],
+    "answer": "Currículum del contratista",
+    "justification": "El currículum del contratista no se considera un componente esencial en un documento de propuesta. Los elementos esenciales suelen incluir el alcance del trabajo, cronograma, y términos y condiciones. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Qué elemento no es típico encontrar en un documento de propuesta?",
+    "options": [
+      "Descripción del trabajo a realizar",
+      "Cronograma",
+      "Análisis de la competencia",
+      "Programa de la propuesta"
+    ],
+    "answer": "Análisis de la competencia",
+    "justification": "El análisis de la competencia no es típicamente parte de un documento de propuesta. Los documentos de propuesta se centran en el alcance del trabajo, cronograma y términos y condiciones. Referencia: Capítulo 7, Documentos de propuesta, página 7-7."
+  },
+  {
+    "question": "Qué debe incluirse en la descripción del alcance del trabajo en un documento de propuesta?",
+    "options": [
+      "Opinión del cliente",
+      "Las tareas específicas a realizar",
+      "La estrategia de marketing",
+      "El análisis financiero"
+    ],
+    "answer": "Las tareas específicas a realizar",
+    "justification": "La descripción del alcance del trabajo debe detallar las tareas específicas a realizar y los resultados esperados. Esto asegura claridad y expectativas definidas entre las partes. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Qué se debe detallar en los términos y condiciones de un documento de propuesta?",
+    "options": [
+      "Estrategia de mercado",
+      "Derechos y obligaciones de ambas partes",
+      "Análisis del entorno",
+      "Plan de marketing"
+    ],
+    "answer": "Derechos y obligaciones de ambas partes",
+    "justification": "Los términos y condiciones deben detallar los derechos y obligaciones de ambas partes, incluyendo plazos de pago y condiciones de trabajo. Esto asegura un acuerdo claro y ejecutable. Referencia: Capítulo 7, Documentos de propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes NO es una práctica ética en la propuesta?",
+    "options": [
+      "Presentar estimaciones precisas",
+      "Compra o venta de propuestas",
+      "Competir de manera justa",
+      "Ser transparente en la comunicación"
+    ],
+    "answer": "Compra o venta de propuestas",
+    "justification": "No es ético ofrecer sobornos o incentivos inapropiados para asegurar un contrato. La ética en la propuesta requiere transparencia, honestidad y competencia justa. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de los siguientes es un principio ético en la propuesta?",
+    "options": [
+      "Mantener la honestidad",
+      "Ocultar costos reales",
+      "Ofrecer incentivos inapropiados",
+      "Presentar información engañosa"
+    ],
+    "answer": "Mantener la honestidad",
+    "justification": "Es fundamental mantener la honestidad en todas las fases del proceso de propuesta. Esto asegura la integridad del contratista y promueve la confianza del cliente. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes acciones refleja una práctica ética en la propuesta?",
+    "options": [
+      "Proporcionar información precisa",
+      "Manipular datos para ganar contratos",
+      "Ofrecer incentivos financieros inapropiados",
+      "Omitir detalles importantes"
+    ],
+    "answer": "Proporcionar información precisa",
+    "justification": "Proporcionar información precisa y detallada es esencial para mantener la ética en la propuesta, asegurando la confianza del cliente y la transparencia en el proceso. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una práctica aceptada según la ética en la propuesta?",
+    "options": [
+      "Ser preciso en las estimaciones",
+      "Proveer información detallada",
+      "Manipular la información",
+      "Competir de manera justa"
+    ],
+    "answer": "Manipular la información",
+    "justification": "Manipular la información para obtener una ventaja competitiva no es aceptado éticamente. La ética requiere precisión y honestidad en todas las comunicaciones. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Qué acción no corresponde a la ética en la propuesta?",
+    "options": [
+      "Competir de manera justa",
+      "Proporcionar estimaciones precisas",
+      "Ofrecer incentivos inapropiados",
+      "Ser transparente en la comunicación"
+    ],
+    "answer": "Ofrecer incentivos inapropiados",
+    "justification": "Es incorrecto ofrecer incentivos inapropiados para asegurar un contrato, ya que esto socava la equidad y la integridad del proceso de licitación. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes es una práctica ética al preparar una propuesta?",
+    "options": [
+      "Ocultar información importante",
+      "Presentar costos inflados",
+      "Ser transparente y detallado",
+      "Ofrecer regalos costosos para influir en la decisión"
+    ],
+    "answer": "Ser transparente y detallado",
+    "justification": "Es crucial ser transparente y proporcionar toda la información relevante para que el cliente tome una decisión informada y justa. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+{
+    "question": "Cuál de los siguientes principios es fundamental en la ética de la propuesta?",
+    "options": [
+      "Ofrecer sobornos",
+      "Manipular la información",
+      "Ocultar costos reales",
+      "Competencia justa"
+    ],
+    "answer": "Competencia justa",
+    "justification": "La competencia justa asegura que todos los contratistas tengan una oportunidad equitativa y que las decisiones se basen en el mérito y la calidad de la propuesta. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes no refleja un comportamiento ético en la propuesta?",
+    "options": [
+      "Competir de manera justa",
+      "Proveer estimaciones exactas",
+      "Proporcionar información engañosa",
+      "Ser honesto en las comunicaciones"
+    ],
+    "answer": "Proporcionar información engañosa",
+    "justification": "Proporcionar información engañosa compromete la integridad del proceso de licitación y puede llevar a una falta de confianza entre el cliente y el contratista. Referencia: Capítulo 7, Ética en la propuesta, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una fase en la planificación de la estimación?",
+    "options": [
+      "Definir el alcance del proyecto",
+      "Aprobar el presupuesto inicial",
+      "Identificar las tareas y recursos necesarios",
+      "Determinar los costos y plazos"
+    ],
+    "answer": "Aprobar el presupuesto inicial",
+    "justification": "En la planificación de la estimación, es crucial seguir fases específicas para garantizar una estimación precisa y eficiente. \"Aprobar el presupuesto inicial\" no es una fase, ya que esta acción ocurre después de que se ha completado la estimación. Referencia: Capítulo 7, Planificación de la estimación, página 7-3."
+  },
+  {
+    "question": "Qué se debe hacer primero al planificar una estimación?",
+    "options": [
+      "Definir el alcance del proyecto",
+      "Crear un cronograma detallado",
+      "Identificar a los subcontratistas",
+      "Calcular los costos de los materiales"
+    ],
+    "answer": "Definir el alcance del proyecto",
+    "justification": "El primer paso en la planificación de una estimación es definir el alcance del proyecto. Esto incluye determinar los objetivos y requerimientos del proyecto para asegurar que todos los aspectos relevantes se consideren desde el principio. Referencia: Capítulo 7, Planificación de la estimación, página 7-2."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no es parte del marco de estimación?",
+    "options": [
+      "Identificación de tareas",
+      "Evaluación del desempeño del equipo",
+      "Recursos necesarios",
+      "Costos y plazos"
+    ],
+    "answer": "Evaluación del desempeño del equipo",
+    "justification": "El marco de estimación incluye la identificación de tareas, recursos, costos y plazos. La \"Evaluación del desempeño del equipo\" no es parte del marco de estimación; es una actividad que se realiza durante la ejecución del proyecto. Referencia: Capítulo 7, Planificación de la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál es un componente clave al desarrollar el marco de estimación?",
+    "options": [
+      "Identificación de tareas",
+      "Evaluación del desempeño del equipo",
+      "Revisión del contrato original",
+      "Análisis de mercado"
+    ],
+    "answer": "Identificación de tareas",
+    "justification": "Un componente clave al desarrollar el marco de estimación es la identificación de todas las tareas necesarias para completar el proyecto. Esto asegura que se incluyan todos los aspectos del trabajo en la estimación final. Referencia: Capítulo 7, Planificación de la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un paso en la planificación de la estimación?",
+    "options": [
+      "Definición del alcance del proyecto",
+      "Identificación de recursos necesarios",
+      "Evaluación del rendimiento pasado",
+      "Determinación de plazos"
+    ],
+    "answer": "Evaluación del rendimiento pasado",
+    "justification": "En la planificación de la estimación, los pasos incluyen la definición del alcance, la identificación de tareas y recursos, y la determinación de costos y plazos. La \"Evaluación del rendimiento pasado\" no es un paso, ya que se utiliza para mejorar procesos futuros y no forma parte de la planificación inicial. Referencia: Capítulo 7, Planificación de la estimación, página 7-3."
+  },
+  {
+    "question": "Qué documento es esencial al comenzar la planificación de una estimación?",
+    "options": [
+      "Alcance del proyecto",
+      "Contrato firmado",
+      "Cronograma de trabajo",
+      "Informe de viabilidad"
+    ],
+    "answer": "Alcance del proyecto",
+    "justification": "El documento esencial al comenzar la planificación de una estimación es el alcance del proyecto. Este documento define los objetivos y los límites del proyecto, proporcionando una guía clara para todas las fases subsecuentes de la planificación. Referencia: Capítulo 7, Planificación de la estimación, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes actividades no es típica en la planificación de la estimación?",
+    "options": [
+      "Definir el alcance del proyecto",
+      "Identificar recursos necesarios",
+      "Implementación del proyecto",
+      "Determinar costos"
+    ],
+    "answer": "Implementación del proyecto",
+    "justification": "La planificación de la estimación implica actividades como definir el alcance del proyecto, identificar recursos y determinar costos. La \"Implementación del proyecto\" no es una actividad de planificación; se realiza después de que la estimación está completa y aprobada. Referencia: Capítulo 7, Planificación de la estimación, página 7-2."
+  },
+  {
+    "question": "Cuál es el propósito principal de definir el alcance del proyecto en la planificación de la estimación?",
+    "options": [
+      "Establecer requisitos y objetivos",
+      "Asignar tareas a los equipos",
+      "Calcular los costos finales",
+      "Monitorear el progreso del proyecto"
+    ],
+    "answer": "Establecer requisitos y objetivos",
+    "justification": "El propósito principal de definir el alcance del proyecto en la planificación de la estimación es asegurar que todos los requisitos y objetivos del proyecto estén claramente establecidos y entendidos antes de proceder con la estimación detallada. Referencia: Capítulo 7, Planificación de la estimación, página 7-2."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea al identificar los recursos necesarios en la planificación de la estimación?",
+    "options": [
+      "Determinar el personal necesario",
+      "Establecer un plan de comunicación",
+      "Seleccionar el equipo adecuado",
+      "Calcular los materiales requeridos"
+    ],
+    "answer": "Establecer un plan de comunicación",
+    "justification": "Identificar los recursos necesarios incluye determinar el personal, el equipo y los materiales que se requerirán. \"Establecer un plan de comunicación\" no es una tarea en esta fase, ya que se enfoca más en la gestión del proyecto. Referencia: Capítulo 7, Planificación de la estimación, página 7-4."
+  },
+  {
+    "question": "Qué se debe considerar al identificar los recursos necesarios para un proyecto?",
+    "options": [
+      "Personal, equipo y materiales",
+      "Plan de comunicación",
+      "Plan de riesgos",
+      "Plan de marketing"
+    ],
+    "answer": "Personal, equipo y materiales",
+    "justification": "Al identificar los recursos necesarios para un proyecto, se debe considerar el personal, el equipo y los materiales específicos requeridos para completar cada tarea. Esto asegura que todos los aspectos del proyecto estén adecuadamente cubiertos. Referencia: Capítulo 7, Planificación de la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente del marco de estimación según el Capítulo 7 del libro NASCLA?",
+    "options": [
+      "Definir las fases del proyecto",
+      "Determinar el precio de venta",
+      "Enumerar las tareas y materiales",
+      "Utilizar herramientas tecnológicas para la estimación"
+    ],
+    "answer": "Determinar el precio de venta",
+    "justification": "El marco de estimación incluye varios componentes esenciales que ayudan a crear una estimación precisa y completa para un proyecto de construcción. La determinación del precio de venta no es un componente del marco de estimación según el Capítulo 7 del libro NASCLA, página 7-3."
+  },
+{
+    "question": "Cuál de las siguientes actividades es parte del marco de estimación en el proceso de propuesta?",
+    "options": [
+      "Definir las fases del proyecto",
+      "Realizar una auditoría externa",
+      "Desarrollar una estrategia de marketing",
+      "Establecer un plan de mantenimiento"
+    ],
+    "answer": "Definir las fases del proyecto",
+    "justification": "El marco de estimación en el proceso de propuesta incluye definir las fases del proyecto, enumerar las tareas y materiales, y determinar los costos estimados. Cada una de estas actividades es crucial para desarrollar una estimación precisa y eficiente. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea enumerada en el marco de estimación del Capítulo 7?",
+    "options": [
+      "Enumerar las tareas",
+      "Enumerar los materiales",
+      "Negociar contratos",
+      "Definir las fases del proyecto"
+    ],
+    "answer": "Negociar contratos",
+    "justification": "El marco de estimación incluye la enumeración de tareas y materiales específicos para cada fase del proyecto. La negociación de contratos no es una tarea que se enumera en este marco según el Capítulo 7 del libro NASCLA, página 7-3."
+  },
+  {
+    "question": "Qué herramienta se menciona en el marco de estimación para ayudar en la determinación de costos?",
+    "options": [
+      "Herramientas tecnológicas para la estimación",
+      "Planos de diseño",
+      "Contratos estándar",
+      "Manual de construcción"
+    ],
+    "answer": "Herramientas tecnológicas para la estimación",
+    "justification": "El uso de herramientas tecnológicas para la estimación es mencionado como una parte esencial del marco de estimación. Estas herramientas facilitan la precisión y eficiencia en la determinación de los costos estimados. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una fase del marco de estimación según el Capítulo 7 del libro NASCLA?",
+    "options": [
+      "Preparación de contratos",
+      "Enumerar las tareas y materiales",
+      "Definir las fases del proyecto",
+      "Utilizar herramientas tecnológicas para la estimación"
+    ],
+    "answer": "Preparación de contratos",
+    "justification": "El marco de estimación incluye fases como la enumeración de tareas y materiales y el uso de herramientas tecnológicas. La preparación de contratos no es una fase del marco de estimación según el Capítulo 7 del libro NASCLA, página 7-3."
+  },
+  {
+    "question": "Cuál es el propósito de enumerar tareas y materiales en el marco de estimación?",
+    "options": [
+      "Determinar los costos fijos",
+      "Establecer el precio de venta",
+      "Asegurar la precisión de la estimación",
+      "Desarrollar estrategias de marketing"
+    ],
+    "answer": "Asegurar la precisión de la estimación",
+    "justification": "Enumerar tareas y materiales en el marco de estimación ayuda a asegurar que todos los componentes del proyecto se consideren y se estimen adecuadamente. Esto es crucial para desarrollar una estimación precisa y completa. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una herramienta utilizada en el marco de estimación del Capítulo 7?",
+    "options": [
+      "Herramientas tecnológicas para la estimación",
+      "Enumerar las tareas y materiales",
+      "Definir las fases del proyecto",
+      "Herramientas de recursos humanos"
+    ],
+    "answer": "Herramientas de recursos humanos",
+    "justification": "Las herramientas tecnológicas para la estimación son esenciales para calcular los costos de manera precisa. Sin embargo, las herramientas de recursos humanos no son mencionadas como parte del marco de estimación en el Capítulo 7 del libro NASCLA, página 7-3."
+  },
+  {
+    "question": "Qué se debe considerar al enumerar las tareas en el marco de estimación?",
+    "options": [
+      "Todos los componentes del proyecto",
+      "La experiencia del equipo de gestión",
+      "Las regulaciones locales",
+      "El presupuesto inicial"
+    ],
+    "answer": "Todos los componentes del proyecto",
+    "justification": "Al enumerar las tareas en el marco de estimación, se deben considerar todos los componentes del proyecto para garantizar una estimación completa y precisa. Este paso es crucial para el desarrollo del marco de estimación. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes actividades no forma parte del marco de estimación?",
+    "options": [
+      "Definir las fases del proyecto",
+      "Negociar tarifas con subcontratistas",
+      "Enumerar las tareas y materiales",
+      "Utilizar herramientas tecnológicas para la estimación"
+    ],
+    "answer": "Negociar tarifas con subcontratistas",
+    "justification": "El marco de estimación incluye actividades como definir las fases del proyecto y enumerar las tareas y materiales. La negociación de tarifas con subcontratistas no forma parte de este marco según el Capítulo 7 del libro NASCLA, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una herramienta tecnológica para la estimación?",
+    "options": [
+      "Construcción de modelos físicos",
+      "Software de cálculo",
+      "Herramientas en línea",
+      "Aplicaciones móviles"
+    ],
+    "answer": "Construcción de modelos físicos",
+    "justification": "El capítulo 7 describe varias herramientas tecnológicas para la estimación, como software de cálculo y herramientas en línea, pero no menciona la construcción de modelos físicos como una herramienta tecnológica para la estimación. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una característica de las herramientas tecnológicas para la estimación?",
+    "options": [
+      "Realización de cálculos precisos",
+      "Gestión de datos de proyectos",
+      "Integración con otros sistemas",
+      "Generación de informes de mantenimiento"
+    ],
+    "answer": "Generación de informes de mantenimiento",
+    "justification": "El capítulo menciona que las herramientas tecnológicas para la estimación incluyen características como la capacidad de realizar cálculos precisos y gestionar datos de proyectos, pero no incluye la generación de informes de mantenimiento. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál de las siguientes herramientas tecnológicas no se utiliza comúnmente para la estimación en construcción?",
+    "options": [
+      "Software de estimación",
+      "Aplicaciones de redes sociales",
+      "Hojas de cálculo",
+      "Aplicaciones móviles"
+    ],
+    "answer": "Aplicaciones de redes sociales",
+    "justification": "El capítulo 7 menciona específicamente software de estimación y hojas de cálculo como herramientas comunes, pero no incluye el uso de aplicaciones de redes sociales para la estimación. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-3."
+  },
+  {
+    "question": "Cuál de las siguientes no es una ventaja de usar herramientas tecnológicas para la estimación?",
+    "options": [
+      "Más precisión en los cálculos",
+      "Ahorro de tiempo",
+      "Facilita la gestión de datos",
+      "Mejora las habilidades de comunicación interpersonal"
+    ],
+    "answer": "Mejora las habilidades de comunicación interpersonal",
+    "justification": "El uso de herramientas tecnológicas para la estimación ofrece ventajas como mayor precisión y ahorro de tiempo, pero no se menciona que mejoren las habilidades de comunicación interpersonal. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una herramienta de software mencionada en el capítulo para la estimación?",
+    "options": [
+      "Software de estimación",
+      "Hojas de cálculo",
+      "Herramientas de diseño gráfico",
+      "Aplicaciones móviles"
+    ],
+    "answer": "Herramientas de diseño gráfico",
+    "justification": "El capítulo 7 menciona software de estimación y hojas de cálculo, pero no menciona herramientas de diseño gráfico como una herramienta para la estimación. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-3."
+  },
+{
+    "question": "Cuál de las siguientes no es una función del software de estimación según el capítulo 7?",
+    "options": [
+      "Realización de cálculos precisos",
+      "Gestión de datos de proyectos",
+      "Generación de informes detallados",
+      "Creación de campañas de marketing"
+    ],
+    "answer": "Creación de campañas de marketing",
+    "justification": "El software de estimación tiene funciones como la realización de cálculos precisos y la gestión de datos, pero no incluye la creación de campañas de marketing. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-4."
+  },
+  {
+    "question": "Qué beneficio principal ofrece el uso de herramientas tecnológicas para la estimación en la construcción?",
+    "options": [
+      "Mayor precisión en los cálculos",
+      "Mayor interacción con los clientes",
+      "Mejoras en la comunicación verbal",
+      "Reducción de la necesidad de supervisión"
+    ],
+    "answer": "Mayor precisión en los cálculos",
+    "justification": "El uso de herramientas tecnológicas para la estimación en la construcción ofrece una mayor precisión en los cálculos, lo que ayuda a evitar errores costosos. Referencia: Capítulo 7, Herramientas tecnológicas para la estimación, página 7-4."
+  },
+  {
+    "question": "Cuál es el primer paso para determinar los costos estimados de un proyecto?",
+    "options": [
+      "Calcular el costo de los materiales",
+      "Definir las fases del proyecto",
+      "Enumerar las tareas y materiales",
+      "Determinar el costo de la mano de obra"
+    ],
+    "answer": "Definir las fases del proyecto",
+    "justification": "El primer paso para determinar los costos estimados de un proyecto es definir las fases del proyecto. Esto implica dividir el proyecto en tareas y actividades específicas que se necesitarán para completar el trabajo. Referencia: Capítulo 7, página 7-4."
+  },
+  {
+    "question": "Cuál de las siguientes no es una herramienta tecnológica común utilizada para la estimación de costos?",
+    "options": [
+      "Software de estimación",
+      "Medidor de velocidad",
+      "Hojas de cálculo",
+      "Bases de datos de costos"
+    ],
+    "answer": "Medidor de velocidad",
+    "justification": "Las herramientas tecnológicas comunes para la estimación de costos incluyen software de estimación, hojas de cálculo y bases de datos de costos. Un \"Medidor de velocidad\" no se utiliza para estos fines. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Qué se debe considerar al determinar el costo de la mano de obra?",
+    "options": [
+      "El tiempo necesario para cada tarea",
+      "El costo de los materiales",
+      "La ubicación del proyecto",
+      "El precio del contrato"
+    ],
+    "answer": "El tiempo necesario para cada tarea",
+    "justification": "Al determinar el costo de la mano de obra, se debe considerar el tiempo necesario para completar cada tarea, las tasas salariales de los trabajadores y los beneficios adicionales. Referencia: Capítulo 7, página 7-4."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente necesario para calcular el costo de los materiales?",
+    "options": [
+      "Las cantidades necesarias",
+      "Los precios unitarios",
+      "El salario del supervisor",
+      "Los costos de entrega"
+    ],
+    "answer": "El salario del supervisor",
+    "justification": "Para calcular el costo de los materiales, se deben considerar las cantidades necesarias, los precios unitarios y los costos de entrega. \"El salario del supervisor\" no es un componente relevante para este cálculo. Referencia: Capítulo 7, página 7-4."
+  },
+  {
+    "question": "Qué método se utiliza comúnmente para calcular los costos de los equipos utilizados en un proyecto?",
+    "options": [
+      "Calculando el costo de los materiales",
+      "Determinando la tarifa de alquiler diaria",
+      "Estimando el tiempo de inactividad",
+      "Consultando los precios del mercado"
+    ],
+    "answer": "Determinando la tarifa de alquiler diaria",
+    "justification": "El método común para calcular los costos de los equipos incluye determinar la tarifa de alquiler diaria o el costo de propiedad y operación del equipo. Referencia: Capítulo 7, página 7-5."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea al determinar el costo de los subcontratistas?",
+    "options": [
+      "Considerar las tarifas de los subcontratistas",
+      "Calidad del trabajo",
+      "Calcular el costo de los permisos",
+      "Capacidad de cumplir con el cronograma"
+    ],
+    "answer": "Calcular el costo de los permisos",
+    "justification": "Al determinar el costo de los subcontratistas, se deben considerar las tarifas de los subcontratistas, la calidad del trabajo y la capacidad de cumplir con el cronograma. \"Calcular el costo de los permisos\" no es una tarea relevante en este contexto. Referencia: Capítulo 7, página 7-6."
+  },
+  {
+    "question": "Cuál es la finalidad de agregar las contingencias en la estimación de costos?",
+    "options": [
+      "Para mejorar la eficiencia del trabajo",
+      "Para reducir los costos del proyecto",
+      "Para cubrir posibles imprevistos",
+      "Para aumentar las ganancias"
+    ],
+    "answer": "Para cubrir posibles imprevistos",
+    "justification": "Agregar contingencias en la estimación de costos sirve para cubrir posibles imprevistos y variaciones en los costos estimados, asegurando que el proyecto pueda manejar cambios inesperados. Referencia: Capítulo 7, página 7-6."
+  },
+  {
+    "question": "Cuál de las siguientes no es una etapa del marco de estimación?",
+    "options": [
+      "Definir las fases",
+      "Enumerar las tareas y materiales",
+      "Realizar encuestas de satisfacción",
+      "Determinar los costos de mano de obra"
+    ],
+    "answer": "Realizar encuestas de satisfacción",
+    "justification": "El marco de estimación incluye definir las fases, enumerar las tareas y materiales, y determinar los costos de mano de obra y materiales. \"Realizar encuestas de satisfacción\" no es una etapa de este marco. Referencia: Capítulo 7, página 7-3."
+  },
+  {
+    "question": "Qué se debe hacer después de calcular los costos directos e indirectos de un proyecto?",
+    "options": [
+      "Reducir los gastos generales",
+      "Calcular el costo de los materiales",
+      "Determinar el costo de los permisos",
+      "Agregar el margen de ganancia"
+    ],
+    "answer": "Agregar el margen de ganancia",
+    "justification": "Después de calcular los costos directos e indirectos, se debe agregar el margen de ganancia para determinar el precio total del proyecto. Esto asegura que el contratista obtenga beneficios adecuados. Referencia: Capítulo 7, página 7-7."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones sobre el método de comparación de proyectos anteriores es correcta?",
+    "options": [
+      "Se basa en suposiciones teóricas sin datos históricos",
+      "Es adecuado solo para proyectos nuevos sin precedentes",
+      "No requiere ajustes por diferencias en proyectos",
+      "Se basa en la comparación con proyectos similares anteriores"
+    ],
+    "answer": "Se basa en la comparación con proyectos similares anteriores",
+    "justification": "El método de comparación de proyectos anteriores se basa en la experiencia pasada y la comparación con proyectos similares para estimar costos. Este método es útil cuando se dispone de datos precisos de proyectos anteriores similares. Referencia: Capítulo 7, página 7-8."
+  },
+  {
+    "question": "Cuál de los siguientes no es un beneficio del método de unidades?",
+    "options": [
+      "Permite una estimación detallada",
+      "Divide el proyecto en componentes más pequeños",
+      "Facilita ajustes precisos",
+      "Elimina la necesidad de experiencia profesional"
+    ],
+    "answer": "Elimina la necesidad de experiencia profesional",
+    "justification": "El método de unidades permite una estimación más precisa y detallada al dividir el proyecto en componentes más pequeños, pero no elimina la necesidad de experiencia y juicio profesional. Referencia: Capítulo 7, página 7-9."
+  },
+{
+    "question": "Cuál de las siguientes es una ventaja del método de porcentaje de costo?",
+    "options": [
+      "Es extremadamente preciso para todos los proyectos",
+      "Es útil para estimaciones rápidas y preliminares",
+      "No requiere conocimientos previos del proyecto",
+      "Se basa en datos históricos detallados"
+    ],
+    "answer": "Es útil para estimaciones rápidas y preliminares",
+    "justification": "El método de porcentaje de costo es útil para estimaciones rápidas y en fases preliminares del proyecto, ya que se basa en un porcentaje del costo total estimado del proyecto. Referencia: Capítulo 7, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una desventaja del método de costo unitario?",
+    "options": [
+      "Menos preciso sin datos adecuados",
+      "Dependencia de unidades de medida adecuadas",
+      "Requiere menos tiempo de preparación",
+      "Posible ajuste inadecuado al proyecto"
+    ],
+    "answer": "Requiere menos tiempo de preparación",
+    "justification": "El método de costo unitario puede ser menos preciso si no se dispone de datos adecuados o si las unidades de medida no se ajustan bien al proyecto, pero no se caracteriza por requerir menos tiempo de preparación. Referencia: Capítulo 7, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes características corresponde al método de unidades?",
+    "options": [
+      "Se basa en porcentajes del costo total del proyecto",
+      "Es menos detallado y más rápido",
+      "Descompone el proyecto en partes manejables",
+      "No se ajusta bien a proyectos complejos"
+    ],
+    "answer": "Descompone el proyecto en partes manejables",
+    "justification": "El método de unidades se caracteriza por descomponer el proyecto en partes manejables y estimar los costos de cada unidad, facilitando un control más detallado del presupuesto. Referencia: Capítulo 7, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una característica del método de comparación de proyectos anteriores?",
+    "options": [
+      "Se basa en experiencia pasada",
+      "Utiliza datos históricos",
+      "No requiere datos precisos",
+      "Es útil para proyectos similares"
+    ],
+    "answer": "No requiere datos precisos",
+    "justification": "El método de comparación de proyectos anteriores se basa en la experiencia pasada y datos históricos para estimar costos, pero no se caracteriza por no requerir datos precisos. Referencia: Capítulo 7, página 7-8."
+  },
+  {
+    "question": "Cuál de los siguientes métodos se utiliza comúnmente para estimaciones preliminares rápidas?",
+    "options": [
+      "Método de costo unitario",
+      "Método de porcentaje de costo",
+      "Método de unidades",
+      "Método de comparación de proyectos anteriores"
+    ],
+    "answer": "Método de porcentaje de costo",
+    "justification": "El método de porcentaje de costo es frecuentemente utilizado para realizar estimaciones rápidas y preliminares debido a su simplicidad y rapidez en la aplicación. Referencia: Capítulo 7, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una respuesta correcta al definir la fase de identificación de obstáculos en la estimación de proyectos?",
+    "options": [
+      "Proponer soluciones sin análisis previo",
+      "Identificar posibles problemas",
+      "Considerar condiciones climáticas adversas",
+      "Analizar restricciones legales y regulaciones"
+    ],
+    "answer": "Proponer soluciones sin análisis previo",
+    "justification": "La fase de identificación de obstáculos en la estimación de proyectos incluye la identificación de posibles problemas y factores que pueden afectar el éxito del proyecto. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Cuál de los siguientes factores es importante considerar durante la fase de identificación de obstáculos?",
+    "options": [
+      "Optimismo de los empleados",
+      "Preferencias personales del contratista",
+      "Condiciones climáticas adversas",
+      "Opiniones de los clientes finales"
+    ],
+    "answer": "Condiciones climáticas adversas",
+    "justification": "Es crucial considerar las condiciones climáticas adversas durante la fase de identificación de obstáculos, ya que pueden afectar significativamente el cronograma y los costos del proyecto. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Qué aspecto no debe ser considerado como un obstáculo potencial durante la estimación de un proyecto de construcción?",
+    "options": [
+      "Restricciones legales y regulaciones",
+      "Disponibilidad de recursos",
+      "Optimismo excesivo de los empleados",
+      "Acceso al sitio"
+    ],
+    "answer": "Optimismo excesivo de los empleados",
+    "justification": "El optimismo excesivo de los empleados no debe ser considerado un obstáculo potencial durante la estimación de un proyecto. Los obstáculos deben centrarse en factores tangibles y concretos. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Cuál de las siguientes no es una respuesta correcta sobre la importancia de identificar obstáculos en la fase de estimación?",
+    "options": [
+      "Desarrollar estrategias de mitigación",
+      "Aumentar la precisión del presupuesto",
+      "Optimizar el número de empleados en el proyecto",
+      "Reducir riesgos y evitar retrasos"
+    ],
+    "answer": "Optimizar el número de empleados en el proyecto",
+    "justification": "La identificación de obstáculos permite desarrollar estrategias de mitigación efectivas, reduciendo riesgos y evitando retrasos costosos. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Cuál es una de las principales razones para identificar obstáculos durante la fase de estimación?",
+    "options": [
+      "Incrementar los costos iniciales",
+      "Contratar más personal",
+      "Desarrollar estrategias de mitigación",
+      "Optimizar el diseño arquitectónico"
+    ],
+    "answer": "Desarrollar estrategias de mitigación",
+    "justification": "La identificación de obstáculos es crucial para desarrollar estrategias de mitigación que permitan manejar y reducir los riesgos del proyecto. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Por qué es crucial considerar la disponibilidad de recursos durante la identificación de obstáculos en la estimación?",
+    "options": [
+      "Asegurar la satisfacción del cliente",
+      "Aumentar la creatividad del equipo",
+      "Evitar retrasos significativos y sobrecostos",
+      "Optimizar el diseño del proyecto"
+    ],
+    "answer": "Evitar retrasos significativos y sobrecostos",
+    "justification": "La falta de materiales o personal puede causar retrasos significativos y sobrecostos en el proyecto. Identificar estos problemas permite una planificación más efectiva. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Qué no debe ser un obstáculo potencial identificado durante la fase de estimación de un proyecto?",
+    "options": [
+      "Problemas de acceso al sitio",
+      "Condiciones climáticas adversas",
+      "Opiniones de los clientes finales",
+      "Disponibilidad de recursos"
+    ],
+    "answer": "Opiniones de los clientes finales",
+    "justification": "Las opiniones de los clientes finales no son un obstáculo técnico o logístico para la ejecución del proyecto. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+  {
+    "question": "Cuál de las siguientes no es una razón para identificar obstáculos durante la estimación?",
+    "options": [
+      "Planificar para superar desafíos potenciales",
+      "Desarrollar estrategias de mitigación",
+      "Reducir riesgos asociados",
+      "Aumentar el número de empleados en el proyecto"
+    ],
+    "answer": "Aumentar el número de empleados en el proyecto",
+    "justification": "Identificar obstáculos ayuda a planificar adecuadamente para superar los desafíos del proyecto, no a incrementar innecesariamente la cantidad de personal. Referencia: Capítulo 7, Estimación de obstáculos, página 7-8."
+  },
+{
+    "question": "Qué factor es clave al considerar obstáculos durante la estimación de un proyecto?",
+    "options": [
+      "Restricciones legales y regulaciones",
+      "Preferencias del cliente",
+      "Intereses del equipo de diseño",
+      "Preferencias del contratista"
+    ],
+    "answer": "Restricciones legales y regulaciones",
+    "justification": "Las restricciones legales y regulaciones son factores clave a considerar, ya que pueden impactar significativamente en la viabilidad y el cronograma del proyecto. (Referencia: Capítulo 7, Estimación de obstáculos, página 7-8)."
+  },
+  {
+    "question": "Cuál de las siguientes no es una responsabilidad de un estimador según el capítulo 7?",
+    "options": [
+      "Calcular los costos de materiales",
+      "Preparar propuestas de estimación",
+      "Coordinar con los subcontratistas",
+      "Supervisar directamente la construcción"
+    ],
+    "answer": "Supervisar directamente la construcción",
+    "justification": "Un estimador no es responsable de supervisar directamente la construcción. Su responsabilidad principal es evaluar los costos y preparar las propuestas. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Un estimador debe tener conocimientos sobre:",
+    "options": [
+      "Costos de mano de obra",
+      "Costos de materiales",
+      "Códigos de construcción",
+      "Todas las anteriores"
+    ],
+    "answer": "Todas las anteriores",
+    "justification": "Un estimador debe tener conocimientos sobre costos de mano de obra, materiales, y equipo, así como sobre regulaciones y códigos aplicables. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una característica de un estimador?",
+    "options": [
+      "Atención al detalle",
+      "Gestión de personal",
+      "Conocimiento técnico",
+      "Precisión en los cálculos"
+    ],
+    "answer": "Gestión de personal",
+    "justification": "Un buen estimador no necesita ser un experto en gestión de personal, sino en evaluación y cálculo de costos. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Cuál es la importancia de un estimador en un proyecto de construcción?",
+    "options": [
+      "Dirigir a los trabajadores",
+      "Implementar planes de seguridad",
+      "Evaluar y estimar los costos",
+      "Comprar materiales"
+    ],
+    "answer": "Evaluar y estimar los costos",
+    "justification": "La importancia de un estimador radica en su capacidad para evaluar y estimar los costos, lo que es crucial para la planificación y ejecución del proyecto. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una tarea de un estimador según el capítulo 7?",
+    "options": [
+      "Revisar los planos del proyecto",
+      "Calcular los costos de materiales",
+      "Preparar propuestas detalladas",
+      "Contratar personal"
+    ],
+    "answer": "Contratar personal",
+    "justification": "Contratar personal no es una tarea de un estimador; su rol se centra en la evaluación de costos y la preparación de propuestas. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Por qué es crucial el rol de un estimador en la fase inicial de un proyecto?",
+    "options": [
+      "Para proporcionar una evaluación precisa de los costos",
+      "Para supervisar la construcción",
+      "Para gestionar los equipos de trabajo",
+      "Para realizar inspecciones de seguridad"
+    ],
+    "answer": "Para proporcionar una evaluación precisa de los costos",
+    "justification": "El rol de un estimador es crucial en la fase inicial porque proporciona una evaluación precisa de los costos que ayuda en la toma de decisiones y en la planificación del proyecto. Referencia: Capítulo 7, Uso de un estimador, página 7-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un documento necesario en la presentación de una propuesta?",
+    "options": [
+      "Oferta",
+      "Planos del proyecto",
+      "Contrato",
+      "Informe financiero"
+    ],
+    "answer": "Informe financiero",
+    "justification": "El Capítulo 7 explica que los documentos de la propuesta incluyen la oferta, los planos del proyecto y el contrato, pero no menciona la necesidad de incluir un informe financiero. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  },
+  {
+    "question": "Qué documento es esencial al presentar una propuesta de construcción?",
+    "options": [
+      "Resumen ejecutivo",
+      "Informe financiero",
+      "Planos del proyecto",
+      "Informe de sostenibilidad"
+    ],
+    "answer": "Planos del proyecto",
+    "justification": "Según el libro, es esencial incluir los planos del proyecto al presentar una propuesta, ya que proporcionan una representación visual y técnica del trabajo a realizar. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente clave de una propuesta efectiva?",
+    "options": [
+      "Oferta clara",
+      "Descripción del trabajo",
+      "Términos de pago",
+      "Evaluación del desempeño pasado"
+    ],
+    "answer": "Evaluación del desempeño pasado",
+    "justification": "El Capítulo 7 destaca que una propuesta efectiva debe tener una oferta clara, una descripción detallada del trabajo y términos de pago, pero no menciona la inclusión de una evaluación del desempeño pasado. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no es mencionado como crucial para la presentación de una propuesta?",
+    "options": [
+      "Claridad de la oferta",
+      "Análisis de mercado",
+      "Precisión de los cálculos",
+      "Planos del proyecto"
+    ],
+    "answer": "Análisis de mercado",
+    "justification": "En el Capítulo 7, se mencionan elementos cruciales como la claridad de la oferta y la precisión de los cálculos, pero no se menciona la necesidad de incluir un análisis de mercado. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  },
+  {
+    "question": "Cuál de los siguientes debe estar claramente detallado en una propuesta?",
+    "options": [
+      "Opiniones de clientes anteriores",
+      "Descripción del trabajo",
+      "Detalles de la licencia del contratista",
+      "Evaluaciones de riesgos"
+    ],
+    "answer": "Descripción del trabajo",
+    "justification": "Es fundamental que la propuesta incluya una descripción clara del trabajo a realizar, lo que garantiza que ambas partes entiendan el alcance del proyecto. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  },
+  {
+    "question": "Cuál de las siguientes no es una práctica recomendada en la presentación de propuestas según el Capítulo 7?",
+    "options": [
+      "Claridad en la oferta",
+      "Términos de pago definidos",
+      "Gráficos de ventas históricas",
+      "Planos detallados del proyecto"
+    ],
+    "answer": "Gráficos de ventas históricas",
+    "justification": "El Capítulo 7 recomienda la claridad en la oferta y términos de pago definidos, pero no menciona la necesidad de incluir gráficos de ventas históricas del contratista. Referencia: Capítulo 7, Presentación de su propuesta, página 7-9."
+  }
+]
