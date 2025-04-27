@@ -1,0 +1,420 @@
+[
+  {
+    "question": "Cuál de los siguientes no es un componente de la envoltura del edificio?",
+    "options": [
+      "Techos",
+      "Ventanas",
+      "Cimientos",
+      "Sistemas eléctricos"
+    ],
+    "answer": "Sistemas eléctricos",
+    "justification": "La envoltura del edificio incluye componentes que protegen la estructura contra la intrusión de agua y otros elementos externos. Entre estos componentes se encuentran las paredes exteriores, los techos, y las ventanas. Referencia: Capítulo 12, Estructura exterior del edificio, página 12-1."
+  },
+  {
+    "question": "Qué componente de la envoltura del edificio se encarga principalmente de prevenir la intrusión de agua en los bordes y uniones?",
+    "options": [
+      "Tapajuntas",
+      "Revestimiento",
+      "Paneles de yeso",
+      "Aislamiento"
+    ],
+    "answer": "Tapajuntas",
+    "justification": "Los tapajuntas son cruciales para la prevención de la intrusión de agua en las uniones y bordes de diferentes elementos de la estructura, como techos y ventanas. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes no es un método para prevenir la intrusión de agua en las paredes exteriores?",
+    "options": [
+      "Revestimientos",
+      "Barreras de humedad",
+      "Sistemas de calefacción",
+      "Selladores"
+    ],
+    "answer": "Sistemas de calefacción",
+    "justification": "Las paredes exteriores deben estar adecuadamente diseñadas y construidas para prevenir la intrusión de agua, utilizando revestimientos y barreras de humedad, pero no sistemas de calefacción. Referencia: Capítulo 12, Paredes exteriores, página 12-2."
+  },
+  {
+    "question": "Qué se utiliza para evitar que el agua penetre alrededor de las ventanas y puertas?",
+    "options": [
+      "Ensambles de ventanas y puertas",
+      "Cubiertas de piso",
+      "Paredes interiores",
+      "Sistemas de ventilación"
+    ],
+    "answer": "Ensambles de ventanas y puertas",
+    "justification": "Para evitar que el agua penetre alrededor de las ventanas y puertas se utilizan ensambles adecuados, que incluyen selladores y barreras contra la humedad. Referencia: Capítulo 12, Ensambles de ventanas y puertas, página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no está directamente involucrado en la protección contra la intrusión de agua en la estructura exterior?",
+    "options": [
+      "Sistemas eléctricos",
+      "Paredes exteriores",
+      "Techos",
+      "Tapajuntas"
+    ],
+    "answer": "Sistemas eléctricos",
+    "justification": "Los elementos involucrados en la protección contra la intrusión de agua incluyen paredes exteriores, techos, y tapajuntas. Los sistemas eléctricos no forman parte de esta protección. Referencia: Capítulo 12, Estructura exterior del edificio, página 12-1."
+  },
+  {
+    "question": "Qué material se utiliza comúnmente en los ensambles de techos para prevenir filtraciones de agua?",
+    "options": [
+      "Tapajuntas",
+      "Pintura impermeable",
+      "Paneles de madera",
+      "Yeso"
+    ],
+    "answer": "Tapajuntas",
+    "justification": "Los tapajuntas se utilizan comúnmente en los ensambles de techos para prevenir filtraciones de agua, protegiendo las uniones y bordes. Referencia: Capítulo 12, Ensambles de techos, página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente utilizado en las paredes exteriores para evitar la intrusión de agua?",
+    "options": [
+      "Pintura impermeable",
+      "Revestimientos",
+      "Selladores",
+      "Barreras de humedad"
+    ],
+    "answer": "Pintura impermeable",
+    "justification": "Las paredes exteriores utilizan revestimientos, selladores, y barreras de humedad para prevenir la intrusión de agua, pero no pintura impermeable. Referencia: Capítulo 12, Paredes exteriores, página 12-2."
+  },
+  {
+    "question": "Qué parte de la estructura exterior del edificio es clave para manejar adecuadamente la intrusión de agua en las plataformas y balcones?",
+    "options": [
+      "Ensambles de plataformas y balcones",
+      "Cimientos",
+      "Paredes interiores",
+      "Sistemas de calefacción"
+    ],
+    "answer": "Ensambles de plataformas y balcones",
+    "justification": "Los ensambles de plataformas y balcones deben estar diseñados para manejar adecuadamente la intrusión de agua y prevenir daños estructurales. Referencia: Capítulo 12, Ensambles de plataformas y balcones, página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes no es un problema que las paredes exteriores deben manejar?",
+    "options": [
+      "Intrusión de agua",
+      "Carga de viento",
+      "Distribución de ventanas",
+      "Control de temperatura"
+    ],
+    "answer": "Distribución de ventanas",
+    "justification": "Las paredes exteriores deben manejar la intrusión de agua, la carga de viento y la temperatura, pero no están diseñadas para manejar la distribución de las ventanas. Referencia: Capítulo 12, Paredes exteriores, página 12-2."
+  },
+  {
+    "question": "Qué componente se debe inspeccionar regularmente para asegurar la integridad de la envoltura del edificio?",
+    "options": [
+      "Tapajuntas",
+      "Revestimiento",
+      "Aislamiento",
+      "Paredes interiores"
+    ],
+    "answer": "Tapajuntas",
+    "justification": "Los tapajuntas deben ser inspeccionados regularmente para asegurar que no haya filtraciones de agua que puedan comprometer la integridad de la estructura. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes no es un componente de la envoltura del edificio?",
+    "options": [
+      "Techos",
+      "Ventanas",
+      "Cimientos",
+      "Antenas"
+    ],
+    "answer": "Antenas",
+    "justification": "La envoltura del edificio incluye componentes que protegen la estructura contra la intrusión de agua y otros elementos externos. Entre estos componentes se encuentran las paredes exteriores, los techos, y las ventanas. Referencia: Capítulo 12, Estructura exterior del edificio, página 12-1."
+  },
+  {
+    "question": "Cuál de los siguientes no es un método para prevenir la intrusión de agua en las paredes exteriores?",
+    "options": [
+      "Revestimientos",
+      "Barreras de humedad",
+      "Limpieza regular",
+      "Selladores"
+    ],
+    "answer": "Limpieza regular",
+    "justification": "Las paredes exteriores deben estar adecuadamente diseñadas y construidas para prevenir la intrusión de agua, utilizando revestimientos y barreras de humedad, pero no limpieza regular. Referencia: Capítulo 12, Paredes exteriores, página 12-2."
+  },
+  {
+    "question": "Cuál de los siguientes elementos no está directamente involucrado en la protección contra la intrusión de agua en la estructura exterior?",
+    "options": [
+      "Calefacción",
+      "Paredes exteriores",
+      "Techos",
+      "Tapajuntas"
+    ],
+    "answer": "Calefacción",
+    "justification": "Los elementos involucrados en la protección contra la intrusión de agua incluyen paredes exteriores, techos, y tapajuntas. Los sistemas de calefacción no forman parte de esta protección. Referencia: Capítulo 12, Estructura exterior del edificio, página 12-1."
+  },
+{
+    "question": "Cuál es la principal función de los tapajuntas en la estructura exterior de un edificio?",
+    "options": [
+      "Proveer aislamiento térmico",
+      "Evitar la intrusión de agua",
+      "Soportar la carga estructural",
+      "Proporcionar ventilación"
+    ],
+    "answer": "Evitar la intrusión de agua",
+    "justification": "La función principal de los tapajuntas es evitar que el agua se infiltre en la estructura del edificio en áreas críticas como uniones y bordes. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Qué material es comúnmente utilizado como barrera de humedad en las paredes exteriores?",
+    "options": [
+      "Papel asfáltico",
+      "Paneles de yeso",
+      "Madera contrachapada",
+      "Ladrillos"
+    ],
+    "answer": "Papel asfáltico",
+    "justification": "El papel asfáltico se utiliza como barrera de humedad para prevenir que el agua penetre en la estructura a través de las paredes exteriores. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Cuál es la razón principal para instalar selladores en las ventanas y puertas?",
+    "options": [
+      "Mejorar la estética",
+      "Reducir el ruido exterior",
+      "Prevenir la intrusión de agua",
+      "Facilitar la apertura y cierre"
+    ],
+    "answer": "Prevenir la intrusión de agua",
+    "justification": "Los selladores en ventanas y puertas sirven para evitar que el agua y el aire se infiltren en el edificio, asegurando la estanqueidad del ensamble. Referencia: Capítulo 12, Ensambles de ventanas y puertas, página 12-3."
+  },
+  {
+    "question": "Cuál es un componente de la envoltura del edificio que también contribuye al aislamiento térmico?",
+    "options": [
+      "Tapajuntas",
+      "Revestimiento",
+      "Paredes interiores",
+      "Barreras de humedad"
+    ],
+    "answer": "Revestimiento",
+    "justification": "El revestimiento proporciona una capa adicional que ayuda a proteger contra la intrusión de agua y también contribuye al aislamiento térmico de la estructura. Referencia: Capítulo 12, Revestimientos, página 12-2."
+  },
+  {
+    "question": "Qué problemas pueden surgir si los tapajuntas están mal instalados?",
+    "options": [
+      "Condensación interior",
+      "Daños por intrusión de agua",
+      "Fallo estructural inmediato",
+      "Aumento en el consumo eléctrico"
+    ],
+    "answer": "Daños por intrusión de agua",
+    "justification": "Una instalación deficiente de tapajuntas puede permitir que el agua se infiltre en el edificio, causando daños estructurales y problemas de humedad. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Cuál de los siguientes elementos generalmente requiere tapajuntas para prevenir filtraciones de agua?",
+    "options": [
+      "Paredes interiores",
+      "Pisos de concreto",
+      "Ventanas",
+      "Cimientos"
+    ],
+    "answer": "Ventanas",
+    "justification": "Las ventanas, debido a su naturaleza de ensamblaje, requieren tapajuntas para sellar las uniones y evitar filtraciones de agua. Referencia: Capítulo 12, Ensambles de ventanas y puertas, página 12-3."
+  },
+  {
+    "question": "Qué tipo de daño puede ocurrir si no se mantiene adecuadamente el revestimiento exterior?",
+    "options": [
+      "Aparición de moho y pudrición",
+      "Pérdida de la garantía del edificio",
+      "Problemas eléctricos",
+      "Obstrucción de sistemas de ventilación"
+    ],
+    "answer": "Aparición de moho y pudrición",
+    "justification": "La falta de mantenimiento del revestimiento exterior puede permitir la intrusión de agua, provocando moho, hongos y pudrición de los materiales subyacentes. Referencia: Capítulo 12, Revestimientos, página 12-2."
+  },
+  {
+    "question": "Cuál de los siguientes elementos ayuda principalmente a drenar el agua fuera de las paredes exteriores?",
+    "options": [
+      "Pintura impermeable",
+      "Barreras de humedad",
+      "Tapajuntas",
+      "Selladores"
+    ],
+    "answer": "Barreras de humedad",
+    "justification": "Las barreras de humedad están diseñadas para dirigir y drenar el agua fuera de las paredes exteriores, protegiendo la estructura del daño causado por la humedad. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Cuál es el propósito principal de un sellador en el ensamblaje de una ventana?",
+    "options": [
+      "Mejorar el aislamiento acústico",
+      "Sellar contra la intrusión de agua",
+      "Facilitar el deslizamiento del marco",
+      "Proporcionar un acabado estético"
+    ],
+    "answer": "Sellar contra la intrusión de agua",
+    "justification": "El sellador en el ensamblaje de una ventana tiene como objetivo principal sellar cualquier abertura que pueda permitir la entrada de agua o aire. Referencia: Capítulo 12, Ensambles de ventanas y puertas, página 12-3."
+  },
+  {
+    "question": "Cuál es una consecuencia de la intrusión de agua en las plataformas o balcones mal diseñados?",
+    "options": [
+      "Desprendimiento del revestimiento exterior",
+      "Debilitamiento de la estructura",
+      "Incremento del valor de la propiedad",
+      "Mayor eficiencia energética"
+    ],
+    "answer": "Debilitamiento de la estructura",
+    "justification": "La intrusión de agua en plataformas o balcones mal diseñados puede degradar los materiales estructurales, debilitando toda la estructura. Referencia: Capítulo 12, Ensambles de plataformas y balcones, página 12-3."
+  },
+  {
+    "question": "Qué componente trabaja conjuntamente con los tapajuntas para impedir la intrusión de agua en las paredes exteriores?",
+    "options": [
+      "Aislamiento",
+      "Barreras de humedad",
+      "Sistemas eléctricos",
+      "Paneles de yeso"
+    ],
+    "answer": "Barreras de humedad",
+    "justification": "Las barreras de humedad trabajan junto con los tapajuntas para evitar que el agua se infiltre en las paredes exteriores, proporcionando una protección integral. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Cuál de los siguientes materiales NO se utiliza como barrera de humedad?",
+    "options": [
+      "Papel asfáltico",
+      "Membranas de polímero",
+      "Láminas metálicas",
+      "Yeso"
+    ],
+    "answer": "Yeso",
+    "justification": "El yeso no se utiliza como barrera de humedad; en cambio, se emplean materiales como papel asfáltico y membranas especiales para impedir la penetración de agua. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+{
+    "question": "Cuál es el principal objetivo de los sistemas de revestimiento en la envoltura del edificio?",
+    "options": [
+      "Proporcionar soporte estructural",
+      "Evitar la entrada de agua",
+      "Reducir la transmisión de sonido",
+      "Aumentar la carga del edificio"
+    ],
+    "answer": "Evitar la entrada de agua",
+    "justification": "El principal objetivo de los revestimientos en la envoltura del edificio es impedir la entrada de agua y proteger los materiales subyacentes. Referencia: Capítulo 12, Revestimientos, página 12-2."
+  },
+  {
+    "question": "Qué daño puede causar la intrusión prolongada de agua en las paredes exteriores?",
+    "options": [
+      "Reducción del consumo energético",
+      "Fortalecimiento de la estructura",
+      "Degradación de materiales",
+      "Mejora del aislamiento térmico"
+    ],
+    "answer": "Degradación de materiales",
+    "justification": "La intrusión prolongada de agua puede degradar los materiales de construcción, provocando pudrición, moho y daños estructurales. Referencia: Capítulo 12, Paredes exteriores, página 12-2."
+  },
+  {
+    "question": "Cuál es la mejor práctica para asegurar que los tapajuntas funcionen correctamente?",
+    "options": [
+      "Pintarlos regularmente",
+      "Realizar inspecciones periódicas",
+      "Cubrirlos con paneles de yeso",
+      "Sellarlos con silicón de uso general"
+    ],
+    "answer": "Realizar inspecciones periódicas",
+    "justification": "La inspección periódica de los tapajuntas es crucial para detectar daños o desgaste que puedan permitir la intrusión de agua. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Cuál es el principal riesgo de no utilizar barreras de humedad en las paredes exteriores?",
+    "options": [
+      "Incremento del valor del edificio",
+      "Mayor durabilidad de los materiales",
+      "Filtraciones de agua y daños estructurales",
+      "Aislamiento térmico excesivo"
+    ],
+    "answer": "Filtraciones de agua y daños estructurales",
+    "justification": "Sin barreras de humedad adecuadas, el agua puede filtrarse en la estructura, causando daños graves como pudrición y pérdida de integridad estructural. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Qué componente de la envoltura exterior es más crítico para evitar la filtración en las intersecciones de techos y paredes?",
+    "options": [
+      "Selladores",
+      "Tapajuntas",
+      "Revestimiento",
+      "Aislamiento"
+    ],
+    "answer": "Tapajuntas",
+    "justification": "En las intersecciones críticas, como donde el techo se encuentra con las paredes, los tapajuntas son esenciales para desviar el agua y evitar filtraciones. Referencia: Capítulo 12, Tapajuntas (flashing), página 12-3."
+  },
+  {
+    "question": "Qué característica distingue a una barrera de humedad de un revestimiento convencional?",
+    "options": [
+      "Peso más liviano",
+      "Función de impedir el paso de agua",
+      "Mayor valor estético",
+      "Facilidad de instalación"
+    ],
+    "answer": "Función de impedir el paso de agua",
+    "justification": "A diferencia del revestimiento convencional, la barrera de humedad está específicamente diseñada para impedir el paso del agua al interior del edificio. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Cuál es el efecto de una instalación incorrecta de los tapajuntas en las ventanas?",
+    "options": [
+      "Incremento de la eficiencia energética",
+      "Intrusión de agua en la estructura",
+      "Mayor ventilación natural",
+      "Fortalecimiento de las uniones"
+    ],
+    "answer": "Intrusión de agua en la estructura",
+    "justification": "Una instalación incorrecta de los tapajuntas alrededor de ventanas puede permitir que el agua se infiltre en el interior de la estructura, causando daños. Referencia: Capítulo 12, Ensambles de ventanas y puertas, página 12-3."
+  },
+  {
+    "question": "Qué elemento protege contra la intrusión de agua en áreas donde el revestimiento se interrumpe?",
+    "options": [
+      "Paneles de yeso",
+      "Selladores",
+      "Paredes interiores",
+      "Aislamiento"
+    ],
+    "answer": "Selladores",
+    "justification": "Los selladores se aplican en juntas y uniones donde el revestimiento se interrumpe para prevenir la entrada de agua. Referencia: Capítulo 12, Revestimientos y selladores, página 12-2."
+  },
+  {
+    "question": "Qué debe hacerse antes de instalar una nueva barrera de humedad en un edificio existente?",
+    "options": [
+      "Retirar el revestimiento viejo",
+      "Instalar nuevas ventanas",
+      "Pintar las paredes exteriores",
+      "Reemplazar los cimientos"
+    ],
+    "answer": "Retirar el revestimiento viejo",
+    "justification": "Antes de instalar una nueva barrera de humedad, es esencial retirar cualquier revestimiento viejo para asegurar una instalación adecuada y continua. Referencia: Capítulo 12, Barreras de humedad, página 12-2."
+  },
+  {
+    "question": "Qué función cumple un ensamblaje de plataforma y balcón bien diseñado?",
+    "options": [
+      "Reducir el número de ventanas",
+      "Soportar cargas pesadas sin asistencia",
+      "Manejar adecuadamente la intrusión de agua",
+      "Facilitar la instalación de sistemas eléctricos"
+    ],
+    "answer": "Manejar adecuadamente la intrusión de agua",
+    "justification": "Un ensamblaje adecuado de plataforma y balcón está diseñado para manejar la intrusión de agua y proteger la integridad estructural del edificio. Referencia: Capítulo 12, Ensambles de plataformas y balcones, página 12-3."
+  },
+  {
+    "question": "Qué puede ocurrir si una plataforma exterior no cuenta con una pendiente adecuada?",
+    "options": [
+      "El agua se drena rápidamente",
+      "Mayor resistencia a la intemperie",
+      "Acumulación de agua y daño estructural",
+      "Aislamiento térmico mejorado"
+    ],
+    "answer": "Acumulación de agua y daño estructural",
+    "justification": "La falta de pendiente en una plataforma exterior puede causar acumulación de agua, lo que lleva a daños estructurales por humedad. Referencia: Capítulo 12, Ensambles de plataformas y balcones, página 12-3."
+  },
+  {
+    "question": "Cuál de las siguientes afirmaciones es verdadera respecto a la protección contra la intrusión de agua en edificaciones?",
+    "options": [
+      "La pintura impermeable sustituye a la barrera de humedad",
+      "Un revestimiento estético es suficiente",
+      "La combinación de barreras de humedad, revestimientos y tapajuntas es esencial",
+      "Solo las paredes interiores requieren protección contra el agua"
+    ],
+    "answer": "La combinación de barreras de humedad, revestimientos y tapajuntas es esencial",
+    "justification": "Para proteger eficazmente una edificación contra la intrusión de agua, se requiere la combinación de barreras de humedad, revestimientos y tapajuntas. Referencia: Capítulo 12, Revestimientos y tapajuntas, página 12-2."
+  },
+  {
+    "question": "Qué componente no forma parte de la envoltura exterior del edificio?",
+    "options": [
+      "Revestimiento",
+      "Sistema de ventilación",
+      "Tapajuntas",
+      "Barreras de humedad"
+    ],
+    "answer": "Sistema de ventilación",
+    "justification": "La envoltura exterior del edificio incluye elementos como revestimiento, barreras de humedad y tapajuntas, pero no el sistema de ventilación. Referencia: Capítulo 12, Estructura exterior del edificio, página 12-1."
+  }
+]
