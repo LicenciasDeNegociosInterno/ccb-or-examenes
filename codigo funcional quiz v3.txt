@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Examen de Práctica</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background: #fff;
+      color: #222;
+      font-size: 1.5rem;
+      box-sizing: border-box;
+    }
+    .practice-section {
+      max-width: 100%;
+      margin: 2rem auto;
+      padding: 1.5rem;
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 450px;
+    }
+    .practice-title {
+      background-color: #d32f2f;
+      color: #fff;
+      padding: 1.5rem;
+      font-size: 1.8rem;
+      font-weight: bold;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+    }
+    .practice-text {
+      margin-bottom: 2rem;
+      font-size: 1.4rem;
+    }
+    .instructions {
+      font-size: 1.3rem;
+      color: #555;
+      margin-bottom: 2rem;
+      background-color: #f9f9f9;
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+    .btn-practice, .btn {
+      display: inline-block;
+      margin: 0.5rem;
+      padding: 1rem 2rem;
+      background-color: #d32f2f;
+      color: white;
+      font-weight: bold;
+      text-transform: uppercase;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+      font-size: 1.2rem;
+    }
+    .btn-practice:hover, .btn:hover {
+      background-color: #388e3c;
+    }
+    .question-container, .overview-card {
+      background: #f9f9f9;
+      padding: 2rem;
+      margin: 1rem auto;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      max-width: 100%;
+      width: 100%;
+      max-width: 450px;
+      text-align: left;
+    }
+    .overview-card.correcto {
+      background-color: #e0f9e0;
+      border: 1px solid #4caf50;
+    }
+    .overview-card.incorrecto {
+      background-color: #fde0e0;
+      border: 1px solid #f44336;
+    }
+    .question {
+      margin-bottom: 1.5rem;
+      font-weight: bold;
+      font-size: 1.6rem;
+      color: #333;
+    }
+    .options label {
+      display: block;
+      margin: 1rem 0;
+      padding: 1rem;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+      font-size: 1.3rem;
+    }
+    .options label:hover {
+      background: #eee;
+    }
+    .correct {
+      color: green;
+      font-size: 1.6rem;
+    }
+    .incorrect {
+      color: red;
+      font-size: 1.6rem;
+    }
+    .overtime {
+      color: #d32f2f;
+      font-weight: bold;
+    }
+    .justification-box {
+      margin-top: 1rem;
+      background-color: #fff8e1;
+      padding: 1.5rem;
+      border-radius: 8px;
+      font-size: 1.4rem;
+    }
+    #feedback, #justification {
+      margin-top: 1rem;
+    }
+    #result {
+      margin-top: 2rem;
+      font-size: 1.6rem;
+    }
+    #timeLeft, #questionCounter {
+      margin: 1rem 0;
+      font-size: 1.3rem;
+    }
+    .warning {
+      background-color: #ffcc00;
+      color: #333;
+      padding: 2rem;
+      border-radius: 8px;
+      font-size: 1.4rem;
+      margin: 3rem auto;
+      max-width: 90%;
+      width: 450px;
+      font-weight: bold;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+<div id="mainContent">
+  <div class="practice-section">
+    <div class="practice-title">📚 ¡Has llegado al final del capítulo!</div>
+    <p class="practice-text">
+      Has llegado al final del capítulo. Antes de continuar, es importante practicar lo aprendido.
+      Asegúrate de tener tu libro contigo y realiza el examen de práctica de este capítulo.
+    </p>
+    <div class="instructions">
+      📢 <strong>Importante:</strong><br>
+      Al dar clic en el botón, se abrirá una <strong>nueva ventana</strong> o se cargará el examen.<br>
+      Cuando termines, regresa a esta página para seguir avanzando.
+    </div>
+    <a href="#" id="btnEspanol" class="btn-practice">Hacer Examen de Práctica en Español</a>
+    <a href="https://testmoz.com/q/chapter1" target="_blank" class="btn-practice">Hacer Examen de Práctica en Inglés</a>
+  </div>
+</div>
+
+<div id="advertencia" class="warning">
+  <p><strong>Aviso:</strong><br>
+    Abajo se encuentra el botón para continuar el curso. No lo presiones a menos que ya hayas hecho el examen de práctica y quieras continuar con el resto de capítulos. Si lo presionas mientras estás haciendo un examen, se perderá tu progreso.
+  </p>
+</div>
+
+<script>
+let selectedQuestions = [], currentQuestionIndex = 0, userAnswers = [], timer, startTime;
+const config = {
+  quizTitle: "Este es un exámen de práctica",
+  timeLimitSeconds: 1200,
+  questionsToShow: 10,
+  passPercentage: 70,
+  correctText: "✅ ¡Correcto! ¡Buen trabajo!",
+  incorrectText: "❌ Respuesta Incorrecta.",
+  passText: "✅ ¡Felicidades! Aprobaste este exámen de práctica! Recuerda que las preguntas del PSI serán parecidas asi que sigue practicando!",
+  failText: "❌ No aprobaste. Inténtalo de nuevo, recuerda que este exámen es solo para practicar, no te desanimes!",
+  questionsUrl: "https://raw.githubusercontent.com/LicenciasDeNegociosInterno/ccb-or-examenes/refs/heads/main/capitulo1-espanol.json",
+  endOnTimeOut: false
+};
+
+document.addEventListener('click', function(event) {
+  if (event.target && event.target.id === 'btnEspanol') {
+    event.preventDefault();
+    cargarExamen();
+  }
+  if (event.target && event.target.id === 'nextBtn') {
+    currentQuestionIndex++;
+    showQuestion();
+  }
+});
+
+async function cargarExamen() {
+  const container = document.getElementById('mainContent');
+  container.innerHTML = `
+    <h1 id="quizTitle">${config.quizTitle}</h1>
+    <div id="timeLeft"></div>
+    <div id="questionCounter"></div>
+    <div id="quizContainer"></div>
+    <div id="feedback"></div>
+    <div id="justification"></div>
+    <button id="nextBtn" class="btn" style="display:none;">Siguiente pregunta</button>
+    <div id="result"></div>
+    <div id="overview"></div>
+    <div id="retryContainer" style="display:none;">
+      <button id="retryBtn" class="btn">Volver a Intentar</button>
+    </div>
+  `;
+  try {
+    const response = await fetch(config.questionsUrl);
+    const questions = await response.json();
+    iniciarQuiz(questions);
+  } catch (error) {
+    console.error('Error cargando preguntas:', error);
+    document.getElementById('mainContent').innerHTML = '<p>Error cargando el examen. Intenta nuevamente.</p>';
+  }
+}
+
+function iniciarQuiz(preguntas) {
+  clearInterval(timer);
+  shuffleArray(preguntas);
+  selectedQuestions = preguntas.slice(0, config.questionsToShow);
+  currentQuestionIndex = 0;
+  userAnswers = [];
+  startTime = Date.now();
+  showQuestion();
+  startTimer();
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function startTimer() {
+  let timeLeft = config.timeLimitSeconds;
+  updateTimerDisplay(timeLeft);
+  timer = setInterval(() => {
+    timeLeft--;
+    updateTimerDisplay(timeLeft);
+    if (timeLeft < 0) {
+      clearInterval(timer);
+      if (config.endOnTimeOut) {
+        showResult();
+      } else {
+        document.getElementById('timeLeft').innerHTML = '⏰ Se acabó el tiempo, no te preocupes, continúa respondiendo!';
+      }
+    }
+  }, 1000);
+}
+
+function updateTimerDisplay(seconds) {
+  const t = Math.max(0, seconds);
+  const minutes = Math.floor((t % 3600) / 60);
+  const secs = t % 60;
+  document.getElementById('timeLeft').innerHTML = `⏰ ${minutes}m ${secs}s`;
+}
+function showQuestion() {
+  if (currentQuestionIndex >= selectedQuestions.length) {
+    showResult();
+    return;
+  }
+  const q = selectedQuestions[currentQuestionIndex];
+  document.getElementById('quizContainer').innerHTML = '';
+
+  const div = document.createElement('div');
+  div.classList.add('question-container');
+  document.getElementById('questionCounter').innerText = `Pregunta ${currentQuestionIndex + 1} de ${config.questionsToShow}`;
+
+  const question = document.createElement('div');
+  question.classList.add('question');
+  question.innerHTML = `<strong>${(currentQuestionIndex + 1)}. ${q.question}</strong>`;
+  div.appendChild(question);
+
+  const optionsDiv = document.createElement('div');
+  optionsDiv.classList.add('options');
+
+  q.options.forEach(option => {
+    const label = document.createElement('label');
+    const input = document.createElement('input');
+    input.type = 'radio';
+    input.name = 'q';
+    input.value = option;
+    input.onclick = () => checkAnswer(option, q.answer, q.justification);
+    label.appendChild(input);
+    label.appendChild(document.createTextNode(' ' + option));
+    optionsDiv.appendChild(label);
+  });
+
+  div.appendChild(optionsDiv);
+  document.getElementById('quizContainer').appendChild(div);
+
+  document.getElementById('feedback').innerText = '';
+  document.getElementById('justification').innerText = '';
+  document.getElementById('nextBtn').style.display = 'none';
+}
+
+function checkAnswer(selected, correct, justification) {
+  document.getElementById('nextBtn').style.display = 'inline-block';
+  if (selected === correct) {
+    document.getElementById('feedback').innerText = config.correctText;
+    document.getElementById('justification').innerText = "";
+  } else {
+    document.getElementById('feedback').innerText = config.incorrectText;
+    document.getElementById('justification').innerHTML = `<div class="justification-box"><strong>La correcta era:</strong> ${correct}<br><em>${justification}</em></div>`;
+  }
+  userAnswers.push({
+    question: selectedQuestions[currentQuestionIndex].question,
+    selected,
+    correct,
+    justification,
+    wasCorrect: selected === correct
+  });
+  document.querySelectorAll('input[name="q"]').forEach(input => input.disabled = true);
+}
+function showResult() {
+  clearInterval(timer);
+
+  document.getElementById('quizTitle').style.display = 'none';
+  document.getElementById('timeLeft').style.display = 'none';
+  document.getElementById('questionCounter').style.display = 'none';
+  document.getElementById('quizContainer').style.display = 'none';
+  document.getElementById('feedback').style.display = 'none';
+  document.getElementById('justification').style.display = 'none';
+  document.getElementById('nextBtn').style.display = 'none';
+
+  const correctCount = userAnswers.filter(a => a.wasCorrect).length;
+  const incorrectCount = userAnswers.length - correctCount;
+  const percentage = (correctCount / selectedQuestions.length) * 100;
+  const elapsedSeconds = Math.round((Date.now() - startTime) / 1000);
+
+  const hours = Math.floor(elapsedSeconds / 3600);
+  const minutes = Math.floor((elapsedSeconds % 3600) / 60);
+  const seconds = elapsedSeconds % 60;
+
+  document.getElementById('result').innerText = percentage >= config.passPercentage ? config.passText : config.failText;
+
+  const overview = document.getElementById('overview');
+  overview.innerHTML = `
+    <h2>Resumen:</h2>
+    <p>Tiempo total: ${hours} horas, ${minutes} minutos, ${seconds} segundos.</p>
+    <p>Calificación: ${percentage.toFixed(2)}%</p>
+    <p>✅ Correctas: ${correctCount} | ❌ Incorrectas: ${incorrectCount}</p>
+  `;
+
+  if (config.endOnTimeOut) {
+    const unanswered = selectedQuestions.length - userAnswers.length;
+    overview.innerHTML += `<p>❓ Preguntas no respondidas: ${unanswered}</p>`;
+    overview.innerHTML += `<p>El examen finalizó porque se te acabó el tiempo!</p>`;
+  } else {
+    const timeOver = Math.max(0, elapsedSeconds - config.timeLimitSeconds);
+    const timeOverHours = Math.floor(timeOver / 3600);
+    const timeOverMinutes = Math.floor((timeOver % 3600) / 60);
+    const timeOverSeconds = timeOver % 60;
+    overview.innerHTML += `<p>⏱️ Te pasaste de tiempo por: ${timeOverHours} horas, ${timeOverMinutes} minutos, ${timeOverSeconds} segundos.</p>`;
+  }
+
+  userAnswers.forEach((ans, idx) => {
+    const card = document.createElement('div');
+    card.className = 'overview-card ' + (ans.wasCorrect ? 'correcto' : 'incorrecto');
+    if (ans.wasCorrect) {
+      card.innerHTML = `<strong>${idx + 1}. ${ans.question}</strong><br>✅ Respuesta correcta: ${ans.correct}`;
+    } else {
+      card.innerHTML = `<strong>${idx + 1}. ${ans.question}</strong><br>❌ Tu respuesta: ${ans.selected}<br>✅ Respuesta correcta: ${ans.correct}<div class="justification-box">Justificación: ${ans.justification}</div>`;
+    }
+    overview.appendChild(card);
+  });
+
+  if (percentage < config.passPercentage) {
+    document.getElementById('retryContainer').style.display = 'block';
+    document.getElementById('retryBtn').onclick = cargarExamen;
+  }
+}
+</script>
+
+</body>
+</html>

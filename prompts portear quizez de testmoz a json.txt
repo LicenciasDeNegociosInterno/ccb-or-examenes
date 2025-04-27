@@ -1,0 +1,43 @@
+Analiza este archivo, es de preguntas de opcion multiple de testmoz, contiene 93 preguntas, 
+
+Usa de ejemplo la fila 1 a 5 y la colimna A, B, C y D de ese rango
+
+La celda A1 tiene una pregunta
+Las celdas B2 a B5 contienen las 4 posibles opciones multiples, y la respuesta correcta esta marcada con un * en la columna A2 a A5 (en este caso en la A4), es decir la celda que esta a su lado, y finalmente la celda D1 contiene la justificacion de por que esa es la respuesta correcta, luego el patron se repite a partir de l linea 6, donde inicia otra pregunta y asi sucesivamente, las otras celdas que contienen un numero 1, o one, shuffle pueden ignorarse
+
+Dicho eso, puedes ver las 93 preguntas?
+
+
+
+
+
+necesito que cambies el formato de la estructura y el codigo a como esta en este ejemplo, para hacerlo en .json, vas a necesitar hacerlo por partes, que contenga las 93 preguntas, absolutamente todo el texto debe estar sin modificaciones, tanto de las preguntas como de las respuestas y las justificaciones, nada es generico, necesito que lo pases tal cual solo quitando las etiquetas HTML, el resultado ponlo en formato texto para copiar y pegar, yo voy a ir armando el json, haz por partes el codigo, de 13 preguntas cada bloque
+
+[
+  {
+    "question": "¿Cuál de las siguientes NO ES una función de la Junta de Contratistas de la Construcción de Oregón?",
+    "options": [
+      "Establecer una política e implementar la legislación.",
+      "Supervisar al administrador",
+      "Inspeccionar obras de construcción",
+      "Revisar apelaciones"
+    ],
+    "answer": "Inspeccionar obras de construcción",
+    "justification": "La Junta de Contratistas de la Construcción de Oregón no tiene la función de inspeccionar obras de construcción. Sus funciones incluyen establecer políticas, supervisar al administrador y revisar apelaciones. Consulta el Capítulo 1, La Junta de Contratistas de la Construcción, páginas 1-1, 1-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones NO es requerida para mantener una licencia activa de contratista en Oregón?",
+    "options": [
+      "Pagar las tarifas de renovación a tiempo",
+      "Completar los cursos de educación continua requeridos",
+      "Mantener un seguro de responsabilidad vigente",
+      "Presentar reportes de inspección de obra cada año"
+    ],
+    "answer": "Presentar reportes de inspección de obra cada año",
+    "justification": "No es obligatorio presentar reportes de inspección anual. Se exige renovar licencias, pagar tarifas y mantener seguros vigentes. páginas 1-1, 1-2."
+  }
+]
+
+
+
+

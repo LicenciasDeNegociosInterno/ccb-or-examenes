@@ -1,0 +1,187 @@
+<p>¿Qué formulario se utiliza para solicitar un Número Federal de Identificación del Empleador (EIN)?</p>,1,"one, shuffle","Para solicitar un Número Federal de Identificación del Empleador (EIN), se debe completar el Formulario SS-4 del IRS. Este formulario recopila la información necesaria sobre el negocio y sus propietarios. Esto se explica en el Capítulo 14, página 14-1."
+*,Formulario SS-4,,
+,Formulario W-2,,
+,Formulario 1099-MISC,,
+,Formulario 940,,
+<p>¿Qué agencia emite el Número Federal de Identificación del Empleador (EIN)?</p>,1,"one, shuffle","El Número Federal de Identificación del Empleador (EIN) es emitido por el Servicio de Impuestos Internos (IRS). Esta agencia es responsable de administrar los impuestos federales en los Estados Unidos. Esto está detallado en el Capítulo 14, página 14-1."
+*,IRS (Servicio de Impuestos Internos),,
+,Departamento de Trabajo,,
+,Secretaría de Estado,,
+,Administración de Pequeñas Empresas,,
+<p>¿Cuál de las siguientes afirmaciones no es correcta sobre el EIN?</p>,1,"one, shuffle","El EIN no es un reemplazo del número de seguro social para los propietarios, pero es necesario para la declaración de impuestos y otras operaciones comerciales. No es válido fuera de los Estados Unidos. Ver Capítulo 14, página 14-1."
+,Se utiliza para declarar impuestos federales,,
+,Es necesario para contratar empleados,,
+*,Es válido fuera de los Estados Unidos,,
+<p>¿Para qué tipo de entidades comerciales es necesario obtener un EIN?</p>,1,"one, shuffle","Un EIN es necesario para cualquier tipo de entidad comercial que tenga empleados, opere como una corporación o sociedad, o cumpla con otros requisitos específicos del IRS. Esto está explicado en el Capítulo 14, página 14-1."
+*,Cualquier entidad comercial con empleados,,
+,Solo empresas unipersonales,,
+,Solo corporaciones,,
+,Solo asociaciones,,
+<p>¿Cuál es el uso principal del Número de Identificación Comercial de Oregón?</p>,1,"one, shuffle","El uso principal del Número de Identificación Comercial de Oregón es para la presentación de impuestos de nómina y otras obligaciones fiscales estatales. Este número es obligatorio para las empresas que operan en Oregón y tienen empleados. Referencia: Capítulo 14, página 14-1."
+*,<p>Reportar compensación como funcionario corporativo</p>,,
+,Contratación de empleados,,
+,Registro de propiedad,,
+,Acceso a servicios bancarios,,
+<p>¿Cuál de los siguientes no es un requisito para obtener un Número de Identificación Comercial de Oregón?</p>,1,"one, shuffle","No se requiere un registro de propiedad para obtener un Número de Identificación Comercial de Oregón. Los requisitos incluyen tener empleados y estar obligado a presentar impuestos en el estado. Referencia: Capítulo 14, página 14-1."
+,Tener empleados,,
+*,Registro de propiedad,,
+,Obligación de presentar impuestos,,
+,Operar en el estado de Oregón,,
+<p>¿Por qué es importante el Número de Identificación Comercial de Oregón para las empresas?</p>,1,"one, shuffle","<p>El Número de Identificación Comercial de Oregón es crucial porque permite a las empresas cumplir con las obligaciones fiscales del estado, incluyendo la presentación de impuestos de nómina y otros impuestos comerciales. Referencia: Capítulo 14, página 14-2.</p>"
+,Permite acceder a préstamos,,
+*,Cumplir con obligaciones fiscales,,
+,Registrar el nombre comercial,,
+,Contratar a trabajadores extranjeros,,
+<p>¿Cuál de las siguientes afirmaciones sobre el Número de Identificación Comercial de Oregón no es correcta?</p>,1,"one, shuffle","<p>El Número de Identificación Comercial de Oregón no es necesario para el registro de la propiedad, sino para cumplir con las obligaciones fiscales y la presentación de impuestos de nómina. Referencia: Capítulo 14, página 14-2.</p>"
+*,Es necesario para el registro de la propiedad,,
+,<p>Se usa para retención de impuestos</p>,,
+,Es obligatorio para las empresas con empleados,,
+,<p>Se requiere para cumplir con impuestos de tránsito estatal</p>,,
+<p>¿Qué empresas están obligadas a obtener un Número de Identificación Comercial de Oregón?</p>,1,"one, shuffle","Las empresas que tienen empleados o que están obligadas a presentar impuestos en el estado de Oregón deben obtener un Número de Identificación Comercial de Oregón. Este número es esencial para la presentación de impuestos de nómina y otras obligaciones fiscales. Referencia: Capítulo 14, página 14-1."
+,Empresas sin empleados,,
+,Empresas solo en línea,,
+*,Empresas con empleados,,
+,Empresas fuera del estado,,
+<p>¿Cuál de los siguientes no es un impuesto comercial federal aplicable a los contratistas?</p>,1,"one, shuffle","Los impuestos comerciales federales aplicables a los contratistas incluyen el impuesto sobre la renta, el impuesto estimado, el impuesto como trabajador independiente, y los impuestos federales sobre el empleo. El impuesto sobre ventas no es un impuesto comercial federal. Referencia: Capítulo 14, página 14-2."
+,Impuesto sobre la renta,,
+,Impuesto como trabajador independiente,,
+*,Impuesto sobre ventas,,
+<p>¿Cuál de los siguientes no es un componente del impuesto FICA?</p>,1,"one, shuffle","El impuesto FICA se compone del impuesto de Seguro Social y el impuesto de Medicare. El impuesto sobre la renta no es un componente del impuesto FICA. Referencia: Capítulo 14, página 14-5."
+,Impuesto de Seguro Social,,
+,Impuesto de Medicare,,
+*,Impuesto sobre la renta,,
+<p>¿Qué es el número Federal de Identificación del Empleador (EIN)?</p>,1,"one, shuffle","El EIN es un número asignado por el IRS para identificar a las entidades comerciales para fines de impuestos. Este número es necesario para reportar impuestos y presentar declaraciones. Referencia: Capítulo 14, página 14-1."
+,Un número asignado por el estado para licencias comerciales,,
+,Un número de identificación personal para los dueños de negocios,,
+*,<p>Un número asignado por el IRS para identificar cuentas de</p><p>impuestos de los empleadores </p>,,
+,Un número utilizado exclusivamente para transacciones bancarias,,
+<p>¿Cuál es el propósito del Formulario 1099-MISC?</p>,1,"one, shuffle","<p>El formulario 1099-MISC, Ingreso Misceláneo, se puede usar para reportar pagos de $600 o más a contratistas independientes. El formulario 1099-MISC se debe presentar antes del 31 de enero para los pagos del año anterior. Referencia: Capítulo 14, página 14-7.</p>"
+,Reportar salarios pagados a empleados,,
+*,<p>Reportar pagos de $600 o más a contratistas independientes</p>,,
+,Reportar impuestos sobre la propiedad,,
+,Reportar ventas de bienes raíces,,
+<p>¿Qué impuestos están incluidos en el FICA?</p>,1,"one, shuffle","El FICA incluye el impuesto de Seguro Social y el impuesto de Medicare. Ambos son obligatorios y deben ser retenidos del salario de los empleados. Referencia: Capítulo 14, página 14-5."
+,Impuesto de ventas y impuesto de Seguro Social,,
+,Impuesto de Medicare y impuesto sobre la renta,,
+*,Impuesto de Seguro Social y impuesto de Medicare,,
+,Impuesto federal sobre el desempleo y impuesto de Seguro Social,,
+<p>¿Cuál de los siguientes formularios es necesario para reportar pagos a contratistas independientes?</p>,1,"one, shuffle","El formulario 1099-MISC es necesario para reportar pagos hechos a contratistas independientes que no son empleados. Este formulario debe ser presentado tanto al IRS como al contratista independiente para cumplir con las obligaciones fiscales. Referencia: Capítulo 14, Declaraciones de información-1099-MISC, página 14-7."
+,Formulario W-2,,
+,Formulario 940,,
+*,Formulario 1099-MISC,,
+,Formulario 1040,,
+<p>¿Cuál de los siguientes documentos es necesario para obtener un Número Federal de Identificación del Empleador (EIN)?</p>,1,"one, shuffle","Para obtener un Número Federal de Identificación del Empleador (EIN), las empresas deben completar el formulario SS-4 y presentarlo al IRS. Este número es esencial para diversas obligaciones fiscales y administrativas. Referencia: Capítulo 14, Número Federal de Identificación del Empleador, página 14-1."
+,Formulario W-4,,
+,Formulario 941,,
+*,Formulario SS-4,,
+,Formulario 940,,
+<p>¿Cuál es el propósito principal del Número Federal de Identificación del Empleador (EIN)?</p>,1,"one, shuffle","El Número Federal de Identificación del Empleador (EIN) es utilizado principalmente para la identificación fiscal de las empresas y para cumplir con diversas obligaciones fiscales y administrativas ante el IRS. Referencia: Capítulo 14, Número Federal de Identificación del Empleador, página 14-1."
+,Para abrir una cuenta bancaria personal,,
+*,<p>Para identificación de cuentas de impuestos de los empleadores</p>,,
+,Para registrar una patente,,
+,Para obtener una licencia de conducir,,
+<p>¿Qué tipo de impuesto deben pagar las empresas por sus empleados además del impuesto sobre la renta federal?</p>,1,"one, shuffle","<p>Usted es responsable por impuestos de desempleo tanto federales como estatales si usted tuvo al menos un empleado durante cualquier día de una semana durante 20 semanas en un año calendario, sin importar si las semanas fueron consecutivas o no. Referencia: Capítulo 14, Impuesto Federal de Desempleo (FUTA), página 14-6.</p>"
+,Impuesto estatal sobre la renta,,
+,Impuesto sobre ventas,,
+*,Impuesto federal de desempleo (FUTA),,
+,Impuesto de propiedad,,
+<p>¿Cuál de las siguientes no es una característica del impuesto como trabajador independiente?</p>,1,"one, shuffle","El impuesto como trabajador independiente se aplica a los ingresos generados por los trabajadores autónomos. Este impuesto cubre tanto el Seguro Social como Medicare. Es esencial para los contratistas entender las obligaciones fiscales y cumplir con los pagos trimestrales estimados para evitar multas. (Capítulo 14, página 14-4)."
+,El impuesto cubre el Seguro Social,,
+,El impuesto cubre Medicare,,
+,El impuesto es pagado por el empleador,,
+*,El impuesto se aplica a los ingresos generados por trabajadores autónomos,,
+<p>¿Cuál es el formulario utilizado para reportar el impuesto como trabajador independiente al IRS?</p>,1,"one, shuffle","El formulario utilizado para reportar el impuesto como trabajador independiente al IRS es el Formulario 1040-ES. Este formulario permite a los trabajadores autónomos estimar y pagar sus impuestos trimestralmente. (Capítulo 14, página 14-4)."
+*,<p>Formulario 1040</p>,,
+,Formulario W-2,,
+,Formulario 1099-MISC,,
+,Formulario 940,,
+<p>¿Cuál es el formulario utilizado para pagar el impuesto como trabajador independiente?</p>,1,"one, shuffle","<p>El Formulario 1040 se utiliza para pagar el impuesto como trabajador independiente trimestralmente. Este formulario ayuda a los trabajadores autónomos a estimar sus pagos de impuestos y cumplir con las fechas límite trimestrales. (Capítulo 14, página 14-4).</p>"
+*,<p>Formulario 1040</p>,,
+,Formulario W-2,,
+,Formulario 1099-MISC,,
+,Formulario 940,,
+<p>¿Cuál de los siguientes no es un impuesto federal sobre el empleo?</p>,1,"one, shuffle","<p>Los impuestos federales sobre el empleo incluyen el impuesto de Seguro Social, el impuesto de Medicare y el impuesto federal de desempleo (FUTA). El impuesto sobre la renta personal no es considerado un impuesto federal sobre el empleo. Referencia: Capítulo 14, página 14-5 a 14-6.</p>"
+,Impuesto de Seguro Social,,
+,Impuesto de Medicare,,
+*,Impuesto sobre la renta personal,,
+,Impuesto federal de desempleo (FUTA),,
+<p>¿Cuál es el propósito del Formulario W-2?</p>,1,"one, shuffle","El Formulario W-2 se utiliza para informar los salarios pagados y los impuestos retenidos a cada empleado durante el año. Este formulario es esencial para la declaración de impuestos del empleado. Referencia: Capítulo 14, página 14-5."
+,Informar ingresos no sujetos a retención,,
+,Declarar ingresos de trabajadores independientes,,
+*,<p>Comprobar salarios e impuestos</p>,,
+,Informar ingresos por alquileres,,
+<p>¿Qué documento debe proporcionar un empleador a un empleado al final del año fiscal para la declaración de impuestos?</p>,1,"one, shuffle","El empleador debe proporcionar el Formulario W-2 al final del año fiscal para que el empleado pueda declarar sus impuestos. Este formulario detalla los salarios pagados y los impuestos retenidos. Referencia: Capítulo 14, página 14-5."
+,Formulario 1099-MISC,,
+*,Formulario W-2,,
+,Formulario 941,,
+,Formulario 944,,
+<p>¿Qué información se reporta en el Formulario 940?</p>,1,"one, shuffle","<p>El Formulario 940 reporta los impuestos FUTA, Declaración Anual del Empleador de la Contribución Federal para el Desempleo (FUTA). Referencia: Capítulo 14, página 14-5.</p>"
+,Salarios pagados y impuestos retenidos,,
+*,Impuestos federales de desempleo (FUTA),,
+,Ingresos por alquileres,,
+,Ingresos no sujetos a retención,,
+<p>El propósito principal del Impuesto Federal de Desempleo (FUTA) es:</p>,1,"one, shuffle","El propósito de FUTA es financiar los programas de compensación de desempleo que los estados operan. Estos programas proporcionan beneficios a los trabajadores que han perdido sus empleos sin culpa propia. Esto se explica en detalle en la sección de FUTA del capítulo 14, página 14-6."
+,Proporcionar seguro médico a los empleados,,
+,Financiar programas de capacitación laboral,,
+*,Financiar programas de compensación de desempleo,,
+,Pagar beneficios por discapacidad a largo plazo,,
+<p>¿Cuándo deben los empleadores depositar el impuesto FUTA?</p>,1,"one, shuffle","Los empleadores deben depositar el impuesto FUTA trimestralmente si el impuesto excede los $500. Si el impuesto no excede esta cantidad, se puede pagar anualmente. Esta información está detallada en la sección de FUTA del capítulo 14, página 14-6."
+,Mensualmente,,
+,Semestralmente,,
+,Anualmente,,
+*,Trimestralmente,,
+<p>¿Qué formulario deben presentar los empleadores para reportar los impuestos FUTA?</p>,1,"one, shuffle","<p>Los empleadores deben presentar el Formulario 940 para reportar los impuestos FUTA. Esta información está detallada en la sección de FUTA del capítulo 14, página 14-6.</p>"
+*,Formulario 940,,
+,Formulario 941,,
+,Formulario 944,,
+,Formulario 945,,
+<p>¿Cuál es el monto mínimo para que un pago sea reportado en el formulario 1099-MISC?</p>,1,"one, shuffle","El monto mínimo para reportar un pago en el formulario 1099-MISC es de $600. Esto aplica para la mayoría de las categorías de pagos que deben ser reportados con este formulario. Referencia: Capítulo 14, página 14-7."
+,$500,,
+*,$600,,
+,$700,,
+,$800,,
+<p>¿Cuándo se debe emitir un formulario 1099-MISC para pagos realizados a un contratista independiente?</p>,1,"one, shuffle","Un formulario 1099-MISC debe emitirse cuando los pagos realizados a un contratista independiente suman al menos $600 durante el año fiscal. Referencia: Capítulo 14, página 14-7."
+*,Cuando los pagos suman al menos $600 durante el año fiscal,,
+,Cuando los pagos suman al menos $500 durante el año fiscal,,
+,Cuando los pagos suman al menos $700 durante el año fiscal,,
+,Cuando los pagos suman al menos $800 durante el año fiscal,,
+<p>¿Cuál de las siguientes afirmaciones sobre el formulario 1099-MISC es correcta?</p>,1,"one, shuffle","El formulario 1099-MISC debe ser emitido para pagos de al menos $600 hechos a contratistas independientes, rentas, premios y otros ingresos diversos, pero no para salarios de empleados. Referencia: Capítulo 14, página 14-7."
+*,Se utiliza para reportar pagos a contratistas independientes de al menos $600,,
+,Se utiliza para reportar salarios de empleados,,
+,Se utiliza para reportar pagos de menos de $600,,
+,Se utiliza solo para reportar rentas,,
+<p>¿Cuál de los siguientes formularios debe completar una empresa para informar el impuesto sobre la renta?</p>,1,"one, shuffle","<p>Las empresas deben completar el Formulario 1120 para informar el impuesto sobre la renta corporativo. Referencia: Capítulo 14, página 14-4.</p>"
+*,<p>Formulario 1120-W</p>,,
+,Formulario 941,,
+,Formulario 1099-MISC,,
+,Formulario 720,,
+<p>¿Qué número se requiere para reportar impuestos de nómina?</p>,1,"one, shuffle","El Número Federal de Identificación del Empleador (EIN) se requiere para reportar impuestos de nómina. Referencia: Capítulo 14, página 14-1."
+*,EIN,,
+,BIN,,
+,TIN,,
+,SIN,,
+<p>¿Cuál de los siguientes formularios se usa para reportar ingresos misceláneos?</p>,1,"one, shuffle","El Formulario 1099-MISC se usa para reportar ingresos misceláneos. Otros formularios como el 941, 720 y 1120 no se utilizan para este propósito. Referencia: Capítulo 14, página 14-7."
+*,Formulario 1099-MISC,,
+,Formulario 941,,
+,Formulario 720,,
+,Formulario 1120,,
+<p>¿Cuál de los siguientes formularios debe completarse para obtener un Número de Identificación del Empleador?</p>,1,"one, shuffle","El Formulario SS-4 debe completarse para obtener un Número de Identificación del Empleador (EIN). Referencia: Capítulo 14, página 14-1."
+*,Formulario SS-4,,
+,Formulario W-2,,
+,Formulario 941,,
+,Formulario 1099-MISC,,
+<p>¿Cuál de los siguientes no es un formulario de impuestos federales que un contratista debe presentar?</p>,1,"one, shuffle","<p>El Formulario 123456 no es un formulario de impuestos federales requerido para contratistas. Los formularios 1099-MISC, 941 y 720 sí lo son. Referencia: Capítulo 14, página 14-1 a 14-10.</p>"
+*,<p>Formulario 123456</p>,,
+,Formulario 1099-MISC,,
+,Formulario 941,,
+,Formulario 720,,
+<p>¿Cuál es el propósito del Impuesto Federal de Desempleo (FUTA)?</p>,1,"one, shuffle","El propósito del Impuesto Federal de Desempleo (FUTA) es proporcionar fondos para el pago de beneficios de desempleo. Este impuesto es obligatorio para los empleadores y ayuda a asegurar que los trabajadores desempleados reciban apoyo financiero. Referencia: Capítulo 14, página 14-6."
+,Ayudar a financiar la seguridad social,,
+*,Proporcionar fondos para beneficios de desempleo,,
+,Financiar programas de formación profesional,,
+,Apoyar la educación pública,,
+<p>¿Cuál es el formulario utilizado para reportar el impuesto de nómina de Oregón?</p>,1,"one, shuffle","<p>Los empleadores de Oregón deben presentar el formulario OQ (Informe de Impuestos. Referencia: Capítulo 14, Impuesto de nómina de Oregón, página 14-9.</p>"
+,Formulario W-2,,
+,Formulario 941,,
+*,Formulario OQ de Oregón,,
+,Formulario 1099,,

@@ -1,0 +1,193 @@
+<p>Cuál de las siguientes no es una fase del proceso de programación según el Capítulo 8?</p>,1,"one, shuffle","<p>El proceso de programación abarca varias fases clave, incluyendo la planificación, la programación y el monitoreo del proyecto. La fase de evaluación post-proyecto no es mencionada como parte del proceso de programación en este capítulo. Referencia: Capítulo 8, Proceso de programación, página 8-8.</p>"
+,<p>Adjudicación del contrato</p>,,
+,<p>Fase de construcción</p>,,
+,<p>Finalización del proyecto y término</p>,,
+*,Fase de evaluación post-proyecto,,
+<p>Cuál de las siguientes no es una técnica mencionada en el proceso de programación?</p>,1,"one, shuffle","La técnica del diagrama de red no se menciona explícitamente en el capítulo como una técnica de programación, mientras que la programación por calendario, el gráfico de barras y el método de la ruta crítica sí se mencionan. Referencia: Capítulo 8, Proceso de programación, página 8-2."
+,Programación por calendario,,
+,Gráfico de barras,,
+*,<p>Diagrama de red</p>,,
+,<p>Método de la ruta crítica</p>,,
+<p>Cuál de las siguientes no es un método utilizada en la programación de proyectos según el Capítulo 8?</p>,1,"one, shuffle","El análisis de valor ganado no se menciona como una herramienta de programación en este capítulo, mientras que el calendario, el gráfico de barras y el método de la ruta crítica sí se mencionan. Referencia: Capítulo 8, Proceso de programación, página 8-2."
+,<p>Calendario</p>,,
+,Gráfico de barras,,
+*,<p>Análisis de valor ganado</p>,,
+,Método de la ruta crítica,,
+<p>Qué herramienta de programación es una ilustración fácil de leer?</p>,1,"one, shuffle","<p>El gráfico de barras es una herramienta de programación que se utiliza para mostrar las actividades a lo largo del tiempo, proporcionando una representación visual del cronograma del proyecto. Referencia: Capítulo 8, Proceso de programación, página 8-4.</p>"
+,Calendario,,
+*,Gráfico de barras,,
+,<p>Método de la ruta crítica</p>,,
+,Diagrama de red,,
+<p>Cuál es el propósito principal del método de la ruta crítica en la programación de proyectos?</p>,1,"one, shuffle","El propósito principal del método de la ruta crítica es identificar las actividades críticas que determinan la duración total del proyecto, permitiendo a los gestores de proyectos enfocarse en estas actividades para evitar retrasos. Referencia: Capítulo 8, Proceso de programación, página 8-5."
+,Optimizar el uso de recursos,,
+,Crear un calendario visual,,
+,Identificar riesgos potenciales,,
+*,Determinar la duración total del proyecto,,
+<p>Qué técnica ayuda indicar cuando es posible realizar tareas simultáneas.?</p>,1,"one, shuffle","<p>Si conoce cuáles tareas se pueden realizar al mismo tiempo, usted puede acortar el tiempo de finalización del proyecto. Al crear un programa CPM, usted debe mostrar cuándo es posible realizar tareas simultáneas. Referencia: Capítulo 8, Proceso de programación, página 8-5.</p>"
+,Calendario,,
+,Gráfico de barras,,
+*,Método de la ruta crítica,,
+,Diagrama de red,,
+<p>Cuál de las siguientes no es un método de programación mencionado en el capítulo?</p>,1,"one, shuffle","La programación por PERT no se menciona como uno de los métodos de programación en el capítulo 8. Los métodos mencionados son programación por calendario, programación por gráfico de barras y el método de la ruta crítica. Referencia: Capítulo 8, Métodos de programación, página 8-2."
+,Programación por calendario,,
+,Programación por gráfico de barras,,
+,Método de la ruta crítica,,
+*,Programación por PERT,,
+<p>Cuál de las siguientes opciones describe mejor la programación por calendario?</p>,1,"one, shuffle","La programación por calendario se basa en fechas específicas para el inicio y la finalización de las tareas. Es un método útil para proyectos con plazos rígidos. Referencia: Capítulo 8, Métodos de programación, página 8-2."
+,Asignar tareas según los recursos disponibles,,
+,Organizar tareas en una secuencia lógica,,
+,Asignar tareas según la prioridad,,
+*,<p>Puede vincular tareas del proyecto a fechas específicas</p>,,
+<p>Cuál de los siguientes métodos no se utiliza para la programación de proyectos según el capítulo 8?</p>,1,"one, shuffle","El método de ruta flexible no se menciona como un método de programación en el capítulo 8. Los métodos utilizados son programación por calendario, programación por gráfico de barras y el método de la ruta crítica. Referencia: Capítulo 8, Métodos de programación, página 8-2."
+,Programación por calendario,,
+,Programación por gráfico de barras,,
+,Método de la ruta crítica,,
+*,Método de ruta flexible,,
+<p>Cuál de las siguientes no es una característica del método de la ruta crítica?</p>,1,"one, shuffle","La identificación de tareas opcionales no es una característica del método de la ruta crítica. Este método se enfoca en identificar las tareas críticas que determinan la duración total del proyecto. Referencia: Capítulo 8, Métodos de programación, página 8-5."
+,<p>Determinar la secuencia de tareas</p>,,
+,<p>Determinar de la duración total del proyecto</p>,,
+,<p>Acortamiento del tiempo de finalización del proyecto</p>,,
+*,<p>Identificación de tareas opcionales</p>,,
+<p>¿Cuál es el propósito principal de la programación por gráfico de barras?</p>,1,"one, shuffle","<p>El programa por gráfico de barras muestra la duración de la actividad y la secuencia de tareas a completar. Es una ilustración fácil de leer que muestra una representación gráfica del programa en su totalidad. Referencia: Capítulo 8, Métodos de programación, página 8-4.</p>"
+,<p>Asignar tareas según los recursos disponibles</p>,,
+,<p>Establecer un cronograma rígido</p>,,
+,Organizar tareas en una secuencia lógica,,
+*,<p>Mostrar la duración de la actividad y la secuencia de tareas a completar</p>,,
+<p>¿Cuál de las siguientes opciones no es una ventaja de la programación por calendario?</p>,1,"one, shuffle","La flexibilidad en la reprogramación no se menciona como una ventaja de la programación por calendario. Este método es útil para proyectos con plazos rígidos y fechas específicas. Referencia: Capítulo 8, Métodos de programación, página 8-2."
+,<p>Asignar fechas específicas de entrega</p>,,
+,<p>Útil para tomar en cuenta las vacaciones de los empleados</p>,,
+,<p>Organización de programas de pago </p>,,
+*,Flexibilidad en la reprogramación,,
+<p>¿Cuál de las siguientes describe mejor el método de la ruta crítica?</p>,1,"one, shuffle","El método de la ruta crítica se utiliza para identificar las tareas que son cruciales para completar el proyecto a tiempo. Estas tareas no pueden retrasarse sin afectar la duración total del proyecto. Referencia: Capítulo 8, Métodos de programación, página 8-5."
+,Asignar fechas específicas a tareas,,
+,Organizar tareas en una secuencia lógica,,
+,Utilizar barras horizontales para mostrar la duración de las tareas,,
+*,Identificar tareas cruciales para completar el proyecto a tiempo,,
+<p>¿Cuál de las siguientes no es una característica de la programación por gráfico de barras?</p>,1,"one, shuffle","<p>El programa por gráfico de barras muestra la duración de la actividad y la secuencia de tareas a completar. Es una ilustración fácil de leer que muestra una representación gráfica del programa en su totalidad. Referencia: Capítulo 8, Métodos de programación, página 8-4.</p>"
+,<p>Mostrar la duración de las actividades</p>,,
+,<p>Mostrar la secuencia de tareas a completar</p>,,
+,<p>Mostrar una representación gráfica del programa en su totalidad</p>,,
+*,Identificación de tareas críticas,,
+<p>¿Cuál de las siguientes no es una tarea del administrador de proyectos en la administración de fondos?</p>,1,"one, shuffle","<p>Un administrador de proyecto no solo tiene que administrar el tiempo a través del proceso de programación, sino que también debe considerar muchos otros factores: Limitaciones de presupuesto. Estándares de calidad. Planos y especificaciones del proyecto. Administración de recursos tales como mano de obra, materiales, etc. Referencia: Capítulo 8, Programación y administración de fondos, página 8-6.</p>"
+,Gestión del presupuesto,,
+,<p>Estandares de calidad</p>,,
+*,Inspecciones diarias en el sitio de construcción,,
+,<p>Planos y especificaciones del proyecto </p>,,
+<p>¿Por qué es importante el control de costos en la programación y administración de fondos?</p>,1,"one, shuffle","<p>La administración de proyectos implica trabajar con limitaciones de presupuesto. Un buen administrador de proyecto controlará los costos y se asegurará de que el proyecto se mantenga dentro del presupuesto. Referencia: Capítulo 8, Programación y administración de fondos, página 8-8.</p>"
+,Para cumplir con los plazos del proyecto,,
+,Para asegurar la calidad del trabajo,,
+,Para mantener una buena relación con los clientes,,
+*,Para que los gastos no excedan el presupuesto,,
+<p>¿Qué es la administración de proyectos?</p>,1,"one, shuffle","<p>Los administradores de proyectos de construcción planifican y coordinan los proyectos de construcción para cumplir las metas generales del proyecto y servir como el contacto principal con el propietario. Referencia: Capítulo 8, página 8-6.</p>"
+,El proceso de financiación del proyecto,,
+,La compra de materiales para el proyecto,,
+,El control de calidad del proyecto,,
+*,<p>Planificacion y coordinacion de los proyectos de construcción para cumplir metas generales </p>,,
+<p>¿Cuál de las siguientes no es una fase del ciclo de vida del proyecto?</p>,1,"one, shuffle","El ciclo de vida del proyecto incluye la adjudicación del contrato, la fase previa a la construcción, la fase de construcción y la finalización del proyecto. La fase de diseño no se considera una fase separada dentro del ciclo de vida del proyecto según lo descrito en el libro. Referencia: Capítulo 8, página 8-8."
+,Adjudicación del contrato,,
+,Fase previa a la construcción,,
+*,Fase de diseño,,
+,Fase de construcción,,
+<p>¿Qué incluye la fase previa a la construcción?</p>,1,"one, shuffle","<p>Durante la reunión previa a la construcción, usted debe repasar las expectativas del cliente. En este momento, usted debe tener un programa preliminar preparado, de manera que se puedan discutir los conflictos potenciales de programación. Asegúrese de hacer seguimiento a la reunión mediante notas escritas y distribúyalas a los asistentes, así como a aquellos que no pudieron asistir. Referencia: Capítulo 8, página 8-8.</p>"
+,La construcción de la estructura,,
+,La evaluación post-construcción,,
+*,<p>Tener un programa preliminar preparado</p>,,
+,El monitoreo del presupuesto,,
+<p>¿Qué es el método de la ruta crítica?</p>,1,"one, shuffle","<p>El método de programación de la ruta crítica (Critical Path Method, CPM) ilustra la relación de interdependencia de las tareas. Para elaborar un programa CPM, usted comienza por determinar la secuencia de tareas y la duración de la actividad, tal como lo haría con una programación por calendario o por gráfico de barras. Referencia: Capítulo 8, página 8-5.</p>"
+,Una técnica para estimar costos,,
+,Un método para contratar personal,,
+*,<p> Una técnica que ilustra la relación de interdependencia de las tareas</p>,,
+,Un sistema de control de calidad,,
+<p>¿Cuál de las siguientes actividades no se realiza durante la fase de construcción?</p>,1,"one, shuffle","<p>La fase de construcción implica la ejecución de los trabajos planificados, la supervisión de las obras y la gestión de los recursos y el presupuesto. La planificación del proyecto ya se realiza en la fase previa a la construcción. Referencia: Capítulo 8, página 8-8. </p>"
+,Ejecución de los trabajos planificados,,
+,<p>Monitoreo de presupuesto </p>,,
+,<p>Monitoreo de recursos </p>,,
+*,Planificación del proyecto,,
+<p>¿Qué es el monitoreo del progreso del proyecto?</p>,1,"one, shuffle","El monitoreo del progreso del proyecto implica realizar informes diarios y de situación para asegurar que el proyecto avanza conforme al cronograma y presupuesto establecidos. Es una parte esencial de la administración de proyectos para detectar y corregir desviaciones a tiempo. Referencia: Capítulo 8, páginas 8-8 a 8-9."
+,Contratación de personal,,
+,Adquisición de materiales,,
+*,Realización de informes diarios y de situación,,
+,Resolución de disputas legales,,
+<p>¿Cuál no es una de las responsabilidades principales del administrador de proyecto?</p>,1,"one, shuffle","<p>Las responsabilidades de un administrador de proyecto incluyen, pero no se limitan a: preparar presupuestos; repasar los planos de taller a fin de determinar los métodos de construcción adecuados; determinar los requisitos de mano de obra y elaborar programas;  monitorear el proceso general del proyecto y elaborar registros de trabajo; Referencia: Capítulo 8, página 8-6.</p>"
+*,Reparación de equipos,,
+,<p>Preparar presupuestos</p>,,
+,<p>Determinar los requisitos de mano de obra y elaborar programas</p>,,
+,<p>Repasar los planos de taller</p>,,
+<p>¿Cuál de las siguientes no es una fase del ciclo de vida del proyecto?</p>,1,"one, shuffle","El ciclo de vida del proyecto incluye la adjudicación del contrato, la fase previa a la construcción, la fase de construcción y la finalización del proyecto y término. La fase de diseño no es mencionada en el ciclo de vida del proyecto según el libro. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8."
+,Adjudicación del contrato,,
+,Fase previa a la construcción,,
+*,Fase de diseño,,
+,Fase de construcción,,
+<p>¿Qué etapa del ciclo de vida del proyecto implica la planificación y preparación antes de que comience la construcción?</p>,1,"one, shuffle","La fase previa a la construcción implica la planificación y preparación antes de que comience la construcción. Esta fase es crucial para asegurar que todos los aspectos del proyecto estén en orden. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8."
+,Fase de construcción,,
+*,Fase previa a la construcción,,
+,Adjudicación del contrato,,
+,Finalización del proyecto,,
+<p>¿Cuál es el propósito principal de la fase de finalización del proyecto?</p>,1,"one, shuffle","<p>Después de completar el trabajo, usted debe hacer un recorrido y elaborar una lista de tareas de elementos de seguimiento. Discuta cualquier garantía incluida en el contrato y cómo el cliente puede solicitar reparaciones por garantía. Envíe una encuesta de satisfacción del cliente para obtener retroalimentación para mejoras a futuro. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8.</p>"
+,Planificación del proyecto,,
+,Ejecución del trabajo,,
+*,<p>Hacer un recorrido y elaborar una lista de tareas de elementos de seguimiento.</p>,,
+,Adjudicación del contrato,,
+<p>¿Cuál de las siguientes no es una actividad durante la fase de adjudicación del contrato?</p>,1,"one, shuffle","La fase de adjudicación del contrato incluye la selección del contratista y la firma del contrato. La ejecución del trabajo no forma parte de esta fase. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8."
+,Firma del contrato,,
+,Negociación de términos,,
+*,Ejecución del trabajo,,
+<p>¿Cuál de las siguientes no es una actividad principal en la fase previa a la construcción?</p>,1,"one, shuffle","<p>Durante la reunión previa a la construcción, usted debe repasar las expectativas del cliente. En este momento, usted debe tener un programa preliminar preparado, de manera que se puedan discutir los conflictos potenciales de programación. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8.</p>"
+,<p>Tener un programa preliminar</p>,,
+,<p>Repasar expectativas</p>,,
+*,Construcción de la estructura,,
+,<p>Discutir conflictos de programación</p>,,
+<p>¿Qué incluye la fase de finalización del proyecto?</p>,1,"one, shuffle","<p>A medida que progrese el proyecto, usted debe monitorear con atención el presupuesto, el programa y la calidad del proyecto. Reúnase de manera regular con el cliente a fin de tratar el progreso del proyecto y cualquier problema o pregunta que surjan. Referencia: Capítulo 8, Ciclo de vida del proyecto, página 8-8.</p>"
+,Ejecución del trabajo,,
+*,"<p>Monitorear con atención el presupuesto, el programa y la calidad del proyecto</p>",,
+,Obtención de permisos,,
+,Selección del contratista,,
+<p>¿Cuál de las siguientes no es una responsabilidad del administrador del proyecto durante el monitoreo del progreso del proyecto?</p>,1,"one, shuffle","<p>El administrador del proyecto no es responsable de realizar tareas de construcción específicas. Su función es supervisar, coordinar y gestionar el progreso del proyecto, asegurando que se cumplan los plazos y el presupuesto establecidos. Referencia: Capítulo 8, página 8-9.</p>"
+,<p>Asegurar que se cumplan los plazos</p>,,
+,<p>Comunicar su programa a la cuadrilla los subcontratistas</p>,,
+,<p>Cominucarse con los proveedores</p>,,
+*,Gestionar el presupuesto del proyecto,,
+<p>¿Cuál de los siguientes no es un componente de los informes de situación?</p>,1,"one, shuffle","Los informes de situación no incluyen análisis de mercado. Estos informes se centran en el progreso del proyecto, los problemas encontrados y las soluciones implementadas. Referencia: Capítulo 8, página 8-9."
+,<p>Fotografías del proyecto</p>,,
+,<p>Ordenes de compra</p>,,
+*,Análisis de mercado,,
+,<p>Informes de seguridad y de accidentes</p>,,
+<p>¿Cuál es el propósito de los controles presupuestarios y de costos?</p>,1,"one, shuffle","Los controles presupuestarios y de costos se implementan para asegurar que el proyecto se mantenga dentro del presupuesto y para identificar cualquier desvío a tiempo para tomar medidas correctivas. Referencia: Capítulo 8, página 8-9."
+,Aumentar los costos del proyecto,,
+,Expandir el alcance del proyecto,,
+*,Mantener el proyecto dentro del presupuesto,,
+,Reducir la calidad del trabajo,,
+<p>¿Cuál de las siguientes no es una técnica de monitoreo del progreso del proyecto?</p>,1,"one, shuffle","<p>El estudio de mercado no es una técnica de monitoreo del progreso del proyecto. Las técnicas adecuadas incluyen el uso de informes diarios, informes de situación y el método de la ruta crítica. Referencia: Capítulo 8, página 8-9.</p>"
+,Informes diarios,,
+*,Estudio de mercado,,
+,Informes de situación,,
+<p>¿Cuál es el propósito principal del monitoreo del presupuesto en proyectos de construcción?</p>,1,"one, shuffle","El propósito principal del monitoreo del presupuesto es asegurar que los costos reales se mantengan dentro del presupuesto aprobado y tomar acciones correctivas en caso de desviaciones. Esto es esencial para el éxito financiero del proyecto. Referencia: Capítulo 8, Controles presupuestarios y de costos, página 8-9."
+,Identificar nuevos proveedores,,
+,Mejorar la calidad del proyecto,,
+*,Asegurar que los costos se mantengan dentro del presupuesto,,
+,Aumentar la satisfacción del cliente,,
+<p>¿Cuál de las siguientes es una práctica recomendada en el aseguramiento de la calidad?</p>,1,"one, shuffle","<p>El aseguramiento de la calidad implica la implementación de procesos y estándares específicos para garantizar que los proyectos de construcción cumplan con los requisitos establecidos. Esto incluye la elaboración de especificaciones detalladas, la realización de inspecciones periódicas y el uso de materiales adecuados. Referencia: Capítulo 8, Aseguramiento de la calidad, página 8-11.</p>"
+,<p>Elaborar especificaciones no detalladas</p>,,
+*,<p>Documentar los estándares laborales y llevar a cabo evaluaciones</p>,,
+,<p>No realizar inspecciones hasta finalizar el proyecto </p>,,
+,<p>Utilizar materiales de costo accesible</p>,,
+<p>El aseguramiento de la calidad en la construcción incluye:</p>,1,"one, shuffle","<p>El aseguramiento de la calidad en la construcción incluye especificaciones y planos detallados, inspecciones regulares y la implementación de un programa de aseguramiento de la calidad. Referencia: Capítulo 8, Aseguramiento de la calidad, página 8-10 8-11.</p>"
+,Especificaciones y planos detallados,,
+,Inspecciones regulares,,
+,<p>Garantizar que el cliente reciba un producto de calidad</p>,,
+*,Todos los anteriores,,
+<p>¿Cuál es el propósito de las encuestas de satisfacción del cliente en el aseguramiento de la calidad?</p>,1,"one, shuffle","<p>Las encuestas de satisfacción del cliente también son una buena herramienta para recibir retroalimentación acerca de la calidad de su trabajo. Las encuestas al cliente son buenas para preguntar acerca del profesionalismo de sus empleados, la calidad del trabajo y del servicio en general. Referencia: Capítulo 8, Aseguramiento de la calidad, página 8-11.</p>"
+*,<p>Recibir retroalimentación acerca de la calidad de su trabajo</p>,,
+,Reducir los costos de construcción,,
+,Implementar nuevas tecnologías,,
+,Aumentar la velocidad de construcción,,
+<p>¿Por qué son importantes las inspecciones periódicas en el aseguramiento de la calidad?</p>,1,"one, shuffle","Las inspecciones periódicas son cruciales para identificar y corregir problemas durante el desarrollo del proyecto, asegurando que todos los aspectos del trabajo cumplan con los estándares de calidad establecidos. Referencia: Capítulo 8, Aseguramiento de la calidad, página 8-10."
+,Para acelerar el proceso de construcción,,
+*,Para identificar y corregir problemas,,
+,Para reducir el costo del proyecto,,
+,Para implementar nuevas tecnologías,,
+<p>¿Qué rol juegan las especificaciones y planos detallados en el aseguramiento de la calidad?</p>,1,"one, shuffle","Las especificaciones y planos detallados proporcionan una guía clara sobre los materiales y métodos a utilizar, asegurando que el trabajo se realice de acuerdo con los estándares de calidad establecidos. Referencia: Capítulo 8, Aseguramiento de la calidad, página 8-10."
+,Proporcionan una guía para reducir costos,,
+,Permiten la flexibilidad en la ejecución del proyecto,,
+*,Aseguran que el trabajo cumpla con los estándares de calidad,,
+,Facilitan la contratación de subcontratistas,,
