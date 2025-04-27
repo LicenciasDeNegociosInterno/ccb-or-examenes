@@ -1,0 +1,326 @@
+[
+  {
+    "question": "¿Cuál de las siguientes no es una sustancia peligrosa mencionada en el capítulo 11?",
+    "options": [
+      "Asbesto",
+      "Plomo",
+      "Mercurio",
+      "Sílice"
+    ],
+    "answer": "Mercurio",
+    "justification": "La respuesta correcta es el mercurio, ya que el capítulo menciona específicamente el asbesto, el plomo y la sílice como sustancias peligrosas. Referencia: Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes agencias regula la calidad ambiental en Oregón?",
+    "options": [
+      "Agencia de Protección Ambiental de EE.UU. (EPA)",
+      "Departamento de Calidad Ambiental de Oregón (DEQ)",
+      "Departamento de Energía de Oregón",
+      "Consejo de Recursos Ambientales de Oregón"
+    ],
+    "answer": "Departamento de Calidad Ambiental de Oregón (DEQ)",
+    "justification": "El Departamento de Calidad Ambiental de Oregón (DEQ) es responsable de proteger la calidad del aire, agua y tierra en Oregón. Fuente: Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes no es una técnica recomendada para controlar la erosión?",
+    "options": [
+      "Instalación de una malla u otras barreras",
+      "Uso de pesticidas",
+      "Colocación de mantillo y vegetación tan pronto como sea posible",
+      "Un sistema de rociado de agua"
+    ],
+    "answer": "Uso de pesticidas",
+    "justification": "El uso de pesticidas no es una técnica recomendada para controlar la erosión. Se recomiendan prácticas como el mantillo, la siembra y el uso de barreras físicas. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Cuál es el principal objetivo del control de erosión y sedimentación?",
+    "options": [
+      "Mejorar la estética del lugar",
+      "Reducir costos de construcción",
+      "Minimizar la erosión y la sedimentación en los sitios de construcción",
+      "Aumentar la velocidad de construcción"
+    ],
+    "answer": "Minimizar la erosión y la sedimentación en los sitios de construcción",
+    "justification": "El principal objetivo es prevenir la contaminación de los cuerpos de agua y la pérdida de suelo fértil debido a la erosión. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Qué es lo primero que debe hacer un contratista antes de remover asbesto friable?",
+    "options": [
+      "Eliminar el asbesto por su cuenta",
+      "Presentar un formulario de notificación de eliminación y pagar una tarifa al DEQ",
+      "Informar al cliente y seguir trabajando",
+      "Esperar a que el DEQ inspeccione el sitio"
+    ],
+    "answer": "Presentar un formulario de notificación de eliminación y pagar una tarifa al DEQ",
+    "justification": "Antes de eliminar asbesto friable, un contratista debe presentar una notificación ante el DEQ y pagar la tarifa correspondiente. Capítulo 11, página 11-4."
+  },
+  {
+    "question": "¿Cuál de las siguientes prácticas ayuda a controlar la erosión en el sitio de construcción?",
+    "options": [
+      "Emisiones de vehículos",
+      "Control de plagas",
+      "Instalación de barreras de sedimentos",
+      "Quemar los residuos en el sitio"
+    ],
+    "answer": "Instalación de barreras de sedimentos",
+    "justification": "La instalación de barreras de sedimentos, como cercas de tela geotextil, es fundamental para prevenir la erosión en los sitios de construcción. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Qué debe hacer un contratista con residuos peligrosos en el sitio de construcción?",
+    "options": [
+      "Clasificar y eliminar según regulaciones locales",
+      "Dejar los residuos en el lugar",
+      "Enterrarlos en el sitio",
+      "Quemarlos para eliminar riesgos"
+    ],
+    "answer": "Clasificar y eliminar según regulaciones locales",
+    "justification": "El manejo correcto de residuos peligrosos incluye clasificarlos y eliminarlos conforme a las regulaciones locales y estatales. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué organismo regula la calidad del aire en Oregón?",
+    "options": [
+      "Departamento de Calidad Ambiental de Oregón (DEQ)",
+      "Departamento de Energía de Oregón",
+      "Consejo de Recursos Ambientales de Oregón",
+      "Departamento de Recursos Naturales de Oregón"
+    ],
+    "answer": "Departamento de Calidad Ambiental de Oregón (DEQ)",
+    "justification": "El DEQ regula la calidad del aire en Oregón para asegurar condiciones saludables para la población. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Qué objetivo tiene el control de escorrentías en un sitio de construcción?",
+    "options": [
+      "Aumentar la velocidad de construcción",
+      "Prevenir la contaminación de los cuerpos de agua",
+      "Reducir el uso de maquinaria pesada",
+      "Aumentar la cantidad de agua disponible en el sitio"
+    ],
+    "answer": "Prevenir la contaminación de los cuerpos de agua",
+    "justification": "El control de escorrentías tiene como objetivo prevenir la contaminación de los ríos y lagos cercanos. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Qué acción no ayuda a minimizar la erosión en el sitio de construcción?",
+    "options": [
+      "Construcción de sistemas de drenaje",
+      "Uso de pesticidas",
+      "Control de tráfico de maquinaria pesada",
+      "Colocación de coberturas vegetales"
+    ],
+    "answer": "Uso de pesticidas",
+    "justification": "El uso de pesticidas no contribuye a minimizar la erosión, y puede, de hecho, contaminar el suelo y el agua. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Cuál es la responsabilidad del Departamento de Calidad Ambiental de Oregón (DEQ)?",
+    "options": [
+      "Monitoreo de la calidad del agua",
+      "Manejo de desechos sólidos y peligrosos",
+      "Supervisión de la construcción de viviendas",
+      "Aprobación de planos de construcción"
+    ],
+    "answer": "Manejo de desechos sólidos y peligrosos",
+    "justification": "El DEQ maneja temas relacionados a residuos peligrosos, calidad del aire, agua y suelos. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones reduce la contaminación del aire en el sitio de construcción?",
+    "options": [
+      "Uso de maquinaria pesada sin filtros",
+      "Departamento de Calidad Ambiental de Oregón (DEQ)",
+      "Aplicación de agua para controlar el polvo",
+      "Uso de combustibles fósiles"
+    ],
+    "answer": "Aplicación de agua para controlar el polvo",
+    "justification": "Aplicar agua para controlar el polvo ayuda a reducir partículas contaminantes en el aire. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Qué actividad debe evitarse para proteger la calidad ambiental en un sitio de construcción?",
+    "options": [
+      "Monitorear la contaminación por químicos",
+      "Usar pesticidas",
+      "Controlar el tráfico de vehículos pesados",
+      "Implementar planes de control de escorrentía"
+    ],
+    "answer": "Usar pesticidas",
+    "justification": "Usar pesticidas puede contaminar el suelo y las fuentes de agua, afectando la calidad ambiental. Capítulo 11, página 11-3."
+  },
+{
+    "question": "¿Cuál es la responsabilidad principal del Departamento de Calidad Ambiental de Oregón (DEQ)?",
+    "options": [
+      "Controlar solo los residuos no peligrosos",
+      "Regular y monitorear la calidad ambiental en general",
+      "Supervisar únicamente los proyectos federales",
+      "Monitorear la calidad del aire"
+    ],
+    "answer": "Regular y monitorear la calidad ambiental en general",
+    "justification": "El DEQ regula y supervisa la calidad del agua, aire y tierra en Oregón, incluyendo la gestión de residuos peligrosos. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes acciones corresponde al rol de la Agencia de Protección Ambiental de EE.UU. (EPA)?",
+    "options": [
+      "Asegurar el cumplimiento de las normativas ambientales",
+      "Crear normas federales",
+      "Regular únicamente en Oregon",
+      "Mejorar la estética del lugar"
+    ],
+    "answer": "Crear normas federales",
+    "justification": "La EPA crea y aplica normas a nivel federal para proteger la salud humana y el medio ambiente. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál es uno de los principales objetivos del control de erosión en la construcción?",
+    "options": [
+      "Aumentar la velocidad de construcción",
+      "Prevenir la contaminación del agua y degradación del suelo",
+      "Reducir el uso de materiales",
+      "Selección de materiales reciclables"
+    ],
+    "answer": "Prevenir la contaminación del agua y degradación del suelo",
+    "justification": "El control de erosión busca evitar la contaminación de cuerpos de agua y la pérdida de suelo. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Cuál de las siguientes prácticas representa un riesgo ambiental?",
+    "options": [
+      "Optimización del uso de recursos",
+      "Uso de materiales tóxicos",
+      "Reciclaje de residuos de construcción",
+      "Inflamabilidad"
+    ],
+    "answer": "Uso de materiales tóxicos",
+    "justification": "El uso de materiales tóxicos puede causar contaminación grave si no se maneja correctamente. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué práctica debe evitarse al manipular residuos peligrosos?",
+    "options": [
+      "Corrosividad",
+      "Inofensividad",
+      "Manipular residuos sin protección adecuada",
+      "Ignorar las instrucciones de manejo"
+    ],
+    "answer": "Ignorar las instrucciones de manejo",
+    "justification": "Ignorar las instrucciones puede provocar accidentes y contaminación ambiental. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué sustancia debe ser controlada para evitar contaminación en un sitio de construcción?",
+    "options": [
+      "Almacenar correctamente las sustancias",
+      "Seguir las directrices de eliminación segura",
+      "Material particulado suspendido",
+      "Agua"
+    ],
+    "answer": "Material particulado suspendido",
+    "justification": "El material particulado puede afectar la calidad del aire y debe ser controlado en obras de construcción. Capítulo 11, página 11-3."
+  },
+  {
+    "question": "¿Qué efecto inmediato puede tener la exposición a materiales tóxicos?",
+    "options": [
+      "Reacciones alérgicas",
+      "Mejora inmediata de la salud",
+      "Irritación de piel y ojos",
+      "Agencia de Protección Ambiental de EE.UU (EPA)"
+    ],
+    "answer": "Irritación de piel y ojos",
+    "justification": "La exposición a materiales tóxicos puede provocar reacciones agudas como irritación y alergias. Capítulo 11, página 11-4."
+  },
+  {
+    "question": "¿Qué criterio no se utiliza para determinar la peligrosidad de un residuo?",
+    "options": [
+      "Comisión de Recursos Naturales",
+      "Inflamabilidad",
+      "Corrosividad",
+      "Número de empleados de la empresa"
+    ],
+    "answer": "Número de empleados de la empresa",
+    "justification": "La peligrosidad de un residuo depende de características como toxicidad o inflamabilidad, no de la cantidad de empleados. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué organismo supervisa la gestión de residuos peligrosos en Oregon?",
+    "options": [
+      "Impacto en el agua",
+      "Agencia de Protección Ambiental de EE.UU (EPA)",
+      "Departamento de Calidad Ambiental de Oregón (DEQ)",
+      "Consejo de Recursos Ambientales de Oregón"
+    ],
+    "answer": "Departamento de Calidad Ambiental de Oregón (DEQ)",
+    "justification": "El DEQ es el principal encargado en Oregon de supervisar el manejo de residuos peligrosos. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Cuál de las siguientes prioridades pertenece al DEQ?",
+    "options": [
+      "Departamento de Recursos Naturales",
+      "La eficiencia energética",
+      "La protección del medio ambiente",
+      "Reducción de tráfico"
+    ],
+    "answer": "La protección del medio ambiente",
+    "justification": "La misión del DEQ es proteger la calidad ambiental para las generaciones actuales y futuras. Capítulo 11, página 11-2."
+  },
+  {
+    "question": "¿Qué información es crítica para evaluar un plan de control ambiental en un proyecto?",
+    "options": [
+      "La gestión de proyectos",
+      "Detalles del proyecto",
+      "Costo estimado",
+      "Contratación de un inspector"
+    ],
+    "answer": "Detalles del proyecto",
+    "justification": "Los detalles del proyecto ayudan a prever posibles impactos ambientales y a diseñar medidas de control. Capítulo 11, página 11-4."
+  },
+  {
+    "question": "¿Qué autoridad regula las descargas de aguas residuales industriales?",
+    "options": [
+      "Manual del empleado",
+      "Agencia de Protección Ambiental de EE.UU (EPA)",
+      "Departamento de Calidad Ambiental de Oregón (DEQ)",
+      "Consejo de Recursos Ambientales de Oregón"
+    ],
+    "answer": "Departamento de Calidad Ambiental de Oregón (DEQ)",
+    "justification": "El DEQ regula las descargas de aguas residuales de origen industrial para evitar la contaminación. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué evaluación es fundamental para proteger el entorno en proyectos de construcción?",
+    "options": [
+      "Oficina de Gestión de Tierras",
+      "Evaluación de costos",
+      "Evaluación de impacto ambiental",
+      "Reducción de presupuesto"
+    ],
+    "answer": "Evaluación de impacto ambiental",
+    "justification": "La evaluación de impacto ambiental permite anticipar y mitigar efectos negativos en el medio ambiente. Capítulo 11, página 11-5."
+  },
+{
+    "question": "¿Cuál es la importancia de obtener permisos ambientales antes de comenzar un proyecto?",
+    "options": [
+      "Evaluación de recursos humanos",
+      "Evaluación de productividad",
+      "Incrementar la productividad",
+      "Cumplir con normativas legales"
+    ],
+    "answer": "Cumplir con normativas legales",
+    "justification": "Obtener permisos ambientales es crucial para asegurar que un proyecto cumple con las regulaciones ambientales estatales y federales. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué acción representa un cumplimiento ambiental adecuado en la construcción?",
+    "options": [
+      "Mejorar la calidad del trabajo",
+      "Optimizar los recursos",
+      "Ignorar los requisitos de permisos",
+      "Reducir el presupuesto de la obra"
+    ],
+    "answer": "Optimizar los recursos",
+    "justification": "Optimizar los recursos y cumplir con los permisos demuestra un compromiso con la sostenibilidad y las normativas. Capítulo 11, página 11-5."
+  },
+  {
+    "question": "¿Qué beneficio trae cumplir con las normativas ambientales durante la ejecución de un proyecto?",
+    "options": [
+      "Mayor gasto económico",
+      "Sanciones y multas",
+      "Mejor imagen pública",
+      "Reducción de personal"
+    ],
+    "answer": "Mejor imagen pública",
+    "justification": "Cumplir con las regulaciones ambientales no solo evita sanciones, sino que también mejora la reputación del proyecto ante la comunidad. Capítulo 11, página 11-5."
+  }
+]
+
+
+
+
+
